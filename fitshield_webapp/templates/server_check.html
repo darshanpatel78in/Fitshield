@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Status API Checker</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            text-align: center;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .response {
+            margin-top: 20px;
+            text-align: left;
+        }
+        .success {
+            color: green;
+        }
+        .error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Status API Checker</h1>
+    <button onclick="checkStatus()">Check Connections</button>
+
+    <div class="response" id="response"></div>
+
+    <script>
+        function checkStatus() {
+            const apiUrl = "http://localhost:8000/api/status"; // Replace with your actual API URL
+
+            // Display a loading message
+            document.getElementById("response").innerHTML = "Checking status...";
+
+            fetch(apiUrl)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! Status: ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    let output = "<h2>Connection Status</h2><ul>";
+                    for (let key in data) {
+                        const statusClass = data[key].status ? "success" : "error";
+                        output += `<li><strong>${key.toUpperCase()}:</strong> <span class="${statusClass}">${data[key].message}</span></li>`;
+                    }
+                    output += "</ul>";
+                    document.getElementById("response").innerHTML = output;
+                })
+                .catch(error => {
+                    document.getElementById("response").innerHTML = `<span class="error">Error: ${error.message}</span>`;
+                });
+        }
+    </script>
+</body>
+</html>

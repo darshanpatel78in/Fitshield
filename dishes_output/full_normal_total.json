@@ -1,0 +1,277 @@
+[
+    {
+        "name": "WATER",
+        "quantity": 90.84,
+        "unit": "g"
+    },
+    {
+        "name": "PROTCNT",
+        "quantity": 18.78,
+        "unit": "g"
+    },
+    {
+        "name": "ASH",
+        "quantity": 1.75,
+        "unit": "g"
+    },
+    {
+        "name": "FATCE",
+        "quantity": 16.47,
+        "unit": "g"
+    },
+    {
+        "name": "FIBTG",
+        "quantity": 13.86,
+        "unit": "g"
+    },
+    {
+        "name": "FIBINS",
+        "quantity": 11.55,
+        "unit": "g"
+    },
+    {
+        "name": "FIBSOL",
+        "quantity": 2.26,
+        "unit": "g"
+    },
+    {
+        "name": "CHOAVLDF",
+        "quantity": 56.2,
+        "unit": "g"
+    },
+    {
+        "name": "ENERC",
+        "quantity": 475.87,
+        "unit": "kcal"
+    },
+    {
+        "name": "THIA",
+        "quantity": 0.31,
+        "unit": "mg"
+    },
+    {
+        "name": "RIBF",
+        "quantity": 0.1,
+        "unit": "mg"
+    },
+    {
+        "name": "NIA",
+        "quantity": 1.53,
+        "unit": "mg"
+    },
+    {
+        "name": "PANTAC",
+        "quantity": 1.22,
+        "unit": "mg"
+    },
+    {
+        "name": "VITB6C",
+        "quantity": 0.16,
+        "unit": "mg"
+    },
+    {
+        "name": "BIOT",
+        "quantity": 0.67,
+        "unit": "ug"
+    },
+    {
+        "name": "FOLSUM",
+        "quantity": 121.88,
+        "unit": "ug"
+    },
+    {
+        "name": "VITC",
+        "quantity": 3.88,
+        "unit": "ug"
+    },
+    {
+        "name": "ERGCAL",
+        "quantity": 3.91,
+        "unit": "ug"
+    },
+    {
+        "name": "RETOL",
+        "quantity": 0.13,
+        "unit": "ug"
+    },
+    {
+        "name": "CHOCAL",
+        "quantity": 0.0,
+        "unit": "ug"
+    },
+    {
+        "name": "VITK2",
+        "quantity": 0.0,
+        "unit": "ug"
+    },
+    {
+        "name": "VITE",
+        "quantity": 2.49,
+        "unit": "mg"
+    },
+    {
+        "name": "VITK1",
+        "quantity": 14.17,
+        "unit": "ug"
+    },
+    {
+        "name": "CARTOID",
+        "quantity": 757.73,
+        "unit": "ug"
+    },
+    {
+        "name": "AL",
+        "quantity": 0.68,
+        "unit": "mg"
+    },
+    {
+        "name": "AS",
+        "quantity": 0.0,
+        "unit": "ug"
+    },
+    {
+        "name": "CD",
+        "quantity": 0.0,
+        "unit": "mg"
+    },
+    {
+        "name": "CA",
+        "quantity": 41.74,
+        "unit": "mg"
+    },
+    {
+        "name": "CR",
+        "quantity": 0.01,
+        "unit": "mg"
+    },
+    {
+        "name": "CO",
+        "quantity": 0.02,
+        "unit": "mg"
+    },
+    {
+        "name": "CU",
+        "quantity": 0.68,
+        "unit": "mg"
+    },
+    {
+        "name": "FE",
+        "quantity": 5.0,
+        "unit": "mg"
+    },
+    {
+        "name": "PB",
+        "quantity": 0.01,
+        "unit": "mg"
+    },
+    {
+        "name": "LI",
+        "quantity": 0.0,
+        "unit": "mg"
+    },
+    {
+        "name": "MG",
+        "quantity": 91.25,
+        "unit": "mg"
+    },
+    {
+        "name": "MN",
+        "quantity": 1.84,
+        "unit": "mg"
+    },
+    {
+        "name": "HG",
+        "quantity": 2.01,
+        "unit": "ug"
+    },
+    {
+        "name": "MO",
+        "quantity": 0.04,
+        "unit": "mg"
+    },
+    {
+        "name": "NI",
+        "quantity": 0.1,
+        "unit": "mg"
+    },
+    {
+        "name": "P",
+        "quantity": 251.95,
+        "unit": "mg"
+    },
+    {
+        "name": "K",
+        "quantity": 737.33,
+        "unit": "mg"
+    },
+    {
+        "name": "SE",
+        "quantity": 36.57,
+        "unit": "ug"
+    },
+    {
+        "name": "NA",
+        "quantity": 518.83,
+        "unit": "mg"
+    },
+    {
+        "name": "ZN",
+        "quantity": 3.07,
+        "unit": "mg"
+    },
+    {
+        "name": "TCHO",
+        "quantity": 48.77,
+        "unit": "g"
+    },
+    {
+        "name": "STARCH",
+        "quantity": 47.47,
+        "unit": "g"
+    },
+    {
+        "name": "FRUS",
+        "quantity": 0.3,
+        "unit": "g"
+    },
+    {
+        "name": "GLUS",
+        "quantity": 0.27,
+        "unit": "g"
+    },
+    {
+        "name": "SUCS",
+        "quantity": 0.61,
+        "unit": "g"
+    },
+    {
+        "name": "MALS",
+        "quantity": 0.14,
+        "unit": "g"
+    },
+    {
+        "name": "TOTALFREESUGARS",
+        "quantity": 1.57,
+        "unit": ""
+    },
+    {
+        "name": "FASAT",
+        "quantity": 358.81,
+        "unit": "mg"
+    },
+    {
+        "name": "FAMS",
+        "quantity": 626.47,
+        "unit": "mg"
+    },
+    {
+        "name": "FAPU",
+        "quantity": 1812.72,
+        "unit": "mg"
+    },
+    {
+        "name": "CHOLC",
+        "quantity": 0.39,
+        "unit": "mg"
+    }
+]

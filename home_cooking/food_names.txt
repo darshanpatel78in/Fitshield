@@ -1,0 +1,2943 @@
+Milk, NFS
+Milk, whole (Includes: leche fresca)
+Milk, reduced fat (2%)
+Milk, low fat (1%)
+Milk, fat free (skim)
+Milk, lactose free, low fat (1%)
+Milk, lactose free, fat free (skim)
+Milk, lactose free, reduced fat (2%) (Includes: lactose free milk, NS as to fat content)
+Milk, lactose free, whole
+Buttermilk
+Kefir (Includes: fermented milk drink; all types)
+Goat milk
+Milk, dry, reconstituted, nonfat (Includes: NS as to fat content; 1% fat; 2% fat)
+Milk, dry, reconstituted, whole (Includes: Nido Fortificada)
+Milk, evaporated, NS as to fat content
+Milk, evaporated, whole
+Milk, evaporated, reduced fat (2%)
+Milk, evaporated, fat free (skim)
+Milk, condensed, sweetened (Includes: La Lechera)
+Non-dairy milk, NFS
+Soy milk, sweetened (Includes: NS as to sweetened)
+Soy milk, unsweetened (Includes: light)
+Soy milk, chocolate
+Almond milk, sweetened (Includes: cashew or other nut milk)
+Almond milk, NFS (Includes: cashew or other nut milk; NS as to sweetened)
+Rice milk
+Oat milk
+Coconut milk
+Yogurt, NFS
+Yogurt, Greek, NS as to type of milk or flavor
+Yogurt, NS as to type of milk or flavor
+Yogurt, NS as to type of milk, plain
+Yogurt, whole milk, plain
+Yogurt, low fat milk, plain (Includes: 1% fat; 2% fat; 99% fat free)
+Yogurt, nonfat milk, plain (Includes: 0% fat; fat free; light)
+Yogurt, Greek, NS as to type of milk, plain
+Yogurt, Greek, whole milk, plain
+Yogurt, Greek, low fat milk, plain (Includes: 2% fat; 1% fat; 99% fat free)
+Yogurt, Greek, nonfat milk, plain (Includes: 0% fat; fat free; light)
+Yogurt, NS as to type of milk, fruit
+Yogurt, whole milk, fruit
+Yogurt, low fat milk, fruit (Includes: 1% fat; 2% fat; 99% fat free)
+Yogurt, nonfat milk, fruit (Includes: 0% fat; fat free; light)
+Yogurt, Greek, NS as to type of milk, fruit
+Yogurt, Greek, whole milk, fruit
+Yogurt, Greek, low fat milk, fruit (Includes: 2% fat; 1% fat; 99% fat free)
+Yogurt, Greek, nonfat milk, fruit (Includes: 0% fat; fat free; light)
+Yogurt, NS as to type of milk, flavors other than fruit
+Yogurt, whole milk, flavors other than fruit
+Yogurt, low fat milk, flavors other than fruit (Includes: 1% fat; 2% fat; 99% fat free)
+Yogurt, nonfat milk, flavors other than fruit (Includes: 0% fat; fat free; light)
+Yogurt, Greek, NS as to type of milk, flavors other than fruit
+Yogurt, Greek, whole milk, flavors other than fruit
+Yogurt, Greek, low fat milk, flavors other than fruit (Includes: 1% fat; 2% fat; 99% fat free; light)
+Yogurt, Greek, nonfat milk, flavors other than fruit (Includes: 0% fat; fat free; light)
+Yogurt, liquid (Includes: all types)
+Yogurt tube (Includes: pouch; Go-gurt; all types)
+Frozen yogurt, NFS
+Milk, malted (Includes: Ovaltine)
+Milk, dry, not reconstituted
+Whey, sweet, dry
+Cocoa powder, not reconstituted (Includes: no dry milk)
+Milk, malted, dry mix, not reconstituted (Includes: Ovaltine; NS as to flavor)
+Cream, NS as to light, heavy, or half and half
+Cream, light (Includes: coffee cream; table cream)
+Cream, half and half (Includes: plain)
+Cream, half and half, flavored
+Cream, half and half, fat free (Includes: low fat; plain or flavored)
+Cream, heavy (Includes: whipping cream; NS as to heavy or light)
+Cream, whipped (Includes: heavy; light; Reddiwip; real whipped cream; plain or flavored)
+Sour cream, regular
+Sour cream, light (Includes: low fat; reduced fat)
+Sour cream, fat free (Includes: nonfat)
+Sour cream, imitation (Includes: nondairy)
+Ice cream, NFS (Includes: NS as to flavor)
+Ice cream, vanilla (Includes: other flavors; swirl; in a cup; scoop)
+Light ice cream, NFS
+Cheese, NFS
+Cheese, Blue or Roquefort (Includes: Gorgonzola; Stilton)
+Cheese, Brick (Includes: Beer; Elbinger; Zweizeitige; Wilstermarsch; Bondost; Oka; Havarti; Tilsit)
+Cheese, Camembert
+Cheese, Brie
+Cheese, Cheddar (Includes: Coon; sharp cheese; Tillamook; Hoop; Pioneer; New York; Wisconsin; Longhorn)
+Cheese, Cheddar, reduced fat (Includes: lowfat; part skim; made from 2% milk; Kraft natural reduced fat cheese; Weight Watchers reduced fat cheddar cheese; Colby/Colby Jack, reduced fat)
+Cheese, Cheddar, nonfat or fat free (Includes: Kraft nonfat natural cheese)
+Cheese, Colby
+Cheese, Colby Jack
+Cheese, Feta
+Cheese, Fontina
+Cheese, goat (Includes: Chevres)
+Cheese, Gouda or Edam (Includes: Caciocavallo; Delft)
+Cheese, Gruyere
+Cheese, Limburger
+Cheese, Monterey (Includes: Monterey Jack cheese; Pepper Jack cheese)
+Cheese, Monterey, reduced fat (Includes: Kraft Light Naturals Monterey Jack Cheese; lowfat; part skim; made from 2% milk; Pepper Jack cheese, reduced fat)
+Cheese, Mozzarella, NFS (Includes: pizza cheese; cheese curds)
+Cheese, Mozzarella, part skim (Includes: Chedarella Cheese; string cheese; cheese sticks, NS as to type of cheese; Poly-O; Stringsters; County Line; Richfood; Mootown Snackers; Sorrento; lowfat; reduced fat; made with 2% milk)
+Cheese, Mozzarella, reduced sodium (Includes: Sorrento Reduced Sodium String Cheese; less or lower sodium products)
+Cheese, Mozzarella, nonfat or fat free (Includes: fat free cheese sticks; fat free string cheese)
+Cheese, Muenster
+Cheese, Muenster, reduced fat (Includes: lowfat; part skim; made with 2% milk)
+Cheese, Parmesan, dry grated (Includes: Romano, grated; Asiago, aged)
+Cheese, Parmesan, dry grated, reduced fat (Includes: Kraft Reduced Fat Grated Topping; lowfat; part skim; made with 2% milk)
+Cheese, Parmesan, hard (Includes: Romano; Asiago, fresh; fresh grated)
+Cheese, Parmesan, dry grated, fat free (Includes: Kraft Free Nonfat Grated Topping)
+Cheese, Port du Salut
+Cheese, Provolone
+Cheese, provolone, reduced fat (Includes: lowfat; part skim; made from 2% milk)
+Cheese, Swiss (Includes: Emmentaler; Jarlsburg; Samsoe; Danbo; Sweitzer; Sapsago)
+Cheese, Swiss, reduced sodium (Includes: less or lower sodium products)
+Cheese, Swiss, reduced fat (Includes: lowfat; part skim; made from 2% milk)
+Cheese, Swiss, nonfat or fat free (Includes: made from skim milk)
+Cheese, Cheddar, reduced sodium (Includes: less or lower sodium products; Colby, reduced sodium)
+Cheese, Mexican blend (Includes: Kraft Mexican Four Cheese; Sargento Mexican 4 Cheese)
+Cheese, Mexican blend, reduced fat (Includes: Kraft Mexican Four Cheese made with 2% Milk; Sargento Mexican 4 Cheese Reduced Fat; lowfat; part skim; made from 2% milk)
+Queso Anejo, aged Mexican cheese (Includes: Queso Ranchero Seco)
+Queso Asadero (Includes: Oaxacan-style string cheese)
+Queso Fresco (Includes: Queso Ranchero; Mexican cheese, NFS)
+Queso cotija
+Cheese, cottage, NFS
+Cheese, cottage, creamed, large or small curd (Includes: regular (4% fat) cottage cheese)
+Cottage cheese, farmer's (Includes: pressed cheese)
+Cheese, Ricotta
+Cheese, cottage, with fruit (Includes: creamed or uncreamed; large or small curd; cottage cheese salad, NFS)
+Cheese, cottage, with vegetables
+Cheese, cottage, dry curd (Includes: baker's; dutch; skim; Quark Nonfat Soft Spreadable Cheese; pot)
+Cheese, cottage, salted, dry curd (Includes: Friendship Nonfat Cottage Cheese; nonfat cottage cheese; Light N Lively Free Nonfat Cottage Cheese)
+Puerto Rican white cheese (Includes: Queso del pais, Blanco)
+Cheese, cottage, low fat (Includes: 1-2% fat)
+Cheese, cottage, lowfat, with fruit
+Cheese, cottage, lowfat, low sodium (Includes: no salt added)
+Cheese, cottage, lowfat, lactose reduced (Includes: Lactaid)
+Cream cheese, regular, plain
+Cream cheese, regular, flavored
+Cream cheese, light (Includes: Neufchatel; reduced fat; 1/3 less fat; plain or flavored)
+Cheese, American and Swiss blends
+Cheese, American
+Cheese, American, reduced fat (Includes: lowfat; part skim; made from 2% milk)
+Cheese, American, nonfat or fat free
+Cheese, American, reduced sodium (Includes: less or lower sodium products)
+Cheese spread, American or Cheddar cheese base, reduced fat (Includes: Velveeta 2% milk or light; Laughing Cow Spreadable Cheese Wedges & Bites; lowfat; part skim; made with 2% milk)
+Cream cheese, fat free (Includes: plain or flavored)
+Cheese, processed cheese food (Includes: Handi-Snack cheese container)
+Cheese, processed, with vegetables (Includes: pepper cheese; pimiento)
+Cheese, with wine
+Cheese spread, American or Cheddar cheese base (Includes: Velveeta; Cheez Whiz (all flavors); cheese spread, NFS; Kraft Cheese Spreads; Kraft Bacon Cheese Spread; Original Laughing Cow Cheese Wedges & Bites)
+Cheese spread, Swiss cheese base (Includes: Swiss Almond cold pack cheese food)
+Cheese spread, cream cheese (Includes: Rondele Cheese Spread; plain or flavored)
+Cheese spread, pressurized can (Includes: Easy Cheese)
+Imitation cheese (Includes: American; cheddar; mozzarella; imitation cheese, NFS)
+Cheese, cottage cheese, with gelatin dessert (Includes: Jell-O)
+Cheese, cottage cheese, with gelatin dessert and fruit (Includes: Jell-O)
+Cheese, cottage cheese, with gelatin dessert and vegetables (Includes: Jell-O)
+Cheese ball (Includes: cheese with nuts)
+Cheese sauce
+Meat, NFS
+Meat, ground, NFS
+Beef, NFS
+Steak, NS as to type of meat, NS as to fat eaten
+Beef, steak, NFS
+Beef, steak, chuck (Includes: shoulder)
+Beef, steak, cube
+Beef, neck bones
+Beef, stew meat
+Beef, corned
+Beef, brisket
+Beef, sandwich steak
+Beef, ground, raw
+Beef, ground
+Beef, ground, patty (Includes: hamburger, no bread)
+Beef, bacon, cooked
+Beef, bacon, reduced sodium, cooked (Includes: less or lower sodium)
+Beef, dried, chipped, uncooked
+Beef, dried, chipped, cooked in fat
+Beef jerky (Includes: Slim Jim; Big Jerk; Super Jerk; Giant Jerk)
+Pork, NFS
+Pork, ground (Includes: patty)
+Pork, carnitas (Includes: shredded)
+Pork jerky
+Pork, chop, NS as to fat eaten (Includes: NS as to coated)
+Pork, chop, lean and fat eaten (Includes: NS as to coated)
+Pork, chop, lean only eaten (Includes: NS as to coated)
+Pork, chop, coated, NS as to fat eaten
+Pork, chop, coated, lean and fat eaten
+Pork, chop, coated, lean only eaten
+Pork, chop, stuffed
+Pork, steak, NS as to fat eaten (Includes: cutlet; NS as to coated)
+Pork, steak, lean and fat eaten (Includes: cutlet; NS as to coated)
+Pork, steak, lean only eaten (Includes: cutlet; NS as to coated)
+Pork, steak, coated (Includes: cutlet)
+Pork, tenderloin
+Ham (Includes: sliced)
+Ham, prosciutto
+Ham, canned
+Ham, ground (Includes: patty)
+Pork, roast
+Pork, roll
+Canadian bacon, cooked
+Bacon, NS as to type of meat, cooked
+Bacon, NS as to type of meat, reduced sodium, cooked (Includes: less or lower sodium)
+Pork bacon, NS as to fresh, smoked or cured, cooked
+Pork bacon, NS as to fresh, smoked or cured, reduced sodium, cooked (Includes: less or lower sodium)
+Pork bacon, smoked or cured, cooked
+Bacon or side pork, fresh, cooked
+Pork bacon, smoked or cured, reduced sodium, cooked (Includes: less or lower sodium)
+Fat back, cooked (Includes: hog jowl; salt pork)
+Ribs, NFS (Includes: barbecue; with or without sauce)
+Pork, ribs (Includes: spareribs; baby back; barbecue; with or without sauce)
+Pork, cracklings (Includes: pork skin)
+Pork, ears (Includes: tail, head, snout, miscellaneous parts)
+Pork, bones
+Pork, pig's feet
+Pork, pig's feet, pickled (Includes: pickled pork)
+Pork, ham hocks
+Pork, belly
+Pork skin rinds (Includes: snack type)
+Lamb, NS as to cut (Includes: mutton)
+Lamb, chop (Includes: mutton chop)
+Lamb, ground (Includes: mutton; patty)
+Goat
+Veal, chop (Includes: cutlet; veal, NFS)
+Veal, ground (Includes: patty)
+Mock chicken legs
+Rabbit
+Venison, NFS (Includes: deer; elk; antelope; game meat)
+Venison, steak (Includes: elk; ground; deer; antelope)
+Venison/deer jerky
+Venison sausage (Includes: deer; caribou; elk; antelope)
+Moose
+Bear
+Caribou
+Bison (Includes: buffalo)
+Groundhog
+Opossum (Includes: possum)
+Squirrel
+Beaver
+Raccoon
+Armadillo
+Wild pig
+Ostrich (Includes: emu)
+Chicken, NS as to part and cooking method, NS as to skin eaten (Includes: any source)
+Chicken, NS as to part and cooking method, skin eaten (Includes: any source)
+Chicken, NS as to part and cooking method, skin not eaten (Includes: any source)
+Chicken, NS as to part, baked, broiled, or roasted, NS as to skin eaten (Includes: any source)
+Chicken, NS as to part, baked, broiled, or roasted, skin eaten (Includes: any source)
+Chicken, NS as to part, baked, broiled, or roasted, skin not eaten (Includes: any source)
+Chicken, NS as to part, rotisserie, NS as to skin eaten (Includes: roasted and pre-cooked, ready-to-eat, ready-to-heat; fast food, restaurant, school, or other place; rotisserie from any source)
+Chicken, NS as to part, rotisserie, skin eaten (Includes: roasted and pre-cooked, ready-to-eat, ready-to-heat; fast food, restaurant, school, or other place; rotisserie from any source; NS as to skin eaten)
+Chicken, NS as to part, rotisserie, skin not eaten (Includes: roasted and pre-cooked, ready-to-eat, ready-to-heat; fast food, restaurant, school, or other place; rotisserie from any source)
+Chicken, NS as to part, stewed, NS as to skin eaten (Includes: braised; any source)
+Chicken, NS as to part, stewed, skin eaten (Includes: braised; any source)
+Chicken, NS as to part, stewed, skin not eaten (Includes: braised; any source)
+Chicken, NS as to part, grilled without sauce, NS as to skin eaten (Includes: barbecued without sauce; any source)
+Chicken, NS as to part, grilled without sauce, skin eaten (Includes: barbecued without sauce; any source)
+Chicken, NS as to part, grilled without sauce, skin not eaten (Includes: barbecued without sauce; any source)
+Chicken, NS as to part, grilled with sauce, NS as to skin eaten (Includes: barbecued with sauce; any source; with sauce or marinade)
+Chicken, NS as to part, grilled with sauce, skin eaten (Includes: barbecued with sauce; any source; with sauce or marinade)
+Chicken, NS as to part, grilled with sauce, skin not eaten (Includes: barbecued with sauce; any source; with sauce or marinade)
+Chicken, NS as to part, sauteed, skin eaten (Includes: any source; with or without fat)
+Chicken, NS as to part, sauteed, skin not eaten (Includes: any source; NS as to skin eaten; with or without fat)
+Chicken, NS as to part, fried, coated, skin / coating eaten (Includes: sauteed with coating; NS as to prepared with skin; NS as to coated or uncoated; any source; prepared skinless)
+Chicken, NS as to part, fried, coated, skin / coating not eaten (Includes: sauteed with coating; NS as to skin / coating eaten; any source)
+Chicken, NS as to part, baked, coated, skin / coating eaten (Includes: broiled or roasted with coating; NS as to prepared with skin; NS as to coated or uncoated; any source; prepared skinless)
+Chicken, NS as to part, baked, coated, skin / coating not eaten (Includes: broiled or roasted with coating; NS as to skin / coating eaten; any source)
+Chicken breast, NS as to cooking method, skin eaten (Includes: any source)
+Chicken breast, NS as to cooking method, skin not eaten (Includes: NS as to skin eaten; any source)
+Chicken breast, baked, broiled, or roasted, skin eaten, from raw
+Chicken breast, baked, broiled, or roasted, skin not eaten, from raw (Includes: NS as to skin eaten)
+Chicken breast, baked or broiled, skin eaten, from pre-cooked (Includes: ready-to-eat; ready-to-heat; from school or other place)
+Chicken breast, baked or broiled, skin not eaten, from pre-cooked (Includes: ready-to-eat; ready-to heat; NS as to skin eaten; from school or other place)
+Chicken breast, baked or broiled, skin eaten, from fast food / restaurant
+Chicken breast, baked or broiled, skin not eaten, from fast food / restaurant (Includes: NS as to skin eaten)
+Chicken breast, baked, broiled, or roasted with marinade, skin eaten, from raw (Includes: any source)
+Chicken breast, baked, broiled, or roasted with marinade, skin not eaten, from raw (Includes: NS as to skin eaten; any source)
+Chicken breast, rotisserie, skin eaten (Includes: roasted and pre-cooked, ready-to-eat, ready-to-heat; fast food, restaurant, school, or other place; NS as to skin eaten; rotisserie from any source)
+Chicken breast, rotisserie, skin not eaten (Includes: rotisserie chicken, NFS; roasted and pre-cooked, ready-to-eat, ready-to-heat; fast food, restaurant, school, or other place; rotisserie from any source)
+Chicken breast, stewed, skin eaten (Includes: braised; any source)
+Chicken breast, stewed, skin not eaten (Includes: braised; NS as to skin eaten; any source)
+Chicken breast, grilled without sauce, skin eaten (Includes: barbecued without sauce; any source)
+Chicken breast, grilled without sauce, skin not eaten (Includes: barbecued without sauce; NS as to skin eaten; any source)
+Chicken breast, grilled with sauce, skin eaten (Includes: barbecued with sauce; any source; with sauce or marinade)
+Chicken breast, grilled with sauce, skin not eaten (Includes: barbecued with sauce; any source; with sauce or marinade)
+Chicken breast, sauteed, skin eaten (Includes: any source; with or without fat)
+Chicken breast, sauteed, skin not eaten (Includes: any source; NS as to skin eaten; with or without fat)
+Chicken breast, fried, coated, skin / coating eaten, from raw (Includes: sauteed with coating; NS as to prepared with skin; NS as to coated or uncoated)
+Chicken breast, fried, coated, skin / coating not eaten, from raw (Includes: sauteed with coating; NS as to prepared with skin; NS as to coated or uncoated)
+Chicken breast, fried, coated, prepared skinless, coating eaten, from raw (Includes: sauteed with coating; NS as to skin / coating eaten)
+Chicken breast, fried, coated, skin / coating eaten, from pre-cooked (Includes: sauteed with coating; ready-to-eat; ready-to-heat; NS as to prepared with skin; NS as to coated or uncoated; from school or other place; prepared skinless)
+Chicken breast, fried, coated, skin / coating not eaten, from pre-cooked (Includes: sauteed with coating; ready-to-eat; ready-to-heat; NS as to prepared with skin; NS as to coated or uncoated; from school or other place)
+Chicken breast, fried, coated, skin / coating eaten, from fast food / restaurant (Includes: sauteed with coating; NS as to prepared with skin; NS as to coated or uncoated; prepared skinless)
+Chicken breast, fried, coated, skin / coating not eaten, from fast food / restaurant (Includes: sauteed with coating; NS as to prepared with skin; NS as to coated or uncoated)
+Chicken breast, baked, coated, skin / coating eaten (Includes: broiled or roasted with coating; NS as to prepared with skin; NS as to coated or uncoated; any source; prepared skinless)
+Chicken breast, baked, coated, skin / coating not eaten (Includes: broiled or roasted with coating; NS as to prepared with skin; NS as to coated or uncoated; any source)
+Chicken leg, drumstick and thigh, NS as to cooking method, skin eaten (Includes: NS as to skin eaten; any source)
+Chicken leg, drumstick and thigh, NS as to cooking method, skin not eaten (Includes: any source)
+Chicken leg, drumstick and thigh, baked or broiled, skin eaten (Includes: roasted from raw; NS as to skin eaten; any source)
+Chicken leg, drumstick and thigh, baked or broiled, skin not eaten (Includes: roasted from raw; any source)
+Chicken leg, drumstick and thigh, rotisserie, skin eaten (Includes: roasted and pre-cooked, ready-to-eat, ready-to-heat; fast food, restaurant, school, or other place; rotisserie from any source; NS as to skin eaten)
+Chicken leg, drumstick and thigh, rotisserie, skin not eaten (Includes: roasted and pre-cooked, ready-to-eat, ready-to-heat; fast food, restaurant, school, or other place; rotisserie from any source)
+Chicken leg, drumstick and thigh, stewed, skin eaten (Includes: braised; NS as to skin eaten; any source)
+Chicken leg, drumstick and thigh, stewed, skin not eaten (Includes: braised; any source)
+Chicken leg, drumstick and thigh, grilled without sauce, skin eaten (Includes: barbecued without sauce; NS as to skin eaten; any source)
+Chicken leg, drumstick and thigh, grilled without sauce, skin not eaten (Includes: barbecued without sauce; any source)
+Chicken leg, drumstick and thigh, grilled with sauce, skin eaten (Includes: barbecued with sauce; any source; with sauce or marinade)
+Chicken leg, drumstick and thigh, grilled with sauce, skin not eaten (Includes: barbecued with sauce; any source; with sauce or marinade)
+Chicken leg, drumstick and thigh, sauteed, skin eaten (Includes: any source; with or without fat)
+Chicken leg, drumstick and thigh, sauteed, skin not eaten (Includes: any source; NS as to skin eaten; with or without fat)
+Chicken leg, drumstick and thigh, fried, coated, skin / coating eaten (Includes: sauteed with coating; NS as to prepared with skin; NS as to coated or uncoated; NS as to skin / coating eaten; any source; prepared skinless)
+Chicken leg, drumstick and thigh, fried, coated, skin / coating not eaten (Includes: sauteed with coating; NS as to prepared with skin; NS as to coated or uncoated; any source)
+Chicken leg, drumstick and thigh, baked, coated, skin / coating eaten (Includes: broiled or roasted with coating; NS as to prepared with skin; NS as to coated or uncoated; NS as to skin / coating eaten; any source; prepared skinless)
+Chicken leg, drumstick and thigh, baked, coated, skin / coating not eaten (Includes: broiled or roasted with coating; NS as to prepared with skin; NS as to coated or uncoated; any source)
+Chicken drumstick, NS as to cooking method, skin eaten (Includes: NS as to skin eaten; any source)
+Chicken drumstick, NS as to cooking method, skin not eaten (Includes: any source)
+Chicken drumstick, baked, broiled, or roasted, skin eaten, from raw (Includes: NS as to skin eaten)
+Chicken drumstick, baked, broiled, or roasted, skin not eaten, from raw
+Chicken drumstick, baked or broiled, skin eaten, from pre-cooked (Includes: ready-to-eat; ready-to-heat; NS as to skin eaten; from school or other place)
+Chicken drumstick, baked or broiled, skin not eaten, from pre-cooked (Includes: ready-to-eat; ready-to heat; from school or other place)
+Chicken drumstick, baked or broiled, skin eaten, from fast food / restaurant (Includes: NS as to skin eaten)
+Chicken drumstick, baked or broiled, skin not eaten, from fast food / restaurant
+Chicken drumstick, rotisserie, skin eaten (Includes: roasted and pre-cooked, ready-to-eat, ready-to-heat; fast food, restaurant, school, or other place; rotisserie from any source; NS as to skin eaten)
+Chicken drumstick, rotisserie, skin not eaten (Includes: roasted and pre-cooked, ready-to-eat, ready-to-heat; fast food, restaurant, school, or other place; rotisserie from any source)
+Chicken drumstick, grilled without sauce, skin eaten (Includes: barbecued without sauce; NS as to skin eaten; any source)
+Chicken drumstick, grilled without sauce, skin not eaten (Includes: barbecued without sauce; any source)
+Chicken drumstick, grilled with sauce, skin eaten (Includes: barbecued with sauce; any source; with sauce or marinade)
+Chicken drumstick, grilled with sauce, skin not eaten (Includes: barbecued with sauce; any source; with sauce or marinade)
+Chicken drumstick, stewed, skin eaten (Includes: braised; NS as to skin eaten; any source)
+Chicken drumstick, stewed, skin not eaten (Includes: braised; any source)
+Chicken drumstick, sauteed, skin eaten (Includes: any source; with or without fat)
+Chicken drumstick, sauteed, skin not eaten (Includes: any source; NS as to skin eaten; with or without fat)
+Chicken drumstick, fried, coated, skin / coating eaten, from raw (Includes: sauteed with coating; NS as to prepared with skin; NS as to coated or uncoated; NS as to skin / coating eaten)
+Chicken drumstick, fried, coated, skin / coating not eaten, from raw (Includes: sauteed with coating; NS as to prepared with skin; NS as to coated or uncoated)
+Chicken drumstick, fried, coated, prepared skinless, coating eaten, from raw (Includes: sauteed with coating)
+Chicken drumstick, fried, coated, skin / coating eaten, from pre-cooked (Includes: sauteed with coating; ready-to-eat; ready-to-heat; NS as to prepared with skin; NS as to coated or uncoated; NS as to skin / coating eaten; from school or other place; prepared skinless)
+Chicken drumstick, fried, coated, skin / coating not eaten, from pre-cooked (Includes: sauteed with coating; ready-to-eat; ready-to-heat; NS as to prepared with skin; NS as to coated or uncoated; from school or other place)
+Chicken drumstick, fried, coated, skin / coating eaten, from fast food / restaurant (Includes: sauteed with coating; NS as to prepared with skin; NS as to coated or uncoated; NS as to skin / coating eaten; prepared skinless)
+Chicken drumstick, fried, coated, skin / coating not eaten, from fast food / restaurant (Includes: sauteed with coating; NS as to prepared with skin; NS as to coated or uncoated)
+Chicken drumstick, baked, coated, skin / coating eaten (Includes: broiled or roasted with coating; NS as to prepared with skin; NS as to coated or uncoated; NS as skin / coating eaten; any source; prepared skinless)
+Chicken drumstick, baked, coated, skin / coating not eaten (Includes: broiled or roasted with coating; NS as to prepared with skin; NS as to coated or uncoated; any source)
+Chicken thigh, NS as to cooking method, skin eaten (Includes: NS as to skin eaten; any source)
+Chicken thigh, NS as to cooking method, skin not eaten (Includes: any source)
+Chicken thigh, baked, broiled, or roasted, skin eaten, from raw (Includes: NS as to skin eaten)
+Chicken thigh, baked, broiled, or roasted, skin not eaten, from raw
+Chicken thigh, baked or broiled, skin eaten, from pre-cooked (Includes: ready-to-eat; ready-to-heat; NS as to skin eaten; from school or other place)
+Chicken thigh, baked or broiled, skin not eaten, from pre-cooked (Includes: ready-to-eat; ready-to heat; from school or other place)
+Chicken thigh, baked or broiled, skin eaten, from fast food / restaurant (Includes: NS as to skin eaten)
+Chicken thigh, baked or broiled, skin not eaten, from fast food / restaurant
+Chicken thigh, rotisserie, skin eaten (Includes: roasted and pre-cooked, ready-to-eat, ready-to-heat; fast food, restaurant, school, or other place; rotisserie from any source; NS as to skin eaten)
+Chicken thigh, rotisserie, skin not eaten (Includes: roasted and pre-cooked, ready-to-eat, ready-to-heat; fast food, restaurant, school, or other place; rotisserie from any source)
+Chicken thigh, stewed, skin eaten (Includes: braised; NS as to skin eaten; any source)
+Chicken thigh, stewed, skin not eaten (Includes: braised; any source)
+Chicken thigh, grilled without sauce, skin eaten (Includes: barbecued without sauce; NS as to skin eaten; any source)
+Chicken thigh, grilled without sauce, skin not eaten (Includes: barbecued without sauce; any source)
+Chicken thigh, grilled with sauce, skin eaten (Includes: barbecued with sauce; any source; with sauce or marinade)
+Chicken thigh, grilled with sauce, skin not eaten (Includes: barbecued with sauce; any source; with sauce or marinade)
+Chicken thigh, sauteed, skin eaten (Includes: any source; with or without fat)
+Chicken thigh, sauteed, skin not eaten (Includes: any source; NS as to skin eaten; with or without fat)
+Chicken thigh, fried, coated, skin / coating eaten, from raw (Includes: sauteed with coating; NS as to prepared with skin; NS as to coated or uncoated; NS as to skin / coating eaten)
+Chicken thigh, fried, coated, skin / coating not eaten, from raw (Includes: sauteed with coating; NS as to prepared with skin; NS as to coated or uncoated)
+Chicken thigh, fried, coated, prepared skinless, coating eaten, from raw (Includes: sauteed with coating)
+Chicken thigh, fried, coated, skin / coating eaten, from pre-cooked (Includes: sauteed with coating; ready-to-eat; ready-to-heat; NS as to prepared with skin; NS as to coated or uncoated; NS as to skin / coating eaten; from school or other place; prepared skinless)
+Chicken thigh, fried, coated, skin / coating not eaten, from pre-cooked (Includes: sauteed with coating; ready-to-eat; ready-to-heat; NS as to prepared with skin; NS as to coated or uncoated; from school or other place)
+Chicken thigh, fried, coated, skin / coating eaten, from fast food (Includes: sauteed with coating; NS as to prepared with skin; NS as to coated or uncoated; NS as to skin / coating eaten; prepared skinless)
+Chicken thigh, fried, coated, skin / coating not eaten, from fast food (Includes: sauteed with coating; NS as to prepared with skin; NS as to coated or uncoated)
+Chicken thigh, fried, coated, skin / coating eaten, from restaurant (Includes: sauteed with coating; NS as to prepared with skin; NS as to coated or uncoated; NS as to skin / coating eaten; prepared skinless)
+Chicken thigh, fried, coated, skin / coating not eaten, from restaurant (Includes: sauteed with coating; NS as to prepared with skin; NS as to coated or uncoated)
+Chicken thigh, baked, coated, skin / coating eaten (Includes: broiled or roasted with coating; NS as to prepared with skin; NS as to coated or uncoated; NS as to skin / coating eaten; any source; prepared skinless)
+Chicken thigh, baked, coated, skin / coating not eaten (Includes: broiled or roasted with coating; NS as to prepared with skin; NS as to coated or uncoated; any source)
+Chicken wing, NS as to cooking method (Includes: drummette without sauce or seasoning; any source)
+Chicken wing, baked, broiled, or roasted, from raw (Includes: drummette without sauce or seasoning, from raw)
+Chicken wing, baked or broiled, from pre-cooked (Includes: ready-to-eat; from school or other place)
+Chicken wing, baked or broiled, from fast food / restaurant
+Chicken wing, rotisserie (Includes: roasted and pre-cooked, ready-to-eat; fast food, restaurant, school, or other place; rotisserie from any source)
+Chicken wing, stewed (Includes: braised; stewed drummette, from raw; stewed wings from any source)
+Chicken wing, grilled without sauce (Includes: barbecued without sauce; drummette without sauce or seasoning, from raw; grilled wings from any source)
+Chicken wing, grilled with sauce (Includes: barbecued with sauce; any source; with sauce or marinade)
+Chicken wing, sauteed (Includes: with or without fat added in cooking; sauteed wings from any source; sauteed drummette, from raw)
+Chicken wing, fried, coated, from raw (Includes: sauteed with coating; drummette without sauce or seasoning, from raw; NS as to coated or uncoated)
+Chicken wing, fried, coated, from pre-cooked (Includes: sauteed with coating; ready-to-eat; NS as to coated or uncoated; from school or other place)
+Chicken wing, fried, coated, from fast food (Includes: sauteed with coating; NS as to coated or uncoated)
+Chicken wing, fried, coated, from restaurant (Includes: sauteed with coating; NS as to coated or uncoated)
+Chicken wing, baked, coated (Includes: broiled or roasted with coating; drummette without sauce or seasoning, from raw; NS as to coated or uncoated; any source)
+Chicken, back
+Chicken, neck or ribs
+Chicken, tail
+Chicken skin
+Chicken feet
+Chicken, chicken roll, roasted
+Chicken patty, breaded (Includes: all sources; from fast food, restaurant, school, frozen, homemade, or other sources)
+Chicken fillet, breaded (Includes: all sources; from fast food, restaurant, school, frozen, homemade, or other sources)
+Chicken fillet, grilled (Includes: all sources; from fast food, restaurant, school, frozen, homemade, or other sources; chicken fillet without breading; chicken nugget, tender, patty without breading)
+Chicken, ground
+Chicken nuggets, NFS
+Chicken nuggets, from fast food (Includes: McDonald's Chicken McNuggets; Burger King; Wendy's; KFC Bites)
+Turkey, NFS
+Turkey, light meat, skin not eaten (Includes: turkey cutlet; NS as to skin eaten; any source)
+Turkey, light meat, skin eaten (Includes: any source)
+Turkey, light meat, breaded, baked or fried, skin not eaten (Includes: any source)
+Turkey, light meat, breaded, baked or fried, skin eaten (Includes: NS as to skin eaten; any source)
+Turkey, light meat, roasted, skin not eaten (Includes: any source)
+Turkey, light meat, roasted, skin eaten (Includes: NS as to skin eaten; any source)
+Turkey, dark meat, roasted, skin not eaten (Includes: any source)
+Turkey, dark meat, roasted, skin eaten (Includes: NS as to skin eaten; any source)
+Turkey, light and dark meat, roasted, skin not eaten (Includes: any source)
+Turkey, light and dark meat, roasted, skin eaten (Includes: NS as to skin eaten; any source)
+Turkey, light or dark meat, fried, coated, skin not eaten (Includes: sauteed with coating; NS as to coated or uncoated; any source)
+Turkey, light or dark meat, fried, coated, skin eaten (Includes: sauteed with coating; NS as to coated or uncoated; NS as to skin eaten; any source)
+Turkey, light or dark meat, stewed, skin not eaten (Includes: braised; any source)
+Turkey light or dark meat, stewed, skin eaten (Includes: braised; NS as to skin eaten; any source)
+Turkey, light or dark meat, smoked, skin eaten (Includes: NS as to skin eaten; any source)
+Turkey, light or dark meat, smoked, skin not eaten (Includes: any source)
+Turkey, drumstick, cooked, skin not eaten (Includes: any source)
+Turkey, thigh, cooked, skin eaten (Includes: NS as to skin eaten; any source)
+Turkey, thigh, cooked, skin not eaten (Includes: any source)
+Turkey, neck
+Turkey, wing, cooked, skin not eaten (Includes: any source)
+Turkey, wing, cooked, skin eaten (Includes: NS as to skin eaten; any source)
+Turkey, tail
+Turkey, back
+Turkey, canned
+Turkey, ground
+Duck, Peking
+Goose, wild, roasted
+Cornish game hen, cooked, skin eaten (Includes: NS as to skin eaten; any source)
+Cornish game hen, cooked, skin not eaten (Includes: any source)
+Cornish game hen, roasted, skin eaten (Includes: NS as to skin eaten; any source)
+Cornish game hen, roasted, skin not eaten (Includes: any source)
+Dove, cooked, NS as to cooking method (Includes: squab; pigeon)
+Dove, fried (Includes: squab; pigeon)
+Quail, cooked (Includes: partridge)
+Pheasant, cooked (Includes: grouse)
+Liver, beef (Includes: calves or veal liver; liver, NFS)
+Liver, chicken (Includes: turkey; other poultry liver)
+Liver, paste or pate
+Hog maws
+Gizzard (Includes: giblets)
+Hot dog, NFS
+Hot dog, beef
+Hot dog, meat and poultry (Includes: regular; pork)
+Hot dog, reduced fat (Includes: fat free; reduced sodium)
+Hot dog, turkey (Includes: chicken)
+Beef sausage (Includes: fresh, smoked, heat and serve, brown and serve, pre-cooked, or NFS; bulk, crumbled, link, patty, or stick; breakfast sausage; half smoke)
+Blood sausage (Includes: blutwurst; blood pudding)
+Bratwurst (Includes: all meats (pork, beef, chicken, turkey))
+Bratwurst, with cheese
+Bologna (Includes: bologna, NFS)
+Bologna, reduced fat (Includes: light; low fat; fat free)
+Bologna, reduced sodium (Includes: unsalted; no salt added; reduced fat)
+Chorizo (Includes: Spanish sausage; lenguica; Portuguese sausage; all meats / poultry)
+Head cheese (Includes: jellied pork; hog's head cheese; pork head cheese)
+Knockwurst (Includes: Knoblauch; all meats / poultry)
+Mortadella
+Pastrami, NFS (Includes: made from any kind of meat)
+Pastrami, made from any kind of meat, reduced fat (Includes: low fat; lean; fat free)
+Pepperoni, NFS
+Pepperoni, reduced fat (Includes: low fat; lean; fat free)
+Pepperoni, reduced sodium (Includes: lightly salted; unsalted; no salt added; all fat levels - regular, reduced fat, low fat, or fat free; lean or extra lean)
+Polish sausage (Includes: Kielbasa; all meats / poultry)
+Italian sausage (Includes: hot links; all meats / poultry)
+Sausage, NFS (Includes: not cold cut)
+Pork sausage (Includes: fresh, smoked, heat and serve, brown and serve, pre-cooked, or NFS; bulk, crumbled, link, patty, or stick; breakfast sausage, NS as to meat; brown and serve sausage, NFS; smoked sausage, NFS; Half smoke)
+Pork sausage, reduced fat (Includes: beef; low fat or light)
+Pork sausage, reduced sodium (Includes: beef, turkey or chicken)
+Pork and beef sausage (Includes: fresh, smoked, heat and serve, brown and serve, pre-cooked, or NFS; bulk, crumbled, link, patty, or stick; breakfast sausage; Half smoke)
+Salami, NFS (Includes: any kind or variety; made from any type of meat)
+Salami, made from any type of meat, reduced fat (Includes: any kind or variety; low fat; lean; fat free)
+Salami, made from any type of meat, reduced sodium (Includes: any kind or variety; lightly salted; unsalted; no salt added)
+Scrapple, cooked
+Thuringer (Includes: summer sausage)
+Turkey or chicken sausage (Includes: reduced fat; low fat or light; turkey or chicken and beef)
+Turkey or chicken sausage, reduced sodium (Includes: fresh, smoked, heat and serve, brown and serve, pre-cooked, or NFS; bulk, crumbled, link, patty, or stick; breakfast sausage; less or lower sodium)
+Turkey or chicken and pork sausage (Includes: Jimmy Dean Light Turkey and Pork, 77% Fat Free, Sausage; fresh, smoked, heat and serve, brown and serve, pre-cooked, or NFS; bulk, crumbled, link, patty, or stick; breakfast sausage)
+Vienna sausage, canned (Includes: beef, pork, and chicken)
+Ham, prepackaged or deli, luncheon meat (Includes: boiled ham; all fat levels - regular, reduced fat, low fat or fat free; lean or extra lean; ham lunch meat, NFS)
+Ham, prepackaged or deli, luncheon meat, reduced sodium (Includes: low salt boiled ham; lightly salted; unsalted; no salt added; all fat levels - regular, reduced fat, low fat, or fat free; lean or extra lean)
+Chicken, prepackaged or deli, luncheon meat (Includes: breast, loaf, chicken lunch meat, NFS; all fat levels - regular, reduced fat, low fat, or fat free; lean or extra lean)
+Chicken, prepackaged or deli, luncheon meat, reduced sodium (Includes: lightly salted; unsalted; no salt added; all fat levels - regular, reduced fat, low fat, or fat free; lean or extra lean)
+Ham luncheon meat, loaf type (Includes: ham loaf; ham and cheese loaf; ham sausage; hamettes; chopped, minced, pressed, spiced ham, not canned)
+Spam (Includes: Treet)
+Spam, reduced sodium (Includes: Treet; reduced fat)
+Liverwurst (Includes: liver cheese; Braunschweiger; liver sausage; liver loaf; liver pudding; liver bacon; goose bacon; goose liver sausage; liver mush)
+Luncheon meat, loaf type (Includes: olive, pickle, or pimiento loaf; old fashioned loaf, Dutch loaf, pepperloaf, praski, honey loaf, veal loaf)
+Turkey, prepackaged or deli, luncheon meat (Includes: breast, loaf, turkey lunch meat, NFS; all fat levels - regular, reduced fat, low fat, or fat free; lean or extra lean)
+Turkey, prepackaged or deli, luncheon meat, reduced sodium (Includes: lightly salted; unsalted; no salt added; all fat levels - regular, reduced fat, low fat, or fat free; lean or extra lean)
+Turkey ham, prepackaged or deli, luncheon meat (Includes: all fat levels - regular, reduced fat, low fat, or fat free; lean or extra lean)
+Beef, prepackaged or deli, luncheon meat (Includes: deli roast beef)
+Beef, prepackaged or deli, luncheon meat, reduced sodium (Includes: deli roast beef; lightly salted; unsalted; no salt added)
+Meat spread or potted meat, NFS (Includes: beef, pork, ham, any type of meat)
+Fish, raw (Includes: any type other than salmon or tuna)
+Fish, NFS
+Fish, NS as to type, baked or broiled (Includes: sauteed; grilled; NS as to coated)
+Fish, NS as to type, baked or broiled, coated
+Fish, NS as to type, fried
+Fish, NS as to type, steamed (Includes: poached)
+Fish, canned (Includes: any type other than salmon or tuna)
+Fish, smoked (Includes: any type other than salmon; dried)
+Fish, stick (Includes: nugget)
+Fish, anchovy
+Fish, carp
+Fish, catfish, NFS
+Fish, catfish, baked or broiled (Includes: sauteed; NS as to coated)
+Fish, catfish, grilled
+Fish, catfish, baked or broiled, coated
+Fish, catfish, fried
+Fish, catfish, steamed (Includes: poached)
+Fish, cod, NFS
+Fish, cod, baked or broiled (Includes: sauteed: NS as to coated)
+Fish, cod, grilled
+Fish, cod, baked or broiled, coated
+Fish, cod, fried
+Fish, cod, steamed (Includes: poached)
+Fish, croaker (Includes: kingfish)
+Fish, eel
+Fish, flounder, NFS (Includes: sole; flatfish)
+Fish, flounder, baked or broiled (Includes: sauteed; sole; flatfish; NS as to coated)
+Fish, flounder, grilled (Includes: sole; flatfish)
+Fish, flounder, baked or broiled, coated (Includes: sole; flatfish)
+Fish, flounder, fried (Includes: sole; flatfish)
+Fish, flounder, steamed (Includes: sole; flatfish; poached)
+Fish, haddock, NFS (Includes: pollock; scrod)
+Fish, haddock, baked or broiled (Includes: sauteed; pollock; scrod; NS as to coated)
+Fish, haddock, grilled (Includes: pollock; scrod)
+Fish, haddock, baked or broiled, coated (Includes: pollock; scrod)
+Fish, haddock, fried (Includes: pollock; scrod)
+Fish, haddock, steamed (Includes: pollock; scrod; poached)
+Fish, halibut
+Fish, herring (Includes: milkfish)
+Fish, pickled (Includes: any type)
+Fish, mackerel, NFS (Includes: wahoo; jack)
+Fish, mackerel, baked or broiled (Includes: sauteed; wahoo; jack; NS as to coated)
+Fish, mackerel, grilled (Includes: wahoo; jack)
+Fish, mackerel, baked or broiled, coated (Includes: wahoo; jack)
+Fish, mackerel, fried (Includes: wahoo; jack)
+Fish, mackerel, canned
+Fish, mullet
+Fish, perch, NFS (Includes: crappie; walleye; orange roughy; redfish; rockfish)
+Fish, perch, baked or broiled (Includes: sauteed; crappie; walleye; orange roughy; redfish; rockfish; NS as to coated)
+Fish, perch, grilled (Includes: crappie; walleye; orange roughy; redfish; rockfish)
+Fish, perch, baked or broiled, coated (Includes: crappie; walleye; orange roughy; redfish; rockfish)
+Fish, perch, fried (Includes: crappie; walleye; orange roughy; redfish; rockfish)
+Fish, perch, steamed (Includes: orange roughy; redfish; rockfish; crappie; walleye; poached)
+Fish, pike
+Fish, pompano, NFS (Includes: butterfish; mahimahi)
+Fish, pompano, baked or broiled (Includes: sauteed; butterfish; mahimahi; NS as to coated)
+Fish, pompano, grilled (Includes: butterfish; mahimahi)
+Fish, pompano, baked or broiled, coated (Includes: butterfish; mahimahi)
+Fish, pompano, fried (Includes: butterfish; mahimahi)
+Fish, pompano, steamed (Includes: butterfish; mahimahi; poached)
+Fish, snapper (Includes: porgy)
+Fish, salmon, raw (Includes: sashimi)
+Fish, salmon, NFS
+Fish, salmon, baked or broiled (Includes: sauteed; NS as to coated)
+Fish, salmon, grilled
+Fish, salmon, baked or broiled, coated
+Fish, salmon, fried
+Fish, salmon, steamed (Includes: poached)
+Fish, salmon, canned
+Fish, salmon, smoked (Includes: lox)
+Fish, sardines, canned
+Fish, bass, NFS (Includes: grouper)
+Fish, bass, baked or broiled (Includes: sauteed; grouper; NS as to coated)
+Fish, bass, grilled (Includes: grouper)
+Fish, bass, baked or broiled, coated (Includes: grouper)
+Fish, bass, fried (Includes: grouper)
+Fish, bass, steamed (Includes: grouper; poached)
+Fish, shark
+Fish, swordfish (Includes: marlin)
+Fish, trout, NFS
+Fish, trout, baked or broiled (Includes: sauteed; NS as to coated)
+Fish, trout, grilled
+Fish, trout, baked or broiled, coated
+Fish, trout, fried
+Fish, trout, steamed (Includes: poached)
+Fish, tuna, raw (Includes: ahi)
+Fish, tuna, NFS (Includes: ahi)
+Fish, tuna, cooked (Includes: ahi)
+Fish, tuna, canned
+Fish, whiting, NFS
+Fish, whiting, baked or broiled (Includes: sauteed; NS as to coated)
+Fish, whiting, grilled
+Fish, whiting, baked or broiled, coated
+Fish, whiting, fried
+Fish, whiting, steamed (Includes: poached)
+Fish, tilapia, NFS
+Fish, tilapia, baked or broiled (Includes: sauteed; NS as to coated)
+Fish, tilapia, grilled
+Fish, tilapia, baked or broiled, coated
+Fish, tilapia, fried
+Fish, tilapia, steamed (Includes: poached)
+Fish, white, mixed species, NFS
+Fish, white, mixed species, baked or broiled (Includes: sauteed; NS as to coated)
+Fish, white, mixed species, baked or broiled, coated
+Fish, white, mixed species, fried
+Fish, white, mixed species, steamed (Includes: poached)
+Fish, white, mixed species, grilled
+Frog legs
+Octopus
+Caviar (Includes: roe)
+Calamari, cooked (Includes: cuttlefish; squid; cooking method other than fried)
+Calamari, fried (Includes: cuttlefish; squid; calamari, NFS)
+Turtle
+Shellfish, NFS
+Abalone
+Clams, raw
+Clams, NFS
+Clams, canned
+Crab
+Crab, canned
+Crab, soft shell
+Crayfish, fried (Includes: crawfish)
+Crayfish, cooked (Includes: crawfish; cooking method other than fried; crayfish, NFS)
+Lobster
+Mussels
+Oysters, raw
+Oysters, baked or broiled (Includes: sauteed; with or without coating)
+Oysters, steamed
+Oysters, fried
+Oysters, canned
+Scallops, baked or broiled (Includes: sauteed; with or without coating)
+Scallops, grilled
+Scallops, steamed or boiled
+Scallops, fried
+Shrimp, NFS (Includes: prawn)
+Shrimp, baked or broiled (Includes: sauteed; prawn; NS as to coated)
+Shrimp, grilled (Includes: prawn)
+Shrimp, steamed or boiled (Includes: prawn)
+Shrimp, fried (Includes: prawn; popcorn shrimp)
+Shrimp, baked or broiled, coated (Includes: prawn)
+Shrimp, dried
+Shrimp, canned
+Escargot (Includes: snails)
+Barbecue meat, NFS (Includes: bbq; with or without sauce)
+Guisada, beef (Includes: Carne guisada; other or multiple meats; guisada, NFS)
+Chili, NFS
+Chili with meat, from restaurant (Includes: other place)
+Chili with meat and beans (Includes: multiple meats; NS as to beans; home recipe)
+Chili with meat, canned (Includes: ready-to-heat; chili soup)
+Chili with meat (Includes: multiple meats; home recipe)
+Chili, white
+Sesame chicken
+Chicken kiev
+Beef, roast, hash
+Corned beef hash
+Lamb or mutton loaf
+Gefilte fish
+Hash, NS as to type of meat
+Stew, beef, canned (Includes: ready-to-heat)
+Shepherd's pie
+Pot pie, beef
+Stew, NFS
+Paella, NFS
+Swiss steak
+Hunan beef
+Kung Pao beef
+Almond chicken
+Kung Pao shrimp
+Egg, whole, raw
+Egg, white only, raw
+Egg, yolk only, raw
+Meringues
+Beans, NFS
+White beans, NFS (Includes: Navy; Great Northern; Cannellini)
+Black beans, NFS
+Fava beans, cooked (Includes: broad; with or without fat; NS as to meat)
+Lima beans, NFS (Includes: butter beans)
+Lima beans, from dried (Includes: butter beans; with or without fat; NS as to meat)
+Pink beans, cooked (Includes: with or without fat; NS as to meat)
+Pinto beans, NFS (Includes: calico)
+Kidney beans, NFS (Includes: red)
+Peruvian beans, from dried (Includes: Peruano; with or without fat; NS as to meat; frozen)
+Soybeans, cooked (Includes: with or without fat; NS as to meat)
+Baked beans (Includes: chili; barbecue; baked beans, NFS)
+Baked beans, vegetarian
+Hummus, plain (Includes: chickpea or garbanzo bean dip)
+Blackeyed peas, NFS (Includes: all other dried peas)
+Chickpeas, from dried, fat added (Includes: NS as to fat; NS as to meat; frozen)
+Chickpeas, from dried, no added fat (Includes: garbanzos; ceci; frozen)
+Split peas, from dried, no added fat (Includes: frozen)
+Split peas, from dried, fat added (Includes: NS as to fat; NS as to meat; frozen)
+Wasabi peas
+Lentils, NFS
+Dal (Includes: daal; lentils, peas or beans)
+Soy nuts
+Miso (Includes: fermented soybean paste)
+Natto (Includes: fermented soybean product)
+Hoisin sauce
+Soy sauce (Includes: shoyu; tamari)
+Soy sauce, reduced sodium (Includes: shoyu; tamari)
+Yogurt, soy (Includes: all types)
+Teriyaki sauce (Includes: Asian barbecue sauce; eel sauce)
+Teriyaki sauce, reduced sodium (Includes: Asian barbecue sauce; eel sauce)
+Worcestershire sauce
+Luncheon slice, meatless-beef, chicken, salami or turkey (Includes: vegetarian ham; Wham; Loma Linda; Worthington; meat substitute)
+Nuts, NFS
+Brazil nuts
+Cashews, NFS
+Chestnuts (Includes: roasted)
+Coconut, fresh
+Hazelnuts (Includes: filberts)
+Macadamia nuts (Includes: all; NFS)
+Mixed nuts, NFS
+Peanuts, NFS
+Pecans, NFS
+Pine nuts (Includes: pignolias)
+Pistachio nuts, NFS
+Walnuts, excluding honey roasted (Includes: NFS)
+Peanut butter (Includes: NS as to type)
+Yogurt, coconut milk (Includes: all types)
+Coconut water, unsweetened (Includes: 100% coconut water or juice)
+Pumpkin seeds, NFS
+Pumpkin seeds, unsalted
+Sunflower seeds, plain, unsalted
+Sunflower seeds, NFS
+Sesame seeds
+Flax seeds
+Chia seeds
+Corn nuts (Includes: corn nuggets; plain or flavored)
+Barley (Includes: all liquids; with or without fat)
+Buckwheat groats (Includes: kasha; all liquids; with or without fat)
+Millet (Includes: all liquids; with or without fat)
+Quinoa, NS as to fat (Includes: all liquids)
+Quinoa, no added fat (Includes: all liquids)
+Quinoa, fat added (Includes: all liquids)
+Rice, cooked, NFS
+Rice, white, cooked, NS as to fat (Includes: basmati or jasmine rice)
+Rice, white, cooked, made with oil (Includes: basmati or jasmine rice)
+Rice, white, cooked, made with butter (Includes: made with animal fat or meat drippings; basmati or jasmine rice)
+Rice, white, cooked, made with margarine (Includes: made with shortening; basmati or jasmine rice)
+Rice, white, cooked, fat added, NS as to fat type (Includes: basmati or jasmine rice)
+Rice, white, cooked, no added fat (Includes: basmati or jasmine rice)
+Rice, brown, cooked, NS as to fat
+Rice, brown, cooked, fat added, made with oil
+Rice, brown, cooked, made with butter (Includes: made with animal fat or meat drippings)
+Rice, brown, cooked, made with margarine (Includes: made with shortening)
+Rice, brown, cooked, fat added, NS as to fat type
+Rice, brown, cooked, no added fat (Includes: made without fat)
+Rice, cooked, with milk
+Rice, sweet, cooked with honey
+Rice, white, cooked, glutinous (Includes: sticky rice; sushi rice)
+Rice, wild, 100%, cooked, NS as to fat (Includes: black rice)
+Rice, wild, 100%, cooked, no added fat (Includes: black rice)
+Rice, wild, 100%, cooked, fat added (Includes: black rice)
+Rice, white and wild, cooked, no added fat (Includes: Uncle Ben's Long Grain and Wild Rice flavored, all flavors)
+Rice, brown and wild, cooked, no added fat
+Rice, white and wild, cooked, fat added (Includes: flavored white and wild rice, NFS; Uncle Ben's Long Grain and Wild Rice flavored, all flavors)
+Rice, white and wild, cooked, NS as to fat (Includes: Uncle Ben's Long Grain and Wild Rice flavored, all flavors)
+Rice, brown and wild, cooked, fat added
+Rice, brown and wild, cooked, NS as to fat
+Rice, white, cooked with fat, Puerto Rican style (Includes: Arroz blanco)
+Wheat germ
+Rice, white, with vegetables, cheese and/or cream based sauce, NS as to fat (Includes: any type of vegetable; mushroom soup-based sauce; white sauce)
+Rice, white, with vegetables, cheese and/or cream based sauce, no added fat (Includes: any type of vegetable; mushroom soup-based sauce; white sauce)
+Rice, white, with vegetables, cheese and/or cream based sauce, fat added (Includes: any type of vegetable; mushroom soup-based sauce; white sauce; vegetable risotto)
+Rice, white, with vegetables and gravy, NS as to fat (Includes: any type of vegetable)
+Rice, white, with vegetables and gravy, no added fat (Includes: any type of vegetable)
+Rice, brown, with vegetables, cheese and/or cream based sauce, fat added (Includes: any type of vegetable; mushroom soup-based sauce; white sauce; vegetable risotto made with brown rice)
+Rice, brown, with vegetables and gravy, NS as to fat (Includes: any type of vegetable)
+Rice, brown, with vegetables and gravy, no added fat (Includes: any type of vegetable)
+Rice, brown, with vegetables and gravy, fat added (Includes: any type of vegetable)
+Rice, brown, with vegetables, soy-based sauce, NS as to fat (Includes: any type of vegetable; teriyaki sauce)
+Rice, brown, with vegetables, soy-based sauce, no added fat (Includes: any type of vegetable; teriyaki sauce)
+Rice, brown, with vegetables, soy-based sauce, fat added (Includes: any type of vegetable; teriyaki sauce)
+Upma (Includes: Indian breakfast dish)
+Tabbouleh (Includes: Tabbuli; bulgar with tomatoes and parsley)
+Noodles with vegetables in tomato-based sauce, diet frozen meal (Includes: Weight Watchers Angel Hair Pasta; Stouffer's Lean Cuisine Angel Hair Pasta)
+Clementine, raw (Includes: cutie; mandarin orange, raw)
+Grapefruit, raw (Includes: grapefruit, NFS)
+Grapefruit, canned (Includes: frozen)
+Kumquat, raw
+Lemon, raw
+Lime, raw
+Orange, raw (Includes: Orange, NFS)
+Orange, canned, NFS (Includes: mandarin; mandarin orange, NFS)
+Orange, canned, juice pack (Includes: mandarin; water pack; frozen)
+Orange, canned, in syrup (Includes: mandarin)
+Tangerine, raw (Includes: tangelo)
+Grapefruit juice, 100%, freshly squeezed
+Grapefruit juice, 100%, NS as to form
+Grapefruit juice, 100%, canned, bottled or in a carton (Includes: Florida's Natural; Indian River; store brand; Simply Grapefruit)
+Grapefruit juice, 100%, with calcium added (Includes: Florida's Natural; Tropicana; Indian River)
+Lemon juice, 100%, NS as to form
+Lemon juice, 100%, freshly squeezed
+Lemon juice, 100%, canned or bottled (Includes: frozen; Real Lemon)
+Lime juice, 100%, NS as to form
+Lime juice, 100%, freshly squeezed
+Lime juice, 100%, canned or bottled (Includes: frozen; Real Lime)
+Orange juice, 100%, NFS
+Orange juice, 100%, freshly squeezed
+Orange juice, 100%, canned, bottled or in a carton (Includes: Minute Maid; Tropicana; Florida's Natural; Donald Duck; store brand; ready to drink; Simply Orange)
+Orange juice, 100%, with calcium added, canned, bottled or in a carton (Includes: Tropicana; Minute Maid; Florida's Natural; Donald Duck; store brand; with calcium and vitamin D added; Simply Orange with Calcium)
+Orange juice, 100%, frozen, reconstituted (Includes: reduced acid orange juice)
+Orange juice, 100%, frozen, not reconstituted
+Orange juice, 100%, with calcium added, frozen, reconstituted (Includes: Minute Maid)
+Tangerine juice, 100% (Includes: frozen, reconstituted)
+Fruit juice blend, citrus, 100% juice (Includes: with orange or grapefruit juices; Tropicana Tropics Juice Blends; Capri Sun 100% citrus blends; Snapple 100% Juiced)
+Dried, fruit, NFS (Includes: fruit mixture)
+Apple, dried (Includes: apple chips)
+Apricot, dried
+Blueberries, dried
+Cherries, dried (Includes: sweetened)
+Banana chips
+Currants, dried
+Cranberries, dried (Includes: Craisins; cranberries, NFS; all flavors)
+Date
+Fig, dried
+Mango, dried
+Papaya, dried
+Peach, dried (Includes: nectarine, dried)
+Pear, dried
+Persimmon, dried
+Pineapple, dried
+Prune, dried (Includes: dried plum)
+Raisins
+Apple, raw (Includes: apple, NFS)
+Applesauce, regular (Includes: applesauce, NFS)
+Applesauce, unsweetened
+Applesauce, flavored (Includes: with other fruits)
+Apple, baked (Includes: fried; cooked)
+Apricot, raw (Includes: apricot, NFS)
+Apricot, canned
+Avocado, raw
+Banana, raw
+Banana, baked (Includes: fried)
+Cantaloupe, raw (Includes: melon, NFS; muskmelon)
+Melon, frozen (Includes: all types)
+Starfruit, raw (Includes: Carambola)
+Cherries, maraschino
+Cherries, raw (Includes: cherries, NFS)
+Cherries, canned
+Cherries, frozen
+Dragon fruit (Includes: pitaya)
+Fig, raw
+Fig, canned
+Grapes, raw
+Guava, raw
+Kiwi fruit, raw (Includes: kiwifruit)
+Lychee
+Honeydew melon, raw
+Mango, raw (Includes: Mango, NFS)
+Mango, canned
+Mango, frozen
+Nectarine, raw
+Papaya, raw
+Papaya, canned
+Passion fruit, raw
+Peach, raw (Includes: peach, NFS)
+Peach, canned, NFS
+Peach, canned, in syrup
+Peach, canned, juice pack (Includes: water pack)
+Peach, frozen
+Pear, raw (Includes: pear, NFS)
+Pear, Asian, raw (Includes: Chinese pear; Japanese pear)
+Pear, canned, NFS
+Pear, canned, in syrup
+Pear, canned, juice pack (Includes: water pack; frozen)
+Persimmon, raw
+Pineapple, raw (Includes: pineapple, NFS)
+Pineapple, canned, NFS
+Pineapple, canned, in syrup
+Pineapple, canned, juice pack (Includes: water pack)
+Pineapple, frozen
+Plum, raw (Includes: plum, NFS)
+Plum, canned
+Pomegranate, raw
+Rhubarb (Includes: rhubarb sauce)
+Tamarind
+Watermelon, raw
+Berries, NFS (Includes: mixed berries)
+Berries, frozen (Includes: mixed berries)
+Blackberries, raw (Includes: boysenberries; dewberries; loganberries; youngberries; blackberries, NFS)
+Blackberries, frozen (Includes: boysenberries; dewberries; loganberries; youngberries)
+Blueberries, raw (Includes: blueberries, NFS)
+Bluberries, canned
+Blueberries, frozen
+Cranberries, raw
+Cranberry sauce (Includes: jellied; whole berry; canned; relish)
+Raspberries, raw (Includes: raspberries, NFS)
+Raspberries, frozen
+Strawberries, raw (Includes: strawberries, NFS)
+Strawberries, canned
+Strawberries, frozen
+Ambrosia
+Apple, candied (Includes: caramel apples)
+Guacamole, NFS (Includes: avocado dip, NFS; guacamole without tomatoes)
+Vinegar
+Potato, NFS
+Potato, baked, NFS
+Potato, baked, peel not eaten (Includes: NS as to peel eaten)
+Potato, boiled, NFS (Includes: steamer bags; steamed potato NS as to plain or flavored)
+Potato, boiled, ready-to-heat (Includes: frozen; steamer bags; steamed potato NS as to plain or flavored; with or without peel; with or without fat added)
+Potato, boiled, from fresh, peel not eaten, NS as to fat (Includes: steamer bags; steamed potato NS as to plain or flavored; NS as to peel eaten)
+Potato, boiled, from fresh, peel not eaten, no added fat (Includes: steamer bags; steamed potato NS as to plain or flavored; NS as to peel eaten; made with cooking spray)
+Potato, boiled, from fresh, peel not eaten, fat added, NS as to fat type (Includes: steamer bags; steamed potato NS as to plain or flavored; NS as to peel eaten)
+Potato, boiled, from fresh, peel not eaten, made with oil (Includes: steamer bags; steamed potato NS as to plain or flavored; NS as to peel eaten)
+Potato, boiled, from fresh, peel not eaten, made with butter (Includes: steamer bags; steamed potato NS as to plain or flavored; NS as to peel eaten; made with animal fat or meat drippings)
+Potato, boiled, from fresh, peel not eaten, made with margarine (Includes: steamer bags; steamed potato NS as to plain or flavored; NS as to peel eaten; made with shortening)
+Potato, boiled, from fresh, peel eaten, NS as to fat (Includes: steamer bags; steamed potato NS as to plain or flavored)
+Potato, boiled, from fresh, peel eaten, fat added, NS as to fat type (Includes: steamer bags; steamed potato NS as to plain or flavored)
+Potato, boiled, from fresh, peel eaten, no added fat (Includes: steamer bags; steamed potato NS as to plain or flavored; made with cooking spray)
+Potato, boiled, from fresh, peel eaten, made with oil (Includes: steamer bags; steamed potato NS as to plain or flavored)
+Potato, boiled, from fresh, peel eaten, made with butter (Includes: steamer bags; steamed potato NS as to plain or flavored; made with animal fat or meat drippings)
+Potato, boiled, from fresh, peel eaten, made with margarine (Includes: steamer bags; steamed potato NS as to plain or flavored; made with shortening)
+Potato, canned, NS as to fat (Includes: boiled; roasted; stewed)
+Potato, canned, fat added, NS as to fat type (Includes: boiled; roasted; stewed)
+Potato, canned, no added fat (Includes: made with cooking spray; boiled; roasted; stewed)
+Potato, roasted, NFS (Includes: grilled)
+Potato, roasted, from fresh, peel eaten, NS as to fat (Includes: grilled)
+Potato, roasted, from fresh, peel eaten, no added fat (Includes: grilled; made with cooking spray)
+Potato, roasted, from fresh, peel eaten, fat added, NS as to fat type (Includes: grilled)
+Potato, roasted, from fresh, peel eaten, made with oil (Includes: grilled)
+Potato, roasted, from fresh, peel eaten, made with butter (Includes: grilled; made with animal fat or meat drippings)
+Potato, roasted, from fresh, peel eaten, made with margarine (Includes: grilled; made with shortening)
+Potato, roasted, from fresh, peel not eaten, NS as to fat (Includes: grilled; NS as to peel eaten)
+Potato, roasted, from fresh, peel not eaten, fat added, NS as to fat type (Includes: grilled; NS as to peel eaten)
+Potato, roasted, from fresh, peel not eaten, no added fat (Includes: grilled; NS as to peel eaten; made with cooking spray)
+Potato, roasted, from fresh, peel not eaten, made with oil (Includes: grilled)
+Potato, roasted, from fresh, peel not eaten, made with butter (Includes: grilled; made with animal fat or meat drippings)
+Potato, roasted, from fresh, peel not eaten, made with margarine (Includes: grilled; made with shortening)
+Potato, roasted, ready-to-heat (Includes: frozen; with or without peel; with or without fat added)
+Stewed potatoes, Puerto Rican style (Includes: Papas guisadas)
+Potato, mashed, NFS
+Potato, mashed, from fast food
+Potato, mashed, from fast food, with gravy
+Potato, mashed, ready-to-heat (Includes: refrigerated; microwavable; frozen)
+Potato, mashed, from fresh, made with milk (Includes: with water; sour cream; cream)
+Potato, mashed, from fresh, made with milk, with cheese (Includes: with water; sour cream; cream)
+Potato, mashed, from fresh, made with milk, with gravy (Includes: with water; cheese; sour cream; cream)
+Potato, mashed, from fresh, NFS
+Potato, mashed, from restaurant
+Potato, mashed, from restaurant, with gravy
+Potato, mashed, from school lunch (Includes: with gravy)
+Potato, mashed, from dry mix, NFS
+Potato, mashed, from dry mix, made with milk (Includes: with water; sour cream; cream)
+Potato, mashed, from dry mix, made with milk, with cheese (Includes: with water; sour cream; cream)
+Potato, mashed, from dry mix, made with milk, with gravy (Includes: with water; cheese; sour cream; cream)
+Potato, mashed, ready-to-heat, NFS (Includes: refrigerated, microwavable, frozen)
+Potato, mashed, ready-to-heat, with cheese (Includes: refrigerated; microwavable; frozen; cream; sour cream)
+Potato, mashed, ready-to-heat, with gravy (Includes: with cheese; cream; sour cream; refrigerated, microwavable, frozen)
+Potato, baked, peel not eaten, with chili (Includes: NS as to peel eaten; cheese sauce; sour cream; butter or margarine; twice baked; stuffed; cheese; cream cheese)
+Potato, baked, peel not eaten, with vegetables (Includes: NS as to peel eaten; broccoli; cheese; cream cheese; cheese sauce; sour cream; butter or margarine; twice baked; stuffed)
+Plantain, cooked, no added fat (Includes: cooking spray; green banana)
+Plantain, cooked with oil (Includes: fried plantains; tostones; plantain, NFS; from restaurant; green banana)
+Plantain, raw (Includes: green banana)
+Plantain, cooked, fat added, NS as to fat type (Includes: NS as to fat added; green banana)
+Plantain, cooked with butter or margarine (Includes: animal fat; shortening; green banana)
+Cassava, cooked (Includes: yuca blanca; with or without fat)
+Beet greens, raw
+Beet greens, cooked (Includes: with or without fat)
+Broccoli raab, raw (Includes: Broccoli rabe, raap, or rapini; broccolini)
+Broccoli raab, cooked (Includes: broccoli rabe, raap, or rapini; with or without fat; broccolini)
+Chard, raw
+Chard, cooked (Includes: with or without fat)
+Collards, raw (Includes: collard greens)
+Collards, fresh, cooked, no added fat (Includes: collard greens; cooking spray)
+Collards, frozen, cooked, no added fat (Includes: collard greens; cooking spray)
+Collards, NS as to form, cooked
+Collards, fresh, cooked, fat added, NS as to fat type (Includes: collard greens; NS as to fat added)
+Collards, frozen, cooked, fat added, NS as to fat type (Includes: collard greens; NS as to fat added)
+Collards, fresh, cooked with oil (Includes: collard greens)
+Collards, fresh, cooked with butter or margarine (Includes: collard greens; animal fat; shortening; from restaurant)
+Collards, frozen, cooked with oil (Includes: collard greens)
+Collards, frozen, cooked with butter or margarine (Includes: collard greens; animal fat; shortening)
+Cress, raw
+Cress, cooked (Includes: with or without fat)
+Dandelion greens, raw
+Dandelion greens, cooked (Includes: with or without fat)
+Romaine lettuce, raw (Includes: endive; chicory; escarole; green leaf)
+Escarole, cooked (Includes: endive; with or without fat)
+Kale, raw
+Kale, fresh, cooked, no added fat (Includes: cooking spray)
+Kale, frozen, cooked, no added fat (Includes: cooking spray)
+Kale, NS as to form, cooked (Includes: with or without fat)
+Kale, fresh, cooked, fat added (Includes: NS as to fat added; from restaurant)
+Kale, frozen, cooked, fat added (Includes: NS as to fat added)
+Lambsquarter, cooked (Includes: with or without fat)
+Mustard greens, raw
+Mustard greens, fresh, cooked, no added fat (Includes: cooking spray)
+Mustard greens, frozen, cooked, no added fat (Includes: cooking spray)
+Mustard greens, NS as to form, cooked (Includes: with or without fat)
+Mustard greens, fresh, cooked, fat added (Includes: NS as to fat added; from restaurant)
+Mustard greens, frozen, cooked, fat added (Includes: NS as to fat added)
+Poke greens, cooked (Includes: with or without fat)
+Radicchio, raw
+Spinach, raw
+Spinach, fresh, cooked, no added fat (Includes: cooking spray)
+Spinach, frozen, cooked, no added fat (Includes: cooking spray)
+Spinach, canned, cooked, no added fat (Includes: cooking spray)
+Spinach, fresh, cooked with oil
+Spinach, fresh, cooked with butter or margarine (Includes: animal fat; shortening; from restaurant)
+Spinach, NS as to form, cooked (Includes: with or without fat)
+Spinach, fresh, cooked, fat added, NS as to fat type (Includes: NS as to fat added)
+Spinach, frozen, cooked, fat added, NS as to fat type (Includes: NS as to fat added)
+Spinach, canned, cooked, fat added, NS as to fat type (Includes: NS as to fat added)
+Spinach, frozen, cooked with oil
+Spinach, frozen, cooked with butter or margarine (Includes: animal fat; shortening)
+Spinach, canned, cooked with oil
+Spinach, canned, cooked with butter or margarine (Includes: animal fat; shortening)
+Spinach, creamed
+Turnip greens, fresh, cooked, no added fat (Includes: cooking spray)
+Turnip greens, frozen, cooked, no added fat (Includes: cooking spray)
+Turrnip greens, NS as to form, cooked (Includes: with or without fat)
+Turnip greens, fresh, cooked, fat added (Includes: NS as to fat added; from restaurant)
+Turnip greens, frozen, cooked, fat added (Includes: NS as to fat added)
+Watercress, raw
+Watercress, cooked (Includes: with or without fat)
+Bitter melon, horseradish, jute, or radish leaves, cooked (Includes: with or without fat)
+Sweet potato, squash, pumpkin, chrysanthemum, or bean leaves, cooked (Includes: swamp cabbage; with or without fat)
+Broccoli, raw
+Broccoli, cooked, from restaurant
+Broccoli, fresh, cooked, no added fat (Includes: cooking spray)
+Broccoli, frozen, cooked, no added fat (Includes: cooking spray)
+Broccoli, NS as to form, cooked (Includes: with or without fat)
+Broccoli, fresh, cooked, fat added, NS as to fat type (Includes: NS as to fat added)
+Broccoli, frozen, cooked, fat added, NS as to fat type (Includes: NS as to fat added)
+Broccoli, fresh, cooked with oil
+Broccoli, fresh, cooked with butter or margarine (Includes: animal fat; shortening)
+Broccoli, frozen, cooked with oil
+Broccoli, frozen, cooked with butter or margarine (Includes: animal fat; shortening)
+Broccoli casserole with noodles (Includes: cream sauce)
+Broccoli casserole with rice (Includes: mushroom sauce)
+Broccoli, chinese, raw
+Broccoli, Chinese, cooked (Includes: with or without fat)
+Carrots, raw
+Carrots, raw, salad (Includes: carrot-raisin salad)
+Carrots, raw, salad with apples (Includes: vegetable and fruit salad, with carrot and apple)
+Carrots, cooked, from restaurant
+Carrots, fresh, cooked, no added fat (Includes: cooking spray)
+Carrots, frozen, cooked, no added fat (Includes: cooking spray)
+Carrots, canned, cooked, no added fat (Includes: cooking spray)
+Carrots, fresh, cooked with oil
+Carrots, fresh, cooked with butter or margarine (Includes: animal fat; shortening)
+Carrots, NS as to form, cooked (Includes: with or without fat)
+Carrots, fresh, cooked, fat added, NS as to fat type (Includes: NS as to fat added)
+Carrots, frozen, cooked, fat added, NS as to fat type (Includes: NS as to fat added)
+Carrots, canned, cooked, fat added, NS as to fat type (Includes: NS as to fat added)
+Carrots, frozen, cooked with oil
+Carrots, frozen, cooked with butter or margarine (Includes: animal fat; shortening)
+Carrots, canned, cooked with oil
+Carrots, canned, cooked with butter or margarine (Includes: animal fat; shortening)
+Carrots, glazed, cooked
+Carrots, canned, reduced sodium, cooked, no added fat (Includes: cooking spray; no salt added)
+Carrots, canned, reduced sodium, cooked, fat added, NS as to fat type (Includes: Ns as to fat added; no salt added)
+Carrots, canned, reduced sodium, cooked with oil (Includes: no salt added)
+Carrots, canned, reduced sodium, cooked with butter or margarine (Includes: animal fat; shortening; no salt added)
+Beet juice
+Carrot juice, 100%
+Peas and carrots, fresh, cooked, no added fat (Includes: cooking spray)
+Peas and carrots, frozen, cooked, no added fat (Includes: cooking spray)
+Peas and carrots, canned, cooked, no added fat (Includes: cooking spray)
+Peas and carrots, cooked, NS as to form (Includes: with or without fat)
+Peas and carrots, fresh, cooked, fat added (Includes: NS as to fat added; from restaurant)
+Peas and carrots, frozen, cooked, fat added (Includes: NS as to fat added)
+Peas and carrots, canned, cooked, fat added (Includes: NS as to fat added)
+Pumpkin, canned, cooked (Includes: with or without fat)
+Pumpkin, cooked (Includes: calabaza)
+Winter squash, raw (Includes: pumpkin; acorn; butternut; hubbard; gourd)
+Winter squash, cooked, no added fat (Includes: acorn; butternut; hubbard; cooking spray; gourd)
+Winter squash, cooked, fat added (Includes: acorn; butternut; hubbard; NS as to fat added; from restaurant; gourd)
+Squash, winter, souffle
+Sweet potato, NFS (Includes: yam)
+Sweet potato, baked, NS as to fat (Includes: yam)
+Sweet potato, baked, no added fat (Includes: yam)
+Sweet potato, baked, fat added (Includes: yam)
+Sweet potato, boiled, NS as to fat (Includes: yam)
+Sweet potato, boiled, no added fat (Includes: yam)
+Sweet potato, boiled, fat added (Includes: yam)
+Sweet potato, candied (Includes: yam)
+Sweet potato, canned, NS as to fat (Includes: yam)
+Sweet potato, canned, no added fat (Includes: yam)
+Sweet potato, canned, fat added (Includes: yam)
+Sweet potato, casserole or mashed (Includes: sweet potato pudding)
+Sweet potato fries, NFS (Includes: NS as to fresh or frozen)
+Sweet potato chips
+Sweet potato fries, frozen
+Sweet potato fries, from fresh
+Sweet potato fries, fast food / restaurant
+Sweet potato fries, school
+Sweet potato tots (Includes: sweet potato puffs, NFS)
+Sweet potato tots, fast food / restaurant (Includes: sweet potato puffs)
+Sweet potato tots, school (Includes: sweet potato puffs)
+Soup, pumpkin (Includes: squash, butternut squash, sweet potato, or carrot soup)
+Tomatoes, raw (Includes: plum and Italian tomatoes)
+Tomatoes, NS as to form, cooked (Includes: with or without fat)
+Tomatoes, fresh, cooked (Includes: with or without fat; from restaurant)
+Tomatoes, canned, cooked (Includes: with or without fat)
+Tomatoes, scalloped
+Tomatoes, canned, reduced sodium, cooked (Includes: with or without fat; no salt added)
+Fried green tomatoes (Includes: fried tomato, all types; green tomato, NFS)
+Tomato, green, pickled
+Sun-dried tomatoes (Includes: dried red tomatoes)
+Tomato juice, 100%
+Tomato juice, 100%, low sodium
+Tomato juice cocktail (Includes: less than 100% tomato juice; tomato juice with clam or beef juice; NS as to 100% tomato juice)
+Tomato and vegetable juice, 100% (Includes: V8 or Spicy Hot V8; vegetable juice, NFS)
+Tomato and vegetable juice, 100%, low sodium (Includes: Low Sodium V8 or Spicy Hot V8; vegetable juice, low sodium)
+Ketchup (Includes: catsup)
+Ketchup, reduced sodium (Includes: catsup)
+Salsa, NFS
+Salsa, red (Includes: creole or picante sauce; fruit)
+Raw vegetable, NFS
+Sprouts, NFS
+Alfalfa sprouts, raw
+Artichoke
+Asparagus, raw
+Bean sprouts, raw (Includes: soybean or mung)
+Green beans, raw (Includes: string beans)
+Beets, raw
+Broccoflower, raw
+Brussels sprouts, raw
+Cabbage, green, raw (Includes: cabbage, NS as to color)
+Cabbage, Chinese, raw (Includes: Napa; Pa-tsai; Pak-choi / Bok choy)
+Cabbage, red, raw (Includes: cabbage, NS to color, in tossed green salad; purple cabbage)
+Cactus, raw
+Cauliflower, raw
+Celery, raw (Includes: celery, NFS)
+Fennel bulb, raw
+Basil, raw
+Chives, raw (Includes: chives, NFS)
+Cilantro, raw (Includes: coriander leaves; Chinese parsley)
+Corn, raw
+Cucumber, raw (Includes: cucumber, NFS)
+Eggplant, raw
+Garlic, raw
+Jicama, raw (Includes: yambean)
+Kohlrabi, raw
+Lettuce, raw (Includes: lettuce, NFS; iceberg)
+Lettuce, Boston, raw (Includes: deer tongue lettuce; native lettuce; red leaf lettuce; Bibb)
+Lettuce, arugula, raw
+Mixed salad greens, raw
+Mushrooms, raw
+Onions, green, raw (Includes: scallions; spring onions)
+Onions, raw (Includes: red onions; onions, NFS)
+Parsley, raw
+Green peas, raw
+Peppers, hot, raw (Includes: habanero; serrano; chili peppers; hot peppers, NFS)
+Peppers, raw, NFS
+Peppers, sweet, green, raw (Includes: poblano)
+Peppers, sweet, red, raw
+Peppers, banana, raw (Includes: yellow peppers, NS as to sweet or hot; Tuscan)
+Radish (Includes: daikon)
+Rutabaga, raw
+Seaweed, raw (Includes: blanched; sea moss; kelp; laver)
+Snowpeas, raw (Includes: sugar peas; pea pods)
+Summer squash, yellow, raw (Includes: summer squash, NS as to color)
+Summer squash, green, raw (Includes: zucchini)
+Turnip, raw
+Lima beans, from frozen, fat added (Includes: butter beans; NS as to fat; NS as to meat)
+Lima beans, from canned (Includes: butter beans; with or without fat; NS as to meat)
+Green beans, cooked, from restaurant (Includes: string beans)
+Green beans, fresh, cooked, no added fat (Includes: Italian beans; string; pole; snap; french cut; cooking spray)
+Green beans, frozen, cooked, no added fat (Includes: Italian beans; string; pole; snap; french cut; cooking spray)
+Green beans, canned, cooked, no added fat (Includes: Italian beans; string; pole; snap; french cut; cooking spray)
+Green beans, NS as to form, cooked (Includes: Italian beans; string; pole; snap; french cut; with or without fat)
+Green beans, fresh, cooked, fat added, NS as to fat type (Includes: Italian beans; NS as to fat added; string; pole; snap; french cut)
+Green beans, frozen, cooked, fat added, NS as to fat type (Includes: Italian beans; NS as to fat added; string; pole; snap; french cut)
+Green beans, canned, cooked, fat added, NS as to fat type (Includes: Italian beans; NS as to fat added; string; pole; snap; french cut)
+Green beans, fresh, cooked with oil (Includes: Italian beans; string; pole; snap; french cut)
+Green beans, fresh, cooked with butter or margarine (Includes: Italian beans; string; pole; snap; french cut; animal fat; shortening)
+Green beans, frozen, cooked with oil (Includes: Italian beans; string; pole; snap; french cut)
+Green beans, frozen, cooked with butter or margarine (Includes: Italian beans; string; pole; snap; french cut; animal fat; shortening)
+Green beans, canned, cooked with oil (Includes: Italian beans; string; pole; snap; french cut)
+Green beans, canned, cooked with butter or margarine (Includes: Italian beans; string; pole; snap; french cut; animal fat; shortening)
+Green beans, canned, reduced sodium, cooked, no added fat (Includes: Italian beans; string; pole; snap; french cut; cooking spray; no salt added)
+Green beans, canned, reduced sodium, cooked, fat added, NS as to fat type (Includes: Italian beans; NS as to fat added; string; pole; snap; french cut; no salt added)
+Green beans, canned, reduced sodium, cooked with oil (Includes: Italian beans; string; pole; snap; french cut; no salt added)
+Green beans, canned, reduced sodium, cooked with butter or margarine (Includes: Italian beans; string; pole; snap; french cut; animal fat; shortening; no salt added)
+Yellow string beans, cooked (Includes: wax beans; with or without fat)
+Bean sprouts, cooked (Includes: with or without fat)
+Beets, fresh, cooked, no added fat (Includes: cooking spray)
+Beets, canned, cooked, no added fat (Includes: cooking spray)
+Beets, NS as to form, cooked (Includes: with or without fat)
+Beets, fresh, cooked, fat added (Includes: NS as to fat added; from restaurant)
+Beets, canned, cooked, fat added (Includes: NS as to fat added)
+Beets, canned, reduced sodium, cooked (Includes: with or without fat; no salt added)
+Bitter melon, cooked (Includes: Balsam pear; with or without fat)
+Breadfruit, cooked (Includes: pana; with or without fat)
+Broccoflower, cooked (Includes: with or without fat)
+Brussels sprouts, fresh, cooked, no added fat (Includes: cooking spray)
+Brussels sprouts, frozen, cooked, no added fat (Includes: cooking spray)
+Brussels sprouts, NS as to form, cooked (Includes: with or without fat)
+Brussels sprouts, fresh, cooked, fat added (Includes: NS as to fat added; from restaurant)
+Brussels sprouts, frozen, cooked, fat added (Includes: NS as to fat added)
+Burdock, cooked (Includes: with or without fat)
+Cabbage, Chinese, cooked, no added fat (Includes: bok choy; Napa; Pa-tsai; Pak-choi; cooking spray)
+Cabbage, Chinese, cooked, fat added (Includes: bok choy; Napa; Pa-tsai; Pak-choi; NS as to fat added; from restaurant)
+Cabbage, green, cooked, no added fat (Includes: NS as to color; cooking spray)
+Cabbage, green, cooked, fat added, NS as to fat type (Includes: NS as to fat added; NS as to color)
+Cabbage, green, cooked with oil (Includes: NS as to color)
+Cabbage, green, cooked with butter or margarine (Includes: NS as to color; animal fat; shortening; from restaurant)
+Cabbage, red, cooked (Includes: purple; with or without fat)
+Cabbage, savoy, cooked (Includes: with or without fat)
+Cactus, cooked, no added fat (Includes: nopal; prickly pear; cooking spray)
+Cactus, cooked, fat added (Includes: nopal; NS as to fat added; prickly pear; from restaurant)
+Cauliflower, fresh, cooked, no added fat (Includes: cooking spray)
+Cauliflower, frozen, cooked, no added fat (Includes: cooking spray)
+Cauliflower, NS as to form, cooked (Includes: with or without fat)
+Cauliflower, fresh, cooked, fat added, NS as to fat type (Includes: NS as to fat added)
+Cauliflower, frozen, cooked, fat added, NS as to fat type (Includes: NS as to fat added)
+Cauliflower, fresh, cooked with oil
+Cauliflower, fresh, cooked with butter or margarine (Includes: animal fat; shortening; from restaurant)
+Cauliflower, frozen, cooked with oil
+Cauliflower, frozen, cooked with butter or margarine (Includes: animal fat; shortening)
+Celery, cooked (Includes: with or without fat)
+Fennel bulb, cooked (Includes: with or without fat)
+Christophine, cooked (Includes: chayote; mirliton; with or without fat)
+Corn, cooked, from restaurant
+Corn, fresh, cooked, no added fat (Includes: cooking spray)
+Corn, frozen, cooked, no added fat (Includes: cooking spray)
+Corn, canned, cooked, no added fat (Includes: cooking spray)
+Corn, NS as to form, cooked (Includes: with or without fat)
+Corn, fresh, cooked, fat added, NS as to fat type (Includes: NS as to fat added)
+Corn, frozen, cooked, fat added, NS as to fat type (Includes: NS as to fat added)
+Corn, canned, cooked, fat added, NS as to fat type (Includes: NS as to fat added)
+Corn, fresh, cooked with oil
+Corn, fresh, cooked with butter or margarine (Includes: animal fat; shortening)
+Corn, frozen, cooked with oil
+Corn, frozen, cooked with butter or margarine (Includes: animal fat; shortening)
+Corn, canned, cooked with oil
+Corn, canned, cooked with butter or margarine (Includes: animal fat; shortening)
+Corn, creamed
+Corn, canned, reduced sodium, cooked, no added fat (Includes: cooking spray; no salt added)
+Corn, canned, reduced sodium, cooked, fat added, NS as to fat type (Includes: NS as to fat added; no salt added)
+Corn, canned, reduced sodium, cooked with oil (Includes: no salt added)
+Corn, canned, reduced sodium, cooked with butter or margarine (Includes: animal fat; shortening; no salt added)
+Cucumber, cooked (Includes: with or without fat)
+Eggplant, cooked, no added fat (Includes: cooking spray)
+Eggplant, cooked, fat added (Includes: NS as to fat added; from restaurant)
+Flowers or blossoms of sesbania, squash, or lily, cooked (Includes: with or without fat)
+Garlic, cooked
+Hominy, cooked (Includes: with or without fat)
+Kohlrabi, cooked (Includes: with or without fat)
+Leeks
+Lotus root, cooked (Includes: with or without fat)
+Mushrooms, fresh, cooked, no added fat (Includes: cooking spray)
+Mushrooms, NS as to form, cooked (Includes: with or without fat)
+Mushrooms, fresh, cooked, fat added, NS as to fat type (Includes: NS as to fat added)
+Mushrooms, canned, cooked (Includes: with or without fat; frozen)
+Mushrooms, fresh, cooked with oil
+Mushrooms, fresh, cooked with butter or margarine (Includes: animal fat; shortening; from restaurant)
+Mushroom, Asian, cooked, from dried (Includes: shiitake)
+Okra, fresh, cooked, no added fat (Includes: cooking spray; luffa)
+Okra, frozen, cooked, no added fat (Includes: cooking spray; luffa)
+Okra, NS as to form, cooked (Includes: with or without fat; luffa)
+Okra, fresh, cooked, fat added (Includes: NS as to fat added; from restaurant; luffa)
+Okra, frozen, cooked, fat added (Includes: NS as to fat added; luffa)
+Lettuce, cooked (Includes: with or without fat)
+Onions, cooked, no added fat (Includes: cooking spray)
+Onions, cooked, fat added (Includes: NS as to fat added; from restaurant)
+Onions, pearl, cooked (Includes: pickled or cocktail onions; with or without fat)
+Onions, green, cooked (Includes: scallions; spring onions; with or without fat)
+Palm hearts, cooked (Includes: with or without fat)
+Parsnips, cooked (Includes: with or without fat)
+Blackeyed peas, from frozen (Includes: all other dried peas; with or without fat; NS as to meat)
+Blackeyed peas, from canned (Includes: all other dried peas; with or without fat; NS as to meat)
+Green peas, cooked, from restaurant
+Green peas, fresh, cooked, no added fat (Includes: English peas; cooking spray)
+Green peas, frozen, cooked, no added fat (Includes: English peas; cooking spray)
+Green peas, canned, cooked, no added fat (Includes: English peas; cooking spray)
+Green peas, NS as to form, cooked (Includes: English peas; with or without fat)
+Green peas, fresh, cooked, fat added, NS as to fat type (Includes: English peas; NS as to fat added)
+Green peas, frozen, cooked, fat added, NS as to fat type (Includes: English peas; NS as to fat added)
+Green peas, canned, cooked, fat added, NS as to fat type (Includes: English peas; NS as to fat added)
+Green peas, fresh, cooked with oil (Includes: English peas)
+Green peas, fresh, cooked with butter or margarine (Includes: English peas; animal fat; shortening)
+Green peas, frozen, cooked with oil (Includes: English peas)
+Green peas, frozen, cooked with butter or margarine (Includes: English peas; animal fat; shortening)
+Green peas, canned, cooked with oil (Includes: English peas)
+Green peas, canned, cooked with butter or margarine (Includes: English peas; animal fat; shortening)
+Green peas, canned, reduced sodium, cooked, no added fat (Includes: English peas; cooking spray; no salt added)
+Green peas, canned, reduced sodium, cooked, fat added, NS as to fat type (Includes: NS as to fat added; English peas; no salt added)
+Green peas, canned, reduced sodium, cooked with oil (Includes: English peas; no salt added)
+Green peas, canned, reduced sodium, cooked with butter or margarine (Includes: English peas; animal fat; shortening; no salt added)
+Peppers, green, cooked (Includes: NS as to color; with or without fat)
+Peppers, red, cooked (Includes: orange or yellow peppers; with or without fat)
+Peppers, hot, cooked (Includes: habanero; serrano; chili peppers)
+Pimiento
+Rutabaga, cooked (Includes: with or without fat)
+Salsify, cooked (Includes: vegetable oyster; with or without fat)
+Sauerkraut
+Snowpeas, fresh, cooked, no added fat (Includes: cooking spray; snap peas; sugar peas; pea pods)
+Snowpeas, frozen, cooked, no added fat (Includes: cooking spray; snap peas; sugar peas; pea pods)
+Snowpeas, NS as to form, cooked (Includes: with or without fat; snap peas; sugar peas; pea pods)
+Snowpeas, fresh, cooked, fat added (Includes: NS as to fat added; from restaurant; snap peas; sugar peas; pea pods)
+Snowpeas, frozen, cooked, fat added (Includes: NS as to fat added; snap peas; sugar peas; pea pods)
+Seaweed, dried (Includes: sea moss, kelp; laver)
+Seaweed, cooked, no added fat (Includes: cooking spray)
+Seaweed, cooked, fat added (Includes: NS as to fat added; from restaurant)
+Summer squash, yellow or green, fresh, cooked, no added fat (Includes: zucchini; squash, NS as to summer or winter; cooking spray)
+Summer squash, yellow or green, frozen, cooked, no added fat (Includes: zucchini; squash, NS as to summer or winter; cooking spray)
+Summer squash, yellow or green, NS as to form, cooked (Includes: zucchini; squash, NS as to summer or winter; with or without fat)
+Summer squash, yellow or green, fresh, cooked, fat added, NS as to fat type (Includes: zucchini; squash, NS as to summer or winter; NS as to fat added)
+Summer squash, yellow or green, frozen, cooked, fat added, NS as to fat type (Includes: zucchini; squash, NS as to summer or winter; NS as to fat added)
+Summer squash, yellow or green, canned, cooked, fat added, NS as to fat type (Includes: zucchini; squash, NS as to summer or winter; NS as to fat added)
+Summer squash, yellow or green, fresh, cooked with oil (Includes: zucchini; squash, NS as to summer or winter)
+Summer squash, yellow or green, fresh, cooked with butter or margarine (Includes: zucchini; squash, NS as to summer or winter; animal fat; shortening; from restaurant)
+Summer squash, yellow or green, frozen, cooked with oil (Includes: zucchini; squash, NS as to summer or winter)
+Summer squash, yellow or green, frozen, cooked with butter or margarine (Includes: zucchini; squash, NS as to summer or winter; animal fat; shortening)
+Spaghetti squash, cooked (Includes: with or without fat)
+Turnip, cooked (Includes: with or without fat)
+Water Chesnut (Includes: with or without fat)
+Winter melon, cooked (Includes: Chinese melon; togan; with or without fat)
+Yeast (Includes: brewers yeast)
+Lima beans and corn, cooked, no added fat (Includes: succotash; cooking spray)
+Lima beans and corn, cooked, fat added (Includes: succotash; NS as to fat added; from restaurant)
+Bean salad, yellow and/or green string beans (Includes: three bean salad)
+Peppers and onions, cooked, no added fat (Includes: cooking spray)
+Peppers and onions, cooked, fat added (Includes: NS as to fat added; from restaurant)
+Green beans, cooked, Szechuan-style (Includes: Chinese style green beans)
+Corn, scalloped or pudding (Includes: corn souffle)
+Green beans, pickled
+Beets, pickled (Includes: pickled beets with onions; beet salad)
+Celery, pickled
+Relish, corn (Includes: vegetable relish)
+Cauliflower, pickled
+Cabbage, green, pickled
+Cabbage, red, pickled (Includes: sweet and sour red cabbage)
+Relish, pickle (Includes: relish, NFS; sweet; mustard; hot dog)
+Pickles, sweet (Includes: gherkin; bread and butter)
+Eggplant, pickled
+Ginger root, pickled (Includes: gari; sushi ginger)
+Horseradish
+Mushrooms, pickled
+Mustard
+Honey mustard dip (Includes: honey mustard dipping sauce; hot mustard dipping sauce)
+Okra, pickled
+Olives, NFS
+Olives, green
+Olives, black (Includes: kalamata; purple)
+Olives, stuffed
+Peppers, sweet, pickled (Includes: red, green, and yellow)
+Peppers, hot, pickled
+Peppers, jalapenos (Includes: all types)
+Pickles, NFS (Includes: mixed pickles)
+Pickles, fried
+Radishes, pickled
+Seaweed, pickled (Includes: sea moss; kelp; laver)
+Turnip, pickled
+Wasabi paste (Includes: wasabi sauce)
+Zucchini, pickled
+Butter, NFS
+Butter, stick (Includes: pat)
+Butter, tub (Includes: individual container; butter-oil blend)
+Butter, light (Includes: stick or tub; light butter-oil blend)
+Oil or table fat, NFS
+Lard
+Shortening, NS as to vegetable or animal
+Ghee, clarified butter
+Garlic sauce
+Lemon-butter sauce (Includes: butter sauce)
+Hollandaise sauce (Includes: bernaise)
+Tartar sauce
+Horseradish sauce
+Pesto sauce
+Sauce, NFS
+Honey butter
+Vegetable oil, NFS (Includes: oil, NFS; oil blend, NFS)
+Almond oil (Includes: apricot kernel)
+Coconut oil
+Corn oil (Includes: Mazola Corn Oil; Mazola oil, NFS; Wesson Corn Oil)
+Cottonseed oil
+Flaxseed oil
+Olive oil
+Peanut oil
+Canola oil (Includes: rapeseed)
+Safflower oil
+Sesame oil
+Soybean oil
+Sunflower oil
+Walnut oil
+Wheat germ oil
+Mayonnaise, regular (Includes: mayonnaise, NFS)
+Bacon, for use with vegetables (Includes: fat back)
+Ham, for use with vegetables (Includes: ham hock; pork; sausage)
+Beef, for use with vegetables
+Chicken, for use with vegetables (Includes: turkey)
+Avocado, for use on a sandwich
+Cucumber, for use on a sandwich
+Lettuce, for use on a sandwich (Includes: all kinds)
+Mushrooms, for use on a sandwich
+Onions, for use on a sandwich
+Pepper, for use on a sandwich (Includes: all kinds)
+Spinach, for use on a sandwich
+Tomatoes, for use on a sandwich
+Bacon, for use on a sandwich
+Sugar, NFS
+Sugar, white, granulated or lump (Includes: sugar, white, NS as to granulated or confectioner's)
+Sugar, white, confectioner's, powdered
+Sugar, brown
+Sugar, cinnamon
+Sugar substitute and sugar blend (Includes: Domino Light)
+Sugar substitute, sucralose, powder (Includes: Splenda; yellow / gold packet or package)
+Sugar substitute, stevia, powder (Includes: Stevia; Truvia; Stevia In The Raw; Pure Via; green packet or package)
+Sugar substitute, stevia, liquid (Includes: Stevia; Truvia; Sweetleaf; Pure Via)
+Sugar substitute, monk fruit, powder (Includes: Monk Fruit In The Raw; Nectresse; orange packet or package)
+Sugar substitute, powder, NFS
+Sugar substitute, liquid, NFS
+Sugar substitute, saccharin, powder (Includes: Weight Watchers; Sweet 'n Low; Sugar Twin; pink packet or package)
+Sugar substitute, saccharin, liquid (Includes: Sweet 'n Low; Sweet 10; Superose)
+Sugar substitute, aspartame, powder (Includes: Equal; Nutrasweet; Sweet One; Natrataste; blue packet or package)
+Syrup, NFS
+Corn syrup (Includes: Karo)
+Blueberry syrup (Includes: all other fruit flavors)
+Chocolate syrup (Includes: Nestle Quik; Hershey's; chocolate sauce)
+Simple syrup (Includes: sugar and water; grenadine)
+Strawberry drink syrup (Includes: Nestle Quik; Hershey's; flavors other than chocolate)
+Honey
+Agave liquid sweetener (Includes: blue agave)
+Molasses
+Jelly
+Jam (Includes: preserve)
+Marmalade
+Sweet potato paste (Includes: dulce de calabaza)
+Bean paste, sweetened (Includes: Japanese red beans; azuki or red bean paste)
+Chocolate chips (Includes: baking chips, all varieties)
+Candy, sprinkles
+Dark chocolate candy, other, NFS
+White chocolate candy
+Coffee, NS as to type
+Coffee, Cuban
+Coffee substitute
+Tea, hot, leaf, black (Includes: tea bags; spiced, lemon- or other fruit-flavored tea; unsweetened; brewed; chai tea; black tea blends; tea, NS as to type)
+Tea, hot, leaf, black, decaffeinated (Includes: spiced, lemon- or other fruit-flavored tea; unsweetened; tea bags; brewed; chai tea; black tea blends)
+Tea, hot, leaf, green (Includes: unsweetened; tea bags; brewed; Japanese green tea; green tea blends)
+Tea, hot, leaf, green, decaffeinated (Includes: unsweetened; tea bags; brewed; white tea; Japanese green tea; green tea blends; rice tea)
+Tea, hot, herbal (Includes: herbal tea, NFS; unsweetened; leaf; tea bags; brewed; rooibos tea; mate tea; caraway seed tea)
+Tea, hot, hibiscus (Includes: Agua de Jamaica; unsweetened; leaf; tea bags; brewed)
+Tea, hot, with milk (Includes: Indian Masala chai; spiced milk tea; chai tea latte; tea latte; NS as to type)
+Tea, ginger
+Sugar cane beverage (Includes: guarapo)
+Atole (Includes: cornmeal beverage)
+Wine, nonalcoholic (Includes: cooking wine)
+Wine, red (Includes: burgundy; cabernet; chianti; merlot; pinot noir; zinfandel; NS as to type)
+Wine, white (Includes: chardonnay; chablis; pinot blanc; reisling; rhine; sauvignon blanc; pinot grigio)
+Water, NFS
+Water, tap (Includes: filtered tap water; well water; water fountain)
+Water, bottled, plain (Includes: alkaline water)
+Water, non-carbonated, flavored (Includes: sweetened or unsweetened; diet; zero calorie)
+Cheese as ingredient in sandwiches
+Cheese and Queso as ingredient
+Beef as ingredient in recipes
+Chicken as ingredient in recipes
+Fish, cooked, as ingredient
+Fish fillet, fried as ingredient in sandwiches
+Breading or batter as ingredient in food
+Wheat bread as ingredient in sandwiches
+Wheat bun as ingredient in sandwiches
+Rice, white, cooked, as ingredient
+Rice, brown, cooked, as ingredient
+Potato, cooked, as ingredient
+Spinach, cooked, as ingredient
+Broccoli, cooked, as ingredient
+Carrots, cooked, as ingredient
+Sweet potato, cooked, as ingredient
+Tomatoes, cooked, as ingredient
+Onions, cooked, as ingredient
+Mushrooms, cooked, as ingredient
+Green pepper, cooked, as ingredient
+Red pepper, cooked, as ingredient
+Cabbage, cooked, as ingredient
+Cauliflower, cooked, as ingredient
+Eggplant, cooked, as ingredient
+Green beans, cooked, as ingredient
+Summer squash, cooked, as ingredient
+Celery, cooked, as ingredient
+Dark green vegetables as ingredient in omelet
+Tomatoes as ingredient in omelet
+Other vegetables as ingredient in omelet
+Mirepoix, cooked, as ingredient
+Butter, stick, salted
+Butter, whipped, with salt
+Butter oil, anhydrous
+Cheese, blue
+Cheese, brick
+Cheese, brie
+Cheese, camembert
+Cheese, cheddar
+Cheese, colby
+Cottage cheese, full fat, large or small curd
+Cheese, cottage, nonfat, uncreamed, dry, large or small curd
+Cheese, cottage, lowfat, 2% milkfat
+Cheese, cottage, lowfat, 1% milkfat
+Cream cheese, full fat, block
+Cheese, feta, whole milk, crumbled
+Cheese, fontina
+Cheese, gouda
+Cheese, gruyere
+Cheese, limburger
+Cheese, mozzarella, low moisture, part-skim
+Cheese, muenster
+Cheese, parmesan, grated
+Cheese, ricotta, whole milk
+Cheese, ricotta, part skim milk
+Cheese, swiss
+Cheese, pasteurized process, American, vitamin D fortified
+Cheese spread, pasteurized process, American
+Cream, fluid, half and half
+Cream, fluid, light (coffee cream or table cream)
+Cream, heavy
+Cream, whipped, cream topping, pressurized
+Cream, sour, full fat
+Eggnog
+Cheese, American, nonfat or fat free
+Cheese, American, restaurant
+Cream substitute, liquid, with hydrogenated vegetable oil and soy protein
+Cream substitute, powdered
+Sour cream, imitation, cultured
+Milk, whole, 3.25% milkfat, with added vitamin D
+Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D
+Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D
+Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)
+Buttermilk, low fat
+Milk, dry, whole, with added vitamin D
+Milk, dry, nonfat, regular, without added vitamin A and vitamin D
+Milk, buttermilk, dried
+Milk, canned, condensed, sweetened
+Milk, canned, evaporated, with added vitamin D and without added vitamin A
+Milk, canned, evaporated, nonfat, with added vitamin A and vitamin D
+Milk, chocolate, fluid, commercial, whole, with added vitamin A and vitamin D
+Milk, chocolate, fluid, commercial, reduced fat, with added vitamin A and vitamin D
+Milk, chocolate, lowfat, with added vitamin A and vitamin D
+Milk, goat, fluid, with added vitamin D
+Whey, sweet, dried
+Yogurt, plain, whole milk
+Yogurt, plain, low fat
+Eggs, Grade A, Large, egg whole
+Eggs, Grade A, Large, egg white
+Eggs, Grade A, Large, egg yolk
+Egg, whole, cooked, hard-boiled
+Egg, whole, dried
+Egg, duck, whole, fresh, raw
+Egg, goose, whole, fresh, raw
+Egg, quail, whole, fresh, raw
+Butter, stick, unsalted
+Milk, nonfat, fluid, without added vitamin A and vitamin D (fat free or skim)
+Milk, dry, nonfat, regular, with added vitamin A and vitamin D
+Cheese, goat, semisoft type
+Cheese sauce, prepared from recipe
+Cheese, mexican, queso anejo
+Cheese, low-sodium, cheddar or colby
+Sour cream, light
+Sour cream, fat free
+Parmesan cheese topping, fat free
+Cheese, cream, fat free
+Cream, half and half, fat free
+Cream substitute, flavored, liquid
+Cream substitute, flavored, powdered
+Cheese, provolone, reduced fat
+Cheese, Mexican, blend, reduced fat
+Milk, whole, 3.25% milkfat, without added vitamin A and vitamin D
+Cheese product, pasteurized process, American, reduced fat, fortified with vitamin D
+Protein supplement, milk based, Muscle Milk, powder
+Protein supplement, milk based, Muscle Milk Light, powder
+Egg substitute, liquid or frozen, fat free
+Cheese, dry white, queso seco
+Cheese product, pasteurized process, American, vitamin D fortified
+Yogurt, Greek, plain, nonfat
+Cheese spread, American or Cheddar cheese base, reduced fat
+Cheese, cheddar, reduced fat (Includes foods for USDA's Food Distribution Program)
+Cheese, cheddar, nonfat or fat free
+Cheese, Swiss, nonfat or fat free
+Yogurt, Greek, plain, lowfat
+Kefir, lowfat, plain, LIFEWAY
+Kefir, lowfat, strawberry, LIFEWAY
+Milk, chocolate, fat free, with added vitamin A and vitamin D
+Yogurt, Greek, plain, whole milk
+Yogurt, Greek, vanilla, lowfat
+Spices, basil, dried
+Spices, caraway seed
+Spices, chili powder
+Spices, cinnamon, ground
+Spices, coriander leaf, dried
+Spices, cumin seed
+Spices, garlic powder
+Spices, mustard seed, ground
+Spices, nutmeg, ground
+Spices, oregano, dried
+Spices, paprika
+Spices, parsley, dried
+Spices, pepper, black
+Spices, pepper, red or cayenne
+Spices, sage, ground
+Spices, thyme, dried
+Spices, turmeric, ground
+Basil, fresh
+Mustard, prepared, yellow
+Salt, table
+Vinegar, cider
+Vanilla extract
+Vinegar, distilled
+Capers, canned
+Horseradish, prepared
+Lard
+Oil, cottonseed, salad or cooking
+Oil, safflower
+Oil, corn
+Oil, walnut
+Oil, almond
+Oil, canola
+Butter, light, stick, with salt
+Oil, industrial, coconut, confection fat, typical basis for ice cream coatings
+Oil, PAM cooking spray, original
+Oil, industrial, canola, high oleic
+Oil, industrial, soy, low linolenic
+Oil, industrial, soy, ultra low linolenic
+Oil, industrial, soy, fully hydrogenated
+Mayonnaise, reduced fat, with olive oil
+Chicken, broiler, rotisserie, BBQ, breast, meat only
+Chicken, broilers or fryers, skin only, raw
+Chicken, broilers or fryers, skin only, cooked, roasted
+Chicken, broilers or fryers, giblets, cooked, simmered
+Chicken, gizzard, all classes, cooked, simmered
+Chicken, liver, all classes, raw
+Chicken, liver, all classes, cooked, simmered
+Chicken, broilers or fryers, back, meat and skin, cooked, roasted
+Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw
+Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted
+Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted
+Chicken, broilers or fryers, neck, meat and skin, cooked simmered
+Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted
+Chicken, broilers or fryers, thigh, meat only, cooked, roasted
+Chicken, broilers or fryers, wing, meat and skin, cooked, roasted
+Chicken, broilers or fryers, wing, meat and skin, cooked, stewed
+Duck, domesticated, meat and skin, cooked, roasted
+Duck, domesticated, meat only, cooked, roasted
+Goose, domesticated, meat and skin, cooked, roasted
+Turkey, whole, meat and skin, raw
+Turkey, whole, meat and skin, cooked, roasted
+Turkey, whole, meat only, raw
+Turkey, whole, meat only, cooked, roasted
+Turkey, whole, neck, meat only, cooked, simmered
+Turkey, whole, light meat, meat and skin, cooked, roasted
+Turkey, whole, dark meat, meat and skin, cooked, roasted
+Turkey, all classes, light meat, cooked, roasted
+Turkey, whole, dark meat, cooked, roasted
+Turkey, all classes, leg, meat and skin, cooked, roasted
+Turkey, all classes, wing, meat and skin, cooked, roasted
+Turkey, whole, breast, meat only, cooked, roasted
+Turkey, whole, wing, meat only, cooked, roasted
+Turkey, Ground, cooked
+Chicken, cornish game hens, meat and skin, cooked, roasted
+Chicken, cornish game hens, meat only, cooked, roasted
+Chicken, canned, no broth
+Chicken, broilers or fryers, breast, skinless, boneless, meat only, with added solution, raw
+Chicken, broiler, rotisserie, BBQ, drumstick, meat only
+Chicken patty, frozen, cooked
+Chicken, broiler, rotisserie, BBQ, thigh, meat only
+Chicken, feet, boiled
+Chicken, broiler, rotisserie, BBQ, breast, meat and skin
+Chicken, broiler, rotisserie, BBQ, drumstick, meat and skin
+Chicken, broiler, rotisserie, BBQ, thigh, meat and skin
+Chicken, broiler, rotisserie, BBQ, wing, meat and skin
+Ostrich, ground, cooked, pan-broiled
+Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles
+Chicken, broilers or fryers, drumstick, meat only, cooked, braised
+Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised
+Chicken, broilers or fryers, dark meat, drumstick, meat and skin, cooked, braised
+Chicken, broilers or fryers, dark meat, thigh, meat and skin, cooked, braised
+Turkey, dark meat, meat only, with added solution, cooked, roasted
+Turkey from whole, light meat, meat only, with added solution, cooked, roasted
+Turkey, skin from whole, (light and dark), with added solution, roasted
+Turkey, dark meat from whole, meat and skin, with added solution, cooked, roasted
+Turkey from whole, light meat, meat and skin, with added solution, cooked, roasted
+Turkey, whole, meat only, with added solution, roasted
+Turkey, whole, meat and skin, with added solution, roasted
+Turkey, drumstick, from whole bird, meat only, with added solution, roasted
+Turkey, retail parts, breast, meat and skin, with added solution, raw
+Turkey, thigh, from whole bird, meat only, with added solution, roasted
+Turkey, wing, from whole bird, meat only, with added solution, roasted
+Turkey, drumstick, from whole bird, meat only, roasted
+Turkey, thigh, from whole bird, meat only, roasted
+Turkey, retail parts, thigh, meat and skin, cooked, roasted
+Turkey, back, from whole bird, meat and skin, with added solution, roasted
+Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised
+Sauce, teriyaki, ready-to-serve
+Sauce, barbecue
+Sauce, salsa, ready-to-serve
+Sauce, ready-to-serve, pepper, TABASCO
+Sauce, hoisin, ready-to-serve
+Sauce, oyster, ready-to-serve
+Sauce, fish, ready-to-serve
+Fish broth
+Sauce, worcestershire
+Sauce, tomato chili sauce, bottled, with salt
+Sauce, pasta, spaghetti/marinara, ready-to-serve, low sodium
+Blood sausage
+Bratwurst, pork, cooked
+Braunschweiger (a liver sausage), pork
+Frankfurter, beef, unheated
+Frankfurter, turkey
+Ham, sliced, pre-packaged, deli meat (96%fat free, water added)
+Headcheese, pork
+Knackwurst, knockwurst, pork, beef
+Roast beef, deli style, prepackaged, sliced
+Mortadella, beef, pork
+Pate, chicken liver, canned
+Pepperoni, beef and pork, sliced
+Pork sausage, link/patty, cooked, pan-fried
+Salami, cooked, turkey
+Salami, dry or hard, pork, beef
+Thuringer, cervelat, summer sausage, beef, pork
+Turkey breast, sliced, prepackaged
+Sausage, Vienna, canned, chicken, beef, pork
+Sausage, Italian, pork, mild, cooked, pan-fried
+Ham, sliced, restaurant
+Luncheon meat, pork, ham, and chicken, minced, canned, reduced sodium, added ascorbic acid, includes SPAM, 25% less sodium
+Luncheon meat, pork with ham, minced, canned, includes Spam (Hormel)
+Sausage, turkey, breakfast links, mild, raw
+Scrapple, pork
+Sausage, breakfast sausage, beef, pre-cooked, unprepared
+Chicken breast, deli, rotisserie seasoned, sliced, prepackaged
+Frankfurter, meat and poultry, unheated
+Pork sausage, link/patty, reduced fat, cooked, pan-fried
+Kielbasa, fully cooked, grilled
+Bologna, meat and poultry
+Bacon, turkey, microwaved
+Bacon, turkey, low sodium
+Sausage, chicken or turkey, Italian style, lower sodium
+Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)
+Apples, raw, without skin
+Apples, dried, sulfured, uncooked
+Apple juice, canned or bottled, unsweetened, without added ascorbic acid
+Apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid
+Applesauce, canned, unsweetened, without added ascorbic acid (Includes foods for USDA's Food Distribution Program)
+Applesauce, canned, sweetened, without salt
+Apricots, raw
+Apricots, canned, water pack, with skin, solids and liquids
+Apricots, dried, sulfured, uncooked
+Apricot nectar, canned, with added ascorbic acid
+Avocados, raw, all commercial varieties
+Bananas, ripe and slightly ripe, raw
+Bananas, dehydrated, or banana powder
+Blackberries, raw
+Blackberry juice, canned
+Cherries, tart, dried, sweetened (Includes foods for USDA's Food Distribution Program)
+Blackberries, frozen, unsweetened
+Blueberries, raw
+Blueberries, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)
+Breadfruit, raw
+Carambola, (starfruit), raw
+Cherries, sour, red, canned, water pack, solids and liquids
+Cherries, sweet, dark red, raw
+Cherries, sweet, canned, water pack, solids and liquids
+Cranberries, raw
+Cranberries, dried, sweetened (Includes foods for USDA's Food Distribution Program)
+Cranberry sauce, canned, sweetened
+Currants, zante, dried
+Dates, deglet noor
+Figs, raw
+Figs, dried, uncooked
+Grapefruit, raw, pink and red, all areas
+Grapefruit, sections, canned, water pack, solids and liquids
+Grapefruit juice, white, canned or bottled, unsweetened
+Grapefruit juice, pink or red, with added calcium
+Grapefruit juice, white, raw
+Grape juice, purple, with added vitamin C, from concentrate, shelf stable
+Grape juice, canned or bottled, unsweetened, without added ascorbic acid
+Guavas, common, raw
+Guava sauce, cooked
+Kiwifruit, green, raw
+Kumquats, raw
+Lemons, raw, without peel
+Lemon juice, raw
+Lemon juice from concentrate, canned or bottled
+Lemon peel, raw
+Limes, raw
+Lime juice, raw
+Lime juice, canned or bottled, unsweetened
+Blueberries, dried, sweetened
+Litchis, raw
+Mangos, raw
+Mango, dried, sweetened
+Melons, cantaloupe, raw
+Melons, honeydew, raw
+Nectarines, raw
+Olives, ripe, canned (small-extra large)
+Olives, pickled, canned or bottled, green
+Oranges, raw, all commercial varieties
+Oranges, raw, navels
+Orange juice, no pulp, not fortified, not from concentrate, refrigerated
+Orange juice, canned, unsweetened
+Orange juice, no pulp, not fortified, from concentrate, refrigerated
+Orange juice, frozen concentrate, unsweetened, undiluted, with added calcium
+Orange juice, frozen concentrate, unsweetened, undiluted
+Tangerines, (mandarin oranges), raw
+Tangerines, (mandarin oranges), canned, juice pack
+Tangerine juice, raw
+Papayas, raw
+Papaya nectar, canned
+Passion-fruit, (granadilla), purple, raw
+Passion-fruit juice, purple, raw
+Peaches, yellow, raw
+Peaches, canned, water pack, solids and liquids
+Peaches, dried, sulfured, uncooked
+Peach nectar, canned, with sucralose, without added ascorbic acid
+Pears, raw
+Pears, canned, water pack, solids and liquids
+Pears, dried, sulfured, uncooked
+Pear nectar, canned, without added ascorbic acid
+Persimmons, japanese, raw
+Pineapple, raw
+Pineapple, canned, water pack, solids and liquids
+Pineapple juice, canned or bottled, unsweetened, without added ascorbic acid
+Plantains, yellow, raw
+Plums, raw
+Pomegranates, raw
+Plums, dried (prunes), uncooked
+Prune juice, canned
+Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)
+Raspberries, raw
+Rhubarb, raw
+Strawberries, raw
+Strawberries, canned, heavy syrup pack, solids and liquids
+Strawberries, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)
+Tamarinds, raw
+Watermelon, raw
+Maraschino cherries, canned, drained
+Pears, asian, raw
+Blueberries, canned, light syrup, drained
+Apple juice, with added vitamin C, from concentrate, shelf stable
+Applesauce, unsweetened, with added vitamin C
+Pineapple juice, canned or bottled, unsweetened, with added ascorbic acid
+Pears, raw, bartlett
+Candied fruit
+Guanabana nectar, canned
+Mango nectar, canned
+Pomegranate juice, bottled
+Juice, apple and grape blend, with added ascorbic acid
+Apples, red delicious, with skin, raw
+Apples, honeycrisp, with skin, raw
+Apples, granny smith, with skin, raw
+Apples, gala, with skin, raw
+Apples, fuji, with skin, raw
+Grape juice, canned or bottled, unsweetened, with added ascorbic acid and calcium
+Apple juice, canned or bottled, unsweetened, with added ascorbic acid, calcium, and potassium
+Guava nectar, with sucralose, canned
+Cranberry juice blend, 100% juice, bottled, with added vitamin C and calcium
+Fruit juice smoothie, NAKED JUICE, strawberry banana
+Olives, green, Manzanilla, stuffed with pimiento
+Pork, fresh, composite of trimmed retail cuts (leg, loin, shoulder), separable lean only, raw
+Pork, fresh, composite of trimmed leg, loin, shoulder, and spareribs, (includes cuts to be cured), separable lean and fat, raw
+Pork, fresh, separable fat, cooked
+Pork, fresh, loin, whole, separable lean only, raw
+Pork, fresh, loin, whole, separable lean only, cooked, roasted
+Pork, fresh, loin, tenderloin, separable lean only, raw
+Pork, fresh, loin, tenderloin, separable lean only, cooked, roasted
+Pork, fresh, loin, top loin (chops), boneless, separable lean and fat, cooked, broiled
+Pork, fresh, loin, top loin (roasts), boneless, separable lean and fat, cooked, roasted
+Pork, fresh, loin, top loin (chops), boneless, separable lean only, cooked, broiled
+Pork, fresh, loin, top loin (roasts), boneless, separable lean only, cooked, roasted
+Pork, fresh, shoulder, whole, separable lean and fat, raw
+Pork, fresh, shoulder, whole, separable lean only, cooked, roasted
+Pork, fresh, shoulder, arm picnic, separable lean and fat, cooked, braised
+Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean and fat, cooked, braised
+Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean only, cooked, braised
+Pork, fresh, composite of trimmed retail cuts (leg, loin, and shoulder), separable lean only, cooked
+Pork, fresh, variety meats and by-products, chitterlings, cooked, simmered
+Pork, fresh, variety meats and by-products, stomach, raw
+Pork, cured, feet, pickled
+Pork, cured, ham, boneless, regular (approximately 11% fat), roasted
+Pork, cured, ham, center slice, country-style, separable lean only, raw
+Pork, cured, ham, whole, separable lean only, roasted
+Pork, cured, salt pork, raw
+Pork, fresh, variety meats and by-products, feet, cooked, simmered
+Pork, cured, ham, boneless, extra lean and regular, unheated
+Pork, cured, ham, extra lean and regular, canned, roasted
+Pork, fresh, composite of trimmed retail cuts (leg, loin, shoulder, and spareribs), separable lean and fat, cooked
+Pork, fresh, backribs, separable lean and fat, cooked, roasted
+Pork, fresh, ground, cooked
+Pork, cured, bacon, pre-sliced, cooked, pan-fried
+Pork, cured, ham and water product, whole, boneless, separable lean only, heated, roasted
+Pork, cured, ham -- water added, whole, boneless, separable lean only, heated, roasted
+Pork, cured, ham with natural juices, whole, boneless, separable lean only, heated, roasted
+Pork, cured, bacon, cooked, restaurant
+Pork, cured, ham -- water added, whole, boneless, separable lean and fat, heated, roasted
+Pork, cured, ham and water product, whole, boneless, separable lean and fat, heated, roasted
+Pork, cured, ham with natural juices, whole, boneless, separable lean and fat, heated, roasted
+Pork, cured, ham, shank, bone-in, separable lean and fat, heated, roasted
+Pork, fresh, loin, tenderloin, separable lean only, with added solution, cooked, roasted
+Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean only, with added solution cooked, braised
+Pork, fresh, loin, top loin (chops), boneless, separable lean only, with added solution, cooked, broiled
+Pork, fresh, loin, top loin (chops), boneless, separable lean and fat, with added solution, cooked, broiled
+Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean and fat, with added solution, cooked, braised
+Pork, ground, 84% lean / 16% fat, cooked, pan-broiled
+Canadian bacon, cooked, pan-fried
+Alfalfa seeds, sprouted, raw
+Artichokes, (globe or french), cooked, boiled, drained, without salt
+Asparagus, raw
+Asparagus, canned, drained solids
+Asparagus, frozen, cooked, boiled, drained, without salt
+Balsam-pear (bitter gourd), leafy tips, cooked, boiled, drained, without salt
+Balsam-pear (bitter gourd), pods, cooked, boiled, drained, without salt
+Bamboo shoots, canned, drained solids
+Lima beans, immature seeds, frozen, fordhook, cooked, boiled, drained, without salt
+Mung beans, mature seeds, sprouted, raw
+Beans, snap, green, raw
+Beans, snap, green, canned, regular pack, drained solids
+Beans, snap, green, frozen, cooked, boiled, drained without salt
+Beets, raw
+Beets, canned, drained solids
+Beet greens, raw
+Broccoli, raw
+Broccoli, frozen, chopped, cooked, boiled, drained, without salt
+Broccoli raab, raw
+Brussels sprouts, raw
+Brussels sprouts, frozen, cooked, boiled, drained, without salt
+Burdock root, raw
+Cabbage, green, raw
+Cabbage, red, raw
+Cabbage, savoy, raw
+Cabbage, chinese (pak-choi), raw
+Cabbage, kimchi
+Carrots, mature, raw
+Carrots, cooked, boiled, drained, without salt
+Carrots, canned, regular pack, drained solids
+Carrots, frozen, unprepared
+Carrots, frozen, cooked, boiled, drained, without salt
+Cassava, raw
+Cauliflower, raw
+Cauliflower, frozen, cooked, boiled, drained, without salt
+Celery, raw
+Chard, swiss, raw
+Chayote, fruit, raw
+Chives, raw
+Collards, raw
+Collards, frozen, chopped, cooked, boiled, drained, without salt
+Coriander (cilantro) leaves, raw
+Corn, sweet, yellow, raw
+Corn, sweet, yellow, canned, whole kernel, drained solids
+Corn, sweet, yellow, canned, cream style, regular pack
+Corn, sweet, yellow, frozen, kernels cut off cob, boiled, drained, without salt
+Cowpeas (blackeyes), immature seeds, frozen, cooked, boiled, drained, without salt
+Cress, garden, raw
+Cucumber, with peel, raw
+Dandelion greens, raw
+Eggplant, raw
+Edamame, frozen, prepared
+Escarole, cooked, boiled, drained, no salt added
+Garlic, raw
+Ginger root, raw
+Kale, raw
+Kale, frozen, cooked, boiled, drained, without salt
+Mushrooms, shiitake
+Kohlrabi, raw
+Mushroom, portabella
+Lambsquarters, cooked, boiled, drained, without salt
+Leeks, (bulb and lower leaf-portion), raw
+Lettuce, iceberg, raw
+Lettuce, leaf, green, raw
+Lotus root, cooked, boiled, drained, without salt
+Lettuce, leaf, red, raw
+Mushrooms, white button
+Mushrooms, canned, drained solids
+Mushroom, crimini
+Mustard greens, raw
+Mustard greens, frozen, cooked, boiled, drained, without salt
+Okra, raw
+Okra, frozen, cooked, boiled, drained, without salt
+Onions, raw
+Onions, cooked, boiled, drained, without salt
+Onions, frozen, whole, cooked, boiled, drained, without salt
+Onions, spring or scallions (includes tops and bulb), raw
+Onion rings, breaded, par fried, frozen, prepared, heated in oven
+Parsley, fresh
+Parsnips, cooked, boiled, drained, without salt
+Peas, edible-podded, raw
+Peas, edible-podded, frozen, cooked, boiled, drained, without salt
+Peas, green, raw
+Peas, green (includes baby and lesuer types), canned, drained solids, unprepared
+Peas, green, frozen, cooked, boiled, drained, without salt
+Peppers, bell, green, raw
+Peppers, sweet, green, cooked, boiled, drained, without salt
+Pokeberry shoots, (poke), cooked, boiled, drained, without salt
+Potatoes, flesh and skin, raw
+Potatoes, baked, flesh, without salt
+Potatoes, boiled, cooked without skin, flesh, without salt
+Potatoes, mashed, dehydrated, flakes without milk, dry form
+Potatoes, hash brown, frozen, plain, prepared, pan fried in canola oil
+Potato puffs, frozen, unprepared
+Potatoes, french fried, all types, salt added in processing, frozen, home-prepared, oven heated
+Flour, potato
+Pumpkin flowers, cooked, boiled, drained, without salt
+Pumpkin, raw
+Pumpkin, canned, without salt
+Radishes, raw
+Rutabagas, raw
+Salsify, cooked, boiled, drained, without salt
+Sauerkraut, canned, solids and liquids
+Seaweed, kelp, raw
+Seaweed, laver, raw
+Spinach, mature
+Spinach, canned, regular pack, drained solids
+Spinach, frozen, chopped or leaf, cooked, boiled, drained, without salt
+Squash, summer, crookneck and straightneck, raw
+Squash, summer, crookneck and straightneck, canned, drained, solid, without salt
+Squash, summer, crookneck and straightneck, frozen, cooked, boiled, drained, without salt
+Squash, summer, zucchini, includes skin, raw
+Squash, summer, zucchini, includes skin, frozen, cooked, boiled, drained, without salt
+Squash, winter, spaghetti, cooked, boiled, drained, or baked, without salt
+Sweet potato leaves, cooked, steamed, without salt
+Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)
+Sweet potato, canned, vacuum pack
+Taro, raw
+Taro leaves, raw
+Tomatoes, green, raw
+Tomatoes, red, ripe, raw, year round average
+Tomatoes, red, ripe, canned, packed in tomato juice
+Tomato juice, with added ingredients, from concentrate, shelf stable
+Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)
+Tomato products, canned, puree, without salt added
+Tomato products, canned, sauce
+Turnips, raw
+Turnip greens, cooked, boiled, drained, without salt
+Turnip greens, frozen, cooked, boiled, drained, without salt
+Waterchestnuts, chinese, canned, solids and liquids
+Watercress, raw
+Waxgourd, (chinese preserving melon), cooked, boiled, drained, without salt
+Yambean (jicama), raw
+Beets, pickled, canned, solids and liquids
+Squash, winter, all varieties, cooked, baked, without salt
+Carrot juice, canned
+Seaweed, agar, dried
+Seaweed, spirulina, dried
+Seaweed, wakame, raw
+Potatoes, baked, flesh and skin, without salt
+Beans, snap, green, canned, no salt added, drained solids
+Beans, snap, yellow, frozen, cooked, boiled, drained, without salt
+Beets, canned, no salt added, solids and liquids
+Carrots, canned, no salt added, solids and liquids
+Corn, sweet, yellow, canned, no salt added, solids and liquids (Includes foods for USDA's Food Distribution Program)
+Peas, green, canned, no salt added, solids and liquids
+Peppers, hot chili, red, raw
+Peppers, bell, red, raw
+Tomatoes, red, ripe, canned, packed in tomato juice, no salt added
+Tomato products, canned, puree, with salt added
+Catsup
+Pickles, cucumber, dill or kosher dill
+Pickles, cucumber, sweet (includes bread and butter pickles)
+Pimento, canned
+Pickle relish, sweet
+Catsup, low sodium
+Radicchio, raw
+Tomatoes, sun-dried
+Fennel, bulb, raw
+Arugula, raw
+Carrots, baby, raw
+Nopales, raw
+Cauliflower, green, raw
+Ketchup, restaurant
+Grape leaves, raw
+Pepper, banana, raw
+Peppers, serrano, raw
+Peppers, jalapeno, raw
+Broccoli, chinese, raw
+Seeds, chia seeds, dried
+Seeds, pumpkin and squash seed kernels, roasted, without salt
+Seeds, sunflower seed kernels, dry roasted, without salt
+Nuts, almonds, whole, raw
+Nuts, almonds, dry roasted, without salt added
+Nuts, almond paste
+Nuts, brazilnuts, dried, unblanched
+Nuts, cashew nuts, dry roasted, without salt added
+Nuts, coconut meat, raw
+Nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged
+Nuts, coconut cream, canned, sweetened
+Nuts, coconut milk, raw (liquid expressed from grated meat and water)
+Nuts, hazelnuts or filberts
+Nuts, pecans, halves, raw
+Nuts, pine nuts, dried
+Nuts, pistachio nuts, dry roasted, without salt added
+Nuts, walnuts, English, halves, raw
+Nuts, chestnuts, european, roasted
+Almond butter, creamy
+Seeds, sesame seed kernels, dried (decorticated)
+Flaxseed, ground
+Nuts, cashew butter, plain, with salt added
+Nuts, macadamia nuts, dry roasted, with salt added
+Beef, retail cuts, separable fat, cooked
+Beef, chuck, under blade pot roast, boneless, separable lean only, trimmed to 0" fat, all grades, cooked, braised
+Beef, ground, patties, frozen, cooked, broiled
+Beef, variety meats and by-products, brain, cooked, simmered
+Beef, variety meats and by-products, heart, cooked, simmered
+Beef, variety meats and by-products, kidneys, cooked, simmered
+Beef, variety meats and by-products, liver, cooked, pan-fried
+Beef, variety meats and by-products, tongue, cooked, simmered
+Beef, variety meats and by-products, tripe, raw
+Beef, cured, breakfast strips, cooked
+Beef, cured, corned beef, brisket, cooked
+Beef, cured, dried
+Beef, cured, pastrami
+Beef, brisket, whole, separable lean and fat, trimmed to 0" fat, all grades, cooked, braised
+Beef, brisket, whole, separable lean only, trimmed to 0" fat, all grades, cooked, braised
+Beef, loin, tenderloin steak, boneless, separable lean only, trimmed to 0" fat, all grades, cooked, grilled
+Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8" fat, all grades, cooked, grilled
+Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8" fat, all grades, cooked
+Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8" fat, all grades, cooked, braised
+Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 1/8" fat, all grades, cooked, roasted
+Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8" fat, all grades, cooked, broiled
+Beef, round, full cut, separable lean and fat, trimmed to 1/8" fat, choice, raw
+Beef, round, full cut, separable lean and fat, trimmed to 1/8" fat, choice, cooked, broiled
+Beef, round, top round steak, separable lean and fat, trimmed to 1/8" fat, all grades, cooked, broiled
+Beef, loin, top loin, separable lean and fat, trimmed to 1/8" fat, all grades, cooked, grilled
+Beef, tenderloin, roast, separable lean and fat, trimmed to 1/8" fat, prime, cooked, roasted
+Beef, round, top round steak, boneless, separable lean and fat, trimmed to 0" fat, all grades, cooked, grilled
+Almond milk, unsweetened, plain, shelf stable
+Fish, anchovy, european, canned in oil, drained solids
+Fish, carp, raw
+Fish, caviar, black and red, granular
+Fish, cod, Atlantic, cooked, dry heat
+Fish, cod, Atlantic, canned, solids and liquid
+Fish, cod, Pacific, raw (may have been previously frozen)
+Fish, croaker, Atlantic, raw
+Fish, eel, mixed species, raw
+Fish, fish sticks, frozen, prepared
+Fish, flatfish (flounder and sole species), raw
+Fish, haddock, raw
+Fish, haddock, smoked
+Fish, halibut, Atlantic and Pacific, raw
+Fish, herring, Atlantic, raw
+Fish, herring, Atlantic, pickled
+Fish, mackerel, jack, canned, drained solids
+Fish, mackerel, Pacific and jack, mixed species, raw
+Fish, mullet, striped, raw
+Fish, ocean perch, Atlantic, raw
+Fish, perch, mixed species, raw
+Fish, pike, northern, raw
+Fish, pollock, raw
+Fish, pompano, florida, raw
+Fish, salmon, chinook, smoked
+Fish, salmon, pink, raw
+Fish, salmon, pink, canned, total can contents
+Fish, salmon, sockeye, raw
+Fish, sardine, Atlantic, canned in oil, drained solids with bone
+Fish, sea bass, mixed species, raw
+Fish, shark, mixed species, raw
+Fish, snapper, mixed species, raw
+Fish, swordfish, raw
+Fish, tuna, light, canned in water, drained solids
+Fish, tuna, fresh, yellowfin, raw
+Fish, whiting, mixed species, raw
+Crustaceans, crab, alaska king, imitation, made from surimi
+Crustaceans, crab, blue, cooked, moist heat
+Crustaceans, crab, blue, canned
+Crustaceans, crayfish, mixed species, wild, raw
+Crustaceans, lobster, northern, raw
+Crustaceans, lobster, northern, cooked, moist heat
+Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)
+Crustaceans, shrimp, mixed species, cooked, moist heat (may contain additives to retain moisture)
+Crustaceans, shrimp, mixed species, canned
+Mollusks, abalone, mixed species, raw
+Mollusks, clam, mixed species, raw
+Mollusks, clam, mixed species, canned, drained solids
+Mollusks, clam, mixed species, canned, liquid
+Mollusks, mussel, blue, raw
+Mollusks, octopus, common, raw
+Mollusks, oyster, eastern, wild, raw
+Mollusks, oyster, eastern, canned
+Mollusks, scallop, mixed species, raw
+Mollusks, squid, mixed species, raw
+Fish, cod, Pacific, cooked, dry heat (may contain additives to retain moisture)
+Fish, catfish, channel, farmed, raw
+Fish, salmon, Atlantic, farmed, raw
+Fish, trout, rainbow, farmed, raw
+Fish, tilapia, raw
+Fish, Salmon, pink, canned, drained solids, without skin and bones
+Beans, baked, canned, plain or vegetarian
+Beans, baked, canned, with pork and sweet sauce
+Beans, black, mature seeds, raw
+Beans, black, mature seeds, cooked, boiled, without salt
+Beans, black turtle, mature seeds, cooked, boiled, without salt
+Beans, black turtle, mature seeds, canned
+Beans, great northern, mature seeds, canned
+Beans, kidney, all types, mature seeds, cooked, boiled, without salt
+Beans, kidney, red, mature seeds, cooked, boiled, without salt
+Beans, kidney, red, mature seeds, canned, solids and liquids
+Beans, pink, mature seeds, cooked, boiled, without salt
+Beans, pinto, mature seeds, cooked, boiled, without salt
+Beans, yellow, mature seeds, cooked, boiled, without salt
+Beans, white, mature seeds, cooked, boiled, without salt
+Broadbeans (fava beans), mature seeds, cooked, boiled, without salt
+Chickpeas (garbanzo beans, bengal gram), mature seeds, raw
+Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt
+Cowpeas, common (blackeyes, crowder, southern), mature seeds, cooked, boiled, without salt
+Lentils, raw
+
+Lima beans, large, mature seeds, cooked, boiled, without salt
+Peas, split, mature seeds, cooked, boiled, without salt
+Peanuts, all types, raw
+Peanuts, all types, cooked, boiled, with salt
+Peanuts, all types, oil-roasted, with salt
+Peanuts, all types, dry-roasted, with salt
+Peanut butter, smooth style, with salt (Includes foods for USDA's Food Distribution Program)
+Refried beans, canned, traditional style
+Bacon, meatless
+Sausage, meatless
+Soybeans, mature cooked, boiled, without salt
+Soybeans, mature seeds, roasted, salted
+Miso
+Natto
+Flour, soy, full-fat
+Flour, soy, defatted
+Soy protein isolate
+Soy sauce made from soy and wheat (shoyu)
+Tofu, soft, prepared with calcium sulfate and magnesium chloride (nigari)
+Tofu, fried
+Soymilk, original and vanilla, with added calcium, vitamins A and D
+Peanut spread, reduced sugar
+Peanut butter, smooth, reduced fat
+Peanut butter, smooth, vitamin and mineral fortified
+Hummus, commercial
+Soy milk, unsweetened, plain, shelf stable
+Beans, black, mature seeds, canned, low sodium
+Beans, great northern, mature seeds, canned, low sodium
+Beans, kidney, red, mature seeds, canned, solids and liquid, low sodium
+Beans, pinto, mature seeds, canned, solids and liquids, low sodium
+Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, solids and liquids, low sodium
+Peanuts, all types, oil-roasted, without salt
+Peanuts, all types, dry-roasted, without salt
+Peanut butter, smooth style, without salt
+Refried beans, canned, traditional, reduced sodium
+Soy sauce made from soy and wheat (shoyu), low sodium
+Lamb, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/4" fat, choice, cooked
+Lamb, loin, separable lean and fat, trimmed to 1/4" fat, choice, cooked, broiled
+Lamb, loin, separable lean only, trimmed to 1/4" fat, choice, cooked, broiled
+Veal, composite of trimmed retail cuts, separable lean and fat, cooked
+Veal, loin, separable lean and fat, raw
+Game meat, bear, cooked, simmered
+Bison, ground, grass-fed, cooked
+Game meat, beaver, cooked, roasted
+Game meat, boar, wild, cooked, roasted
+Game meat, caribou, cooked, roasted
+Game meat, goat, cooked, roasted
+Game meat, moose, cooked, roasted
+Game meat, opossum, cooked, roasted
+Game meat, rabbit, domesticated, composite of cuts, cooked, stewed
+Game meat, raccoon, cooked, roasted
+Game meat, squirrel, cooked, roasted
+Veal, variety meats and by-products, thymus, cooked, braised
+Lamb, ground, raw
+Lamb, ground, cooked, broiled
+Game meat, deer, ground, raw
+Game meat, deer, ground, cooked, pan-broiled
+Game meat, deer, loin, separable lean only, 1" steak, cooked, broiled
+Game meat, deer, shoulder clod, separable lean only, cooked, braised
+Veal, ground, cooked, pan-fried
+Veal, loin, chop, separable lean only, cooked, grilled
+Leavening agents, baking powder, double-acting, sodium aluminum sulfate
+Leavening agents, baking powder, double-acting, straight phosphate
+Leavening agents, baking soda
+Leavening agents, yeast, baker's, compressed
+Leavening agents, yeast, baker's, active dry
+Baking chocolate, unsweetened, squares
+Cocoa, dry powder, unsweetened
+Honey
+Sugars, brown
+Sugars, granulated
+Sugars, powdered
+Oats, raw
+Gunpowder
+Barley, pearled, cooked
+Buckwheat groats, roasted, cooked
+Flour, buckwheat
+Bulgur, dry
+Bulgur, cooked
+Corn flour, masa, enriched, white
+Corn flour, masa, unenriched, white
+Cornmeal, degermed, enriched, yellow
+Cornstarch
+Couscous, cooked
+Hominy, canned, white
+Millet, cooked
+Oat bran, raw
+Rice, brown, long grain, unenriched, raw
+Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)
+Rice, white, long-grain, regular, raw, enriched
+Rice, white, long-grain, regular, enriched, cooked
+Rice, white, glutinous, unenriched, cooked
+Flour, rice, white, unenriched
+Tapioca, pearl, dry
+Wheat bran, crude
+Flour, whole wheat, unenriched
+Flour, wheat, all-purpose, enriched, bleached
+Flour, bread, white, enriched, unbleached
+Wild rice, raw
+Wild rice, cooked
+Quinoa, cooked
+Cornmeal, degermed, unenriched, yellow
+Rice, white, long grain, unenriched, raw
+Flour, wheat, all-purpose, unenriched, unbleached
+Beef, corned beef hash, with potato, canned
+Chicken, nuggets, dark and white meat, precooked, frozen, not reheated
+Chicken tenders, breaded, frozen, prepared
+Beef, short loin, porterhouse steak, separable lean and fat, trimmed to 1/8" fat, all grades, cooked, grilled
+Beef, chuck for stew, separable lean and fat, all grades, cooked, braised
+Beef, chuck, under blade pot roast, boneless, separable lean and fat, trimmed to 0" fat, all grades, cooked, braised
+Beef, rib eye steak, boneless, lip-on, separable lean only, trimmed to 1/8" fat, all grades, cooked, grilled
+Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean and fat, trimmed to 0" fat, all grades, cooked, grilled
+Beef, rib eye steak, boneless, lip-on, separable lean and fat, trimmed to 1/8" fat, all grades, cooked, grilled
+Beef, plate steak, boneless, inside skirt, separable lean and fat, trimmed to 0" fat, all grades, cooked, grilled
+Beef, round, top round roast, boneless, separable lean and fat, trimmed to 0" fat, all grades, cooked, roasted
+Beef, round, top round roast, boneless, separable lean only, trimmed to 0" fat, all grades, cooked, roasted
+Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8" fat, all grades, cooked, grilled
+Beef, ground, 90% lean meat / 10% fat, raw
+Beef, ground, 90% lean meat / 10% fat, patty, cooked, broiled
+Beef, ground, 85% lean meat / 15% fat, raw (Includes foods for USDA's Food Distribution Program)
+Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled
+Beef, ground, 85% lean meat / 15% fat, crumbles, cooked, pan-browned
+Beef, ground, 80% lean meat / 20% fat, raw
+Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled
+Beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned
+Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled
+Beef, ground, 75% lean meat / 25% fat, crumbles, cooked, pan-browned
+Beef, ground, 75% lean meat / 25% fat, loaf, cooked, baked
+Beef, chuck, arm pot roast, separable lean only, trimmed to 1/8" fat, all grades, cooked, braised
+Beef, chuck, arm pot roast, separable lean only, trimmed to 1/8" fat, choice, raw
+Beef, top sirloin, steak, separable lean only, trimmed to 1/8" fat, choice, raw
+Sauce, duck, ready-to-serve
+Sauce, salsa, verde, ready-to-serve
+Sauce, steak, tomato based
+Sauce, tartar, ready-to-serve
+Sauce, sweet and sour, ready-to-serve
+Sauce, cocktail, ready-to-serve
+Dip, salsa con queso, cheese and salsa- medium
+Sauce, peanut, made from peanut butter, water, soy sauce
+Sauce, enchilada, red, mild, ready to serve
+Wasabi
+Dip, bean, original flavor
+Sauce, horseradish
+Sweet Potatoes, french fried, frozen as packaged, salt added in processing
+Ginger root, pickled, canned, with artificial sweetener
+Peppers, hot pickled, canned
+Potatoes, mashed, ready-to-eat
+Cheese, monterey, low fat
+Bologna, beef, low fat
+Sausage, turkey and pork, fresh, bulk, patty or link, cooked
+Frozen yogurts, chocolate
+Frozen yogurts, flavors other than chocolate
+Oil, flaxseed, cold pressed
+Frankfurter, meat and poultry, low fat
+Cheese, muenster, low fat
+Cheese, mozzarella, nonfat
+Syrups, sugar free
+Chicken, meatless
+Frankfurter, meatless
+Luncheon slices, meatless
+Cheese spread, cream cheese base
+Quail, cooked, total edible
+Pheasant, cooked, total edible
+Dove, cooked (includes squab)
+Soybean, curd cheese
+Potatoes, canned, drained solids, no salt added
+Cheese, cottage, lowfat, 1% milkfat, no sodium added
+Pork, cured, bacon, cooked, broiled, pan-fried or roasted, reduced sodium
+Cranberry juice, not fortified, from concentrate, shelf stable
+Turnip greens, canned, no salt added
+Turkey, light or dark meat, smoked, cooked, with skin, bone removed
+Turkey, light or dark meat, smoked, cooked, skin and bone removed
+Cheese, swiss, low sodium
+Beans, baked, canned, no salt added
+Millet, puffed
+Cheese, swiss, low fat
+Cheese, mozzarella, low sodium
+Frog legs, raw
+Mollusks, snail, raw
+Turtle, green, raw
+Tomatoes, grape, raw
+Flour, corn, yellow, fine meal, enriched
+Onions, red, raw
+Onions, yellow, raw
+Bananas, overripe, raw
+Onions, white, raw
+Flour, pastry, unenriched, unbleached
+Flour, rice, glutinous
+Oil, olive, extra light
+Spinach, baby
+Tomato, roma
+Oil, sunflower
+Grape juice, white, with added vitamin C, from concentrate, shelf stable
+Grapefruit juice, red, not fortified, not from concentrate, refrigerated
+Sesame butter, creamy
+Cheese, parmesan, grated, refrigerated
+Grapes, red, seedless, raw
+Grapes, green, seedless, raw
+Lettuce, romaine, green, raw
+Potatoes, russet, without skin, raw
+Potatoes, red, without skin, raw
+Potatoes, gold, without skin, raw
+Sweet potatoes, orange flesh, without skin, raw
+Yogurt, plain, nonfat
+Cheese, monterey jack, solid
+Cheese, pasteurized process cheese food or product, American, singles
+Cheese, provolone, sliced
+Cheese, oaxaca, solid
+Cheese, queso fresco, solid
+Cheese, cotija, solid
+Ham, sliced, pre-packaged, deli meat (96%fat free, water added)
+Pepperoni, beef and pork, sliced
+Salami, dry or hard, pork, beef
+Turkey breast, sliced, prepackaged
+Bologna, meat and poultry
+Tomato juice, canned
+Water
+Garam Masala
+Amaranth seed, black (Amaranthus cruentus)
+Amaranth seed, pale brown (Amaranthus cruentus)
+Bajra (Pennisetum typhoideum)
+Barley (Hordeum vulgare)
+Jowar (Sorghum vulgare)
+Maize, dry (Zea mays)
+Maize, tender, local (Zea mays)
+Maize, tender, sweet (Zea mays)
+Quinoa (Chenopodium quinoa)
+Ragi (Eleusine coracana)
+Rice flakes (Oryza sativa )
+Rice puffed (Oryza sativa )
+Rice, raw, brown (Oryza sativa )
+Rice, parboiled, milled (Oryza sativa )
+Rice, raw, milled (Oryza sativa )
+Samai (Panicum miliare)
+Varagu (Setaria italica)
+Wheat flour, refined (Triticum aestivum)
+Wheat flour, atta (Triticum aestivum)
+Wheat, whole (Triticum aestivum)
+Wheat, bulgur (Triticum aestivum)
+Wheat, semolina (Triticum aestivum)
+Wheat, vermicelli (Triticum aestivum)
+Wheat, vermicelli, roasted (Triticum aestivum)
+Bengal gram, dal (Cicer arietinum)
+Bengal gram, whole (Cicer arietinum)
+Black gram, dal (Phaseolus mungo)
+Black gram, whole (Phaseolus mungo)
+Cowpea, brown (Vigna catjang)
+Cowpea, white (Vigna catjang)
+Field bean, black (Phaseolus vulgaris)
+Field bean, brown (Phaseolus vulgaris)
+Field bean, white (Phaseolus vulgaris)
+Green gram, dal (Phaseolus aureus)
+Green gram, whole (Phaseolus aureus)
+Horse gram, whole (Dolichos biflorus)
+Lentil dal (Lens culinaris)
+Lentil whole, brown (Lens culinaris)
+Lentil whole, yellowish (Lens culinaris)
+Moth bean (Vigna aconitifolia)
+Peas, dry (Pisum sativum)
+Rajmah, black (Phaseolus vulgaris)
+Rajmah, brown (Phaseolus vulgaris)
+Rajmah, red (Phaseolus vulgaris)
+Red gram, dal (Cajanus cajan)
+Red gram, whole (Cajanus cajan)
+Ricebean (Vigna umbellata)
+Soya bean, brown (Glycine max)
+Soya bean, white (Glycine max)
+Agathi leaves (Sesbania grandiflora)
+Amaranth leaves, green (Amaranthus gangeticus)
+Amaranth leaves, red (Amaranthus gangeticus)
+Amaranth leaves, red and green mix (Amaranthus gangeticus)
+Amaranth spinosus, leaves, green (Amaranthus spinosus)
+Amaranth spinosus, leaves, red and green mix (Amaranthus spinosus)
+Basella leaves (Basella alba)
+Bathua leaves (Chenopodium album)
+Beet greens (Beta vulgaris)
+Betel leaves, big (kolkata) (Piper betle)
+Betel leaves, small (Piper betle)
+Brussels sprouts (Brassica oleracea var. gemmifera)
+Cabbage, Chinese (Brassica rupa)
+Cabbage, collard greens (Brassica oleracea var. viridis)
+Cabbage, green (Brassica oleracea var. capitata f. alba)
+Cabbage, violet (Brassica oleracea var. capitata f. rubra)
+Cauliflower leaves (Brassica oleracea var. botrytis)
+Colocasia leaves, green (Colocasia anti-quorum)
+Drumstick leaves (Moringa oleifera)
+Fenugreek leaves (Trigonella foenum graecum)
+Garden cress (Lepidium sativum)
+Gogu leaves, green (Hibiscus cannabinus)
+Gogu leaves, red (Hibiscus cannabinus)
+Knol-Khol, leaves (Brassica oleracea var. gongylodes)
+Lettuce (Lactuca sativa)
+Mustard leaves (Brassica juncea)
+Pak Choi leaves (Brassica rapa var. Chinensis)
+Parsley (Petroselinum crispum)
+Ponnaganni (Altemnanthera sessilis)
+Pumpkin leaves, tender (Cucurbita maxima)
+Radish leaves (Raphanus sativus)
+Rumex leaves (Rumex patientia)
+Spinach (Spinacia oleracea)
+Tamarind leaves, tender (Tamarindus indica)
+Ash gourd (Benincasa hispida)
+Bamboo shoot, tender (Bambusa vulgaris)
+Bean scarlet, tender (Phaseolus coccineus)
+Bitter gourd, jagged, teeth ridges, elongate (Momordica charantia)
+Bitter gourd, jagged, teeth ridges, short (Momordica charantia)
+Bitter gourd, jagged, smooth ridges, elongate (Momordica charantia)
+Bottle gourd, elongate, pale green (Lagenaria vulgaris)
+Bottle gourd, round, pale green (Lagenaria vulgaris)
+Bottle gourd, elongate, dark green (Lagenaria vulgaris)
+Brinjal-1 (Solanum melongena)
+Brinjal-2 (Solanum melongena)
+Brinjal-3 (Solanum melongena)
+Brinjal-4 (Solanum melongena)
+Brinjal-5 (Solanum melongena)
+Brinjal-6 (Solanum melongena)
+Brinjal-7 (Solanum melongena)
+Brinjal-8 (Solanum melongena)
+Brinjal-9 (Solanum melongena)
+Brinjal-10 (Solanum melongena)
+Brinjal-11 (Solanum melongena)
+Brinjal-12 (Solanum melongena)
+Brinjal-13 (Solanum melongena)
+Brinjal-14 (Solanum melongena)
+Brinjal-15 (Solanum melongena)
+Brinjal-16 (Solanum melongena)
+Brinjal-17 (Solanum melongena)
+Brinjal-18 (Solanum melongena)
+Brinjal-19 (Solanum melongena)
+Brinjal-20 (Solanum melongena)
+Brinjal-21 (Solanum melongena)
+Brinjal - all varieties (Solanum melongena)
+Broad beans (Vicia faba)
+Capsicum, green (Capsicum annuum)
+Capsicum, red (Capsicum annuum)
+Capsicum, yellow (Capsicum annuum)
+Cauliflower (Brassica oleracea)
+Celery stalk (Apium graveolens)
+Cho-cho-marrow (Sechium edule)
+Cluster beans (Cyamopsis tetragonobola)
+Colocasia, stem, black (Colocasia antiquorum)
+Colocasia, stem, green (Colocasia antiquorum)
+Corn, Baby (Zea mays)
+Cucumber, green, elongate (Cucumis sativus)
+Cucumber, green, short (Cucumis sativus)
+Cucumber, orange, round (Cucumis sativus)
+Drumstick (Moringa oleifera)
+Field beans, tender, broad (Vicia faba)
+Field beans, tender, lean (Vicia faba)
+French beans, country (Phaseolus vulgaris)
+French beans, hybrid (Phaseolus vulgaris)
+Jack fruit, raw (Artocarpus heterophyllus)
+Jack fruit, seed, mature (Artocarpus heterophyllus)
+Knol - Khol (Brassica oleracea)
+Knol, big (Coccinia cordifolia)
+Kovai, small (Coccinia cordifolia)
+Ladies finger (Abelmoschus esculentus)
+Mango, green, raw (Mangifera indica)
+Onion, stalk (Allium cepa)
+Papaya, raw (Carica papaya)
+Parwar (Trichosanthes dioica)
+Peas, fresh (Pisum sativum)
+Plantain, flower (Musa x paradisiaca)
+Plantain, green (Musa x paradisiaca)
+Plantain, stem (Musa x paradisiaca)
+Pumpkin, green, cylindrical (Cucurbita maxima)
+Pumpkin, orange, round (Cucurbita maxima)
+Red gram, tender, fresh (Cajanus cajan)
+Ridge gourd (Luffa acutangula)
+Ridge gourd, smooth skin (Luffa acutangula)
+Snake gourd, long, pale green (Trichosanthes anguina)
+Snake gourd, long, dark green (Trichosanthes anguina)
+Snake gourd, short (Trichosanthes anguina)
+Tinda, tender (Praecitrullus fistulosus)
+Tomato, green (Lycopersicon esculentum)
+Tomato, ripe, hybrid (Lycopersicon esculentum)
+Tomato, ripe, local (Lycopersicon esculentum)
+Zucchini, green (Cucurbita pepo)
+Zucchini, yellow (Cucurbita pepo)
+Apple, big (Malus domestica)
+Apple, green (Malus domestica)
+Apple, small (Malus domestica)
+Apple, small, Kashmir (Malus sylvestris)
+Apricot, dried (Prunus armeniaca)
+Apricot, processed (Prunus armeniaca)
+Avocado fruit (Persea americana)
+Bael fruit (Aegle marmelos)
+Banana, ripe, montham (Musa x paradisiaca)
+Banana, ripe, poovam (Musa x paradisiaca)
+Banana, ripe, red (Musa x paradisiaca)
+Banana, ripe, robusta (Musa x paradisiaca)
+Black berry (Rubus fruticosus)
+Cherries, red (Prunus cerasus)
+Currants, black (Ribes nigrum)
+Custard apple (Annona squamosa)
+Dates, dry, pale brown (Phoenix dactylifera)
+Dates, dry, dark brown (Phoenix dactylifera)
+Dates, processed (Phoenix dactylifera)
+Fig (Ficus carica)
+Goosberry (Emblica officinalis)
+Grapes, seeded, round, black (Vitis vinifera)
+Grapes, seeded, round, green (Vitis vinifera)
+Grapes, seeded, round, red (Vitis vinifera)
+Grapes, seedless, oval, black (Vitis vinifera)
+Grapes, seedless, round, green (Vitis vinifera)
+Grapes, seedless, round, black (Vitis vinifera)
+Guava, white flesh (Psidium guajava)
+Guava, pink flesh (Psidium guajava)
+Jack fruit, ripe (Artocarpus heterophyllus)
+Jambu fruit, ripe (Syzygium cumini)
+Karonda fruit (Carissa carandas)
+Lemon, juice (Citrus limon)
+Lime, sweet,pulp (Citrus limetta)
+Litchi (Nephelium litchi)
+Mango, ripe, banganapalli (Mangifera indica)
+Mango, ripe, gulabkhas (Mangifera indica)
+Mango, ripe, himsagar (Mangifera indica)
+Mango, ripe, kesar (Mangifera indica)
+Mango, ripe, neelam (Mangifera indica)
+Mango, ripe, paheri (Mangifera indica)
+Mango, ripe, totapari (Mangifera indica)
+Mangosteen (Garcinia mangostana)
+Manila tamarind (Pithecellobium dulce)
+Musk melon, orange flesh (Cucumis melo)
+Musk melon, yellow flesh (Cucumis melo)
+Orange, pulp (Citrus aurantium)
+Palm fruit, tender (Borassus flabellifer)
+Papaya, ripe (Carcia papaya)
+Peach (Prunus communis)
+Pear (Pyrus sp.)
+Phalsa (Grewia asiatica)
+Pineapple (Ananas comosus)
+Plum (Prunus domestica)
+Pomegranate, maroon seeds (Punica granatum)
+Pummelo (Citrus maxima)
+Raisins, dried, black (Vitis vinifera)
+Raisins, dried, golden (Vitis vinifera)
+Rambutan (Nephelium lappaceum)
+Sapota (Achras sapota)
+Soursop (Annona muricata)
+Star fruit (Averrhoa carambola)
+Strawberry (Fragaria ananassa)
+Tamarind, pulp (Tamarindus indicus)
+Water melon, dark green (sugar baby) (Citrullus vulgaris)
+Water melon, pale green (Citrullus vulgaris)
+Wood Apple (Limonia acidissima)
+Zizyphus (Zizyphus jujube)
+Beet root (Beta vulgaris)
+Carrot, orange (Daucus carota)
+Carrot, red (Daucus carota)
+Colocasia (Colocasia antiquorum)
+Lotus root (Nelumbium nelumbo)
+Potato, brown skin, big (Solanum tuberosum)
+Potato, brown skin, small (Solanum tuberosum)
+Potato, red skin (Solanum tuberosum)
+Radish, elongate, red skin (Raphanus sativus)
+Radish, elongate, white skin (Raphanus sativus)
+Radish, round, red skin (Raphanus sativus)
+Radish, round, white skin (Raphanus sativus)
+Sweet potato, brown skin (Ipomoea batatas)
+Sweet potato, pink skin (Ipomoea batatas)
+Tapioca (Manihot esculenta)
+Water Chestnut (Eleocharis dulcis)
+Yam, elephant (Amorphophallus campanulatus)
+Yam, ordinary (Amorphophallus campanulatus)
+Yam, wild (Dioscorea versicolor)
+Chillies, green-1 (Capsicum annum)
+Chillies, green-2 (Capsicum annum)
+Chillies, green-3 (Capsicum annum)
+Chillies, green-4 (Capsicum annum)
+Chillies, green-5 (Capsicum annum)
+Chillies, green-6 (Capsicum annum)
+Chillies, green-7 (Capsicum annum)
+Chillies, green - all varieties (Capsicum annum)
+Coriander leaves (Coriandrum sativum)
+Curry leaves (Murraya koenigii)
+Garlic, big clove (Allium sativum)
+Garlic, small clove (Allium sativum)
+Garlic, single clove, Kashmir (Allium sativum)
+Ginger, fresh (Zinziber officinale)
+Mango ginger (Curcuma amada)
+Mint leaves (Mentha spicata )
+Onion, big (Allium cepa)
+Onion, small (Allium cepa)
+Asafoetida (Ferula assa-foetida)
+Cardamom, green (Elettaria cardamomum)
+Cardamom, black (Elettaria cardamomum)
+Chillies, red (Capsicum annum)
+Cloves (Syzygium aromaticum)
+Coriander seeds (Coriandrum sativum)
+Cumin seeds (Cuminum cyminum)
+Fenugreek seeds (Trigonella foenum graecum)
+Mace (Myristica fragrans)
+Nutmeg (Myristica fragrans)
+Omum (Trachyspermum ammi)
+Pippali (Piper longum)
+Pepper, black (Piper nigrum)
+Poppy seeds (Papaver somniferum)
+Turmeric powder (Curcuma domestica)
+Almond (Prunus amygdalus)
+Arecanut, dried, brown (Areca catechu)
+Arecanut, dried, red color (Areca catechu)
+Arecanut, fresh (Areca catechu)
+Cashew nut (Anacardium occidentale)
+Coconut, kernal, dry (Cocos nucifera)
+Coconut, kernel, fresh (Cocos nucifera)
+Garden cress, seeds (Lepidium sativum)
+Gingelly seeds, black (Sesamum indicum)
+Gingelly seeds, brown (Sesamum indicum)
+Gingelly seeds, white (Sesamum indicum)
+Ground nut (Arachis hypogaea)
+Mustard seeds (Brassica juncea)
+Linseeds (Linum usitatissimum)
+Niger seeds, black (Guizotia abyssinica)
+Niger seeds, gray (Guizotia abyssinica)
+Pine seed (Pinus gerardiana)
+Pistachio nuts (Pistacia vera)
+Safflower seeds (Carthamus tinctorius)
+Sunflower seeds (Helianthus annuus)
+Walnut (Juglans regia)
+Jaggery, cane (Saccharum officinarum)
+Sugarcane, juice (Saccharum officinarum)
+Button mushroom, fresh (Agaricus sp.)
+Chicken mushroom, fresh (Lactiporus sp.)
+Shiitake mushroom, fresh (Lentinula sp.)
+Oyster mushroom, dried (Pleurotus sp.)
+Toddy
+Coconut Water
+Milk, whole, Buffalo
+Milk, whole, Cow
+Panner
+Khoa
+Egg, poultry, whole, raw
+Egg, poultry, white, raw
+Egg, poultry, yolk, raw
+Egg, poultry, whole, boiled
+Egg, poultry, white, boiled
+Egg, poultry, yolk, boiled
+Egg, poultry, omlet
+Egg, country hen, whole, raw
+Egg, country hen, whole, boiled
+Egg, country hen, omlet
+Egg, duck, whole, boiled
+Egg, duck, whole, raw
+Egg, duck, whole, omlet
+Egg, quial, whole, raw
+Egg, quial, whole, boiled
+Chicken, poultry, leg, skinless
+Chicken, poultry, thigh, skinless
+Chicken, poultry, breast, skinless
+Chicken, poultry, wing, skinless
+Poultry, chicken, liver
+Poultry, chicken, gizzard
+Country hen, leg, with skin
+Country hen, thigh, with skin
+Country hen, breast, with skin
+Country hen, wing, with skin
+Duck, meat, with skin
+Emu, meat, skinless
+Guinea fowl, meat, with skin
+Pigeon, meat, with skin
+Quail, meat, skinless
+Turkey, leg, with skin
+Turkey, thigh, with skin
+Turkey, breast, with skin
+Turkey, wing, with skin
+Goat, shoulder
+Goat, chops
+Goat, legs
+Goat, brain
+Goat, tongue
+Goat, lungs
+Goat, heart
+Goat, liver
+Goat, tripe
+Goat, spleen
+Goat, kidneys
+Goat, tube (small intestine)
+Goat, testis
+Sheep, shoulder
+Sheep, chops
+Sheep, leg
+Sheep, brain
+Sheep, tongue
+Sheep, lungs
+Sheep, heart
+Sheep, liver
+Sheep, tripe
+Sheep, spleen
+Sheep, kidneys
+Beef, shoulder
+Beef, chops
+Beef, round (leg)
+Beef, brain
+Beef, tongue
+Beef, lungs
+Beef, heart
+Beef, liver
+Beef, tripe
+Beef, spleen
+Beef, kidneys
+Calf, shoulder
+Calf, chops
+Calf, round (leg)
+Calf, brain
+Calf, tongue
+Calf, heart
+Calf, liver
+Calf, spleen
+Calf, kidneys
+Mithun, shoulder
+Mithun, chops
+Mithun, round (leg)
+Pork, shoulder
+Pork, chops
+Pork, ham
+Pork, lungs
+Pork, heart
+Pork, liver
+Pork, stomach
+Pork, spleen
+Pork, kidneys
+Pork, tube (small intestine)
+Hare, shoulder
+Hare, chops
+Hare, leg
+Rabbit, shoulder
+Rabbit, chops
+Rabbit, leg
+Allathi (Elops machnata)
+Aluva (Parastromateus niger)
+Anchovy (Stolephorus indicus)
+Ari fish (Aprion virescens )
+Betki (Lates calcarifer)
+Black snapper (Macolor niger)
+Bombay duck (Harpadon nehereus)
+Bommuralu (Muraenesox cinerius)
+Cat fish (Tachysurus thalassinus)
+Chakla (Rachycentron canadum)
+Chappal (Aluterus monoceros )
+Chelu (Elagatis bipinnulata)
+Chemballi (Lutjanus quinquelineatus)
+Eri meen (Pristipomoides filamentosus)
+Gobro (Epinephelus diacanthus)
+Guitar fish (Rhinobatus prahli)
+Hilsa (Tenualosa ilisha)
+Jallal (Arius sp.)
+Jathi vela meen (Lethrinus lentjan)
+Kadal bral (Synodus indicus)
+Kadali (Nemipterus mesoprion)
+Kalamaara (Leptomelanosoma indicum)
+Kalava (Epinephelus coioides)
+Kanamayya (Lutjanus rivulatus)
+Kannadi paarai (Alectis indicus)
+Karimeen (Etroplus suratensis)
+Karnagawala (Anchoa hepsetus)
+Kayrai (Thunnus albacores)
+Kiriyan (Atule mate)
+Kite fish (Mobula kuhlii)
+Korka (Terapon jarbua)
+Kulam paarai (Carangoides fulvoguttatus)
+Maagaa (Polynemus plebeius)
+Mackerel (Rastrelliger kanagurta)
+Manda clathi (Naso reticulatus)
+Matha (Acanthurus mata)
+Milk fish (Chanos chanos)
+Moon fish (Mene maculata)
+Mullet (Mugil cephalus)
+Mural (Tylosurus crocodilus crocodilus)
+Myil meen (Istiophorus platypterus)
+Nalla bontha (Epinephelus sp.)
+Narba (Caranx sexfasciatus)
+Paarai (Caranx heberi)
+Padayappa (Canthidermis maculata)
+Pali kora (Panna microdon)
+Pambada (Lepturacanthus savala)
+Pandukopa (Pseudosciaena manchurica)
+Parava (Lactarius lactarius)
+Parcus (Psettodes erumei)
+Parrot fish (Scarus ghobban)
+Perinkilichai (Pinjalo pinjalo)
+Phopat (Coryphaena hippurus)
+Piranha (Pygopritis sp.)
+Pomfret, black (Parastromateus niger)
+Pomfret, snub nose (Trachinotus blochii)
+Pomfret, white (Pampus argenteus)
+Pranel (Gerres sp.)
+Pulli paarai (Gnathanodon speciosus)
+Queen fish (Scomberoides commersonianus)
+Raai fish (Lobotes surinamensis)
+Raai vanthu (Epinephelus chlorostigma)
+Rani (Pink perch)
+Ray fish, bow head, spotted (Rhina ancylostoma)
+Red snapper (Lutjanus argentimaculatus)
+Red snapper, small (Priacanthus hamrur)
+Sadaya (Platax orbicularis )
+Salmon (Salmo salar)
+Sangada (Nemipterus japonicus)
+Sankata paarai (Caranx ignobilis)
+Sardine (Sardinella longiceps)
+Shark (Carcharhinus sorrah)
+Shark, hammer head (Sphyrna mokarran)
+Shark, spotted (Stegostoma fasciatum)
+Shelavu (Sphyraena jello)
+Silan (Silonia silondia)
+Silk fish (Beryx sp.)
+Silver carp (Hypophthalmichthys molitrix)
+Sole fish (Cynoglossus arel)
+Stingray (Dasyatis pastinaca)
+Tarlava (Drepane punctata)
+Tholam (Plectorhinchus schotaf)
+Tilapia (Oreochromis niloticus)
+Tuna (Euthynnus affinis)
+Tuna, striped (Katsuwonus pelamis)
+Valava (Chirocentrus nudus)
+Vanjaram (Scomberomorus commerson)
+Vela meen (Aprion virescens)
+Vora (Siganus javus)
+Whale shark (Galeocerdo cuvier)
+Xiphinis (Xiphias gladius)
+Eggs, Cat fish (Ompok bimaculatus)
+Crab (Menippe mercenaria)
+Crab, sea (Portunus sanguinolentus)
+Lobster, brown (Thenus orientalis)
+Lobster, king size (Thenus orientalis)
+Mud crab (Scylla tranquebarica)
+Oyster (Crassostrea sp.)
+Tiger prawns, brown (Solenocera crassicomis)
+Tiger Prawns, orange (Penaeus monodon)
+Clam, green shell (Pema viridis )
+Clam, white shell, ribbed (Meretrix meretrix)
+Octopus (Octopus vulgaris)
+Squid, black (Loligo sp.)
+Squid, hard shell (Sepia pharaonis)
+Squid, red (Loligo duvaucelii)
+Squid, white, small (Uroteuthis duvaucelii )
+Cat fish (Tandanus tandanus)
+Catla (Catla catla)
+Freshwater Eel (Anguilla anguilla)
+Gold fish (Carassius auratus)
+Pangas (Pangasianodon hypophthalmus)
+Rohu (Labeo rohita)
+Crab (Pachygrapsus sp.)
+Prawns, big (Macrobrachium rosenbergii)
+Prawns, small (Macrobrachium sp.)
+Tiger prawns (Macrobrachium sp.)
+Coconut oil
+Corn oil
+Cotton seed oil
+Gingelly oil
+Groundnut oil
+Mustard oil
+Palm oil
+Rice bran oil
+Safflower oil
+Safflower oil (blended)
+Soyabean oil
+Sunflower oil
+Ghee
+Vanaspati

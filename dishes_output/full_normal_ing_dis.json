@@ -1,0 +1,288 @@
+{
+    "macro_nutrients": [
+        {
+            "name": "energy",
+            "value": 475.87,
+            "unit": "kcal"
+        },
+        {
+            "name": "carbs",
+            "value": 56.2,
+            "unit": "g"
+        },
+        {
+            "name": "proteins",
+            "value": 18.78,
+            "unit": "g"
+        },
+        {
+            "name": "fats",
+            "value": 16.47,
+            "unit": "g"
+        },
+        {
+            "name": "fibers",
+            "value": 13.86,
+            "unit": "g"
+        }
+    ],
+    "water_soluble_vitamin": [
+        {
+            "name": "thiamin",
+            "value": 0.31,
+            "unit": "mg"
+        },
+        {
+            "name": "riboflavin",
+            "value": 0.1,
+            "unit": "mg"
+        },
+        {
+            "name": "niacin",
+            "value": 1.53,
+            "unit": "mg"
+        },
+        {
+            "name": "vitamin_b5",
+            "value": 1.22,
+            "unit": "mg"
+        },
+        {
+            "name": "vitamin_b6",
+            "value": 0.16,
+            "unit": "mg"
+        },
+        {
+            "name": "vitamin_c",
+            "value": 3.88,
+            "unit": "mg"
+        },
+        {
+            "name": "biotin",
+            "value": 0.67,
+            "unit": "\u00b5g"
+        },
+        {
+            "name": "folate",
+            "value": 121.88,
+            "unit": "\u00b5g"
+        }
+    ],
+    "fat_soluble_vitamin": [
+        {
+            "name": "vitamin_a",
+            "value": 0.13,
+            "unit": "\u00b5g"
+        },
+        {
+            "name": "vitamin_d2",
+            "value": 3.91,
+            "unit": "\u00b5g"
+        },
+        {
+            "name": "vitamin_d3",
+            "value": 0.0,
+            "unit": "\u00b5g"
+        },
+        {
+            "name": "vitamin_k1",
+            "value": 14.17,
+            "unit": "\u00b5g"
+        },
+        {
+            "name": "vitamin_k2",
+            "value": 0.0,
+            "unit": "\u00b5g"
+        },
+        {
+            "name": "carotenoids",
+            "value": 757.73,
+            "unit": "\u00b5g"
+        },
+        {
+            "name": "vitamin_e",
+            "value": 2.49,
+            "unit": "mg"
+        }
+    ],
+    "minerals": [
+        {
+            "name": "aluminium",
+            "value": 0.68,
+            "unit": "mg"
+        },
+        {
+            "name": "cadmium",
+            "value": 0.0,
+            "unit": "mg"
+        },
+        {
+            "name": "calcium",
+            "value": 41.74,
+            "unit": "mg"
+        },
+        {
+            "name": "chromium",
+            "value": 0.01,
+            "unit": "mg"
+        },
+        {
+            "name": "cobalt",
+            "value": 0.02,
+            "unit": "mg"
+        },
+        {
+            "name": "copper",
+            "value": 0.68,
+            "unit": "mg"
+        },
+        {
+            "name": "iron",
+            "value": 5.0,
+            "unit": "mg"
+        },
+        {
+            "name": "lead",
+            "value": 0.01,
+            "unit": "mg"
+        },
+        {
+            "name": "lithium",
+            "value": 0.0,
+            "unit": "mg"
+        },
+        {
+            "name": "magnesium",
+            "value": 91.25,
+            "unit": "mg"
+        },
+        {
+            "name": "manganese",
+            "value": 1.84,
+            "unit": "mg"
+        },
+        {
+            "name": "molybdenum",
+            "value": 0.04,
+            "unit": "mg"
+        },
+        {
+            "name": "nickel",
+            "value": 0.1,
+            "unit": "mg"
+        },
+        {
+            "name": "phosphorus",
+            "value": 251.95,
+            "unit": "mg"
+        },
+        {
+            "name": "potassium",
+            "value": 737.33,
+            "unit": "mg"
+        },
+        {
+            "name": "sodium",
+            "value": 518.83,
+            "unit": "mg"
+        },
+        {
+            "name": "zinc",
+            "value": 3.07,
+            "unit": "mg"
+        },
+        {
+            "name": "arsenic",
+            "value": 0.0,
+            "unit": "\u00b5g"
+        },
+        {
+            "name": "mercury",
+            "value": 2.01,
+            "unit": "\u00b5g"
+        },
+        {
+            "name": "selenium",
+            "value": 36.57,
+            "unit": "\u00b5g"
+        }
+    ],
+    "fatty_acid_profile": [
+        {
+            "name": "total_saturated_fats",
+            "value": 358.81,
+            "unit": "mg"
+        },
+        {
+            "name": "total_monounsaturated_fats",
+            "value": 626.47,
+            "unit": "mg"
+        },
+        {
+            "name": "total_polyunsaturated_fats",
+            "value": 1812.72,
+            "unit": "mg"
+        }
+    ],
+    "cholesterol": [
+        {
+            "name": "cholesterol",
+            "value": 0.39,
+            "unit": "mg"
+        }
+    ],
+    "sugar": [
+        {
+            "name": "total_carbohydrates",
+            "value": 48.77,
+            "unit": "g"
+        },
+        {
+            "name": "starch",
+            "value": 47.47,
+            "unit": "g"
+        },
+        {
+            "name": "fructose",
+            "value": 0.3,
+            "unit": "g"
+        },
+        {
+            "name": "glucose",
+            "value": 0.27,
+            "unit": "g"
+        },
+        {
+            "name": "sucrose",
+            "value": 0.61,
+            "unit": "g"
+        },
+        {
+            "name": "maltose",
+            "value": 0.14,
+            "unit": "g"
+        },
+        {
+            "name": "total_free_sugars",
+            "value": 0.0,
+            "unit": "g"
+        }
+    ],
+    "other": [
+        {
+            "name": "total_minerals",
+            "value": 1.75,
+            "unit": "g"
+        },
+        {
+            "name": "soluble_fiber",
+            "value": 2.26,
+            "unit": "g"
+        },
+        {
+            "name": "insoluble_fiber",
+            "value": 11.55,
+            "unit": "g"
+        }
+    ]
+}

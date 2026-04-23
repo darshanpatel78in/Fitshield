@@ -1,0 +1,64 @@
+[
+    {
+    "Allergy_category": "Dairy",
+    "Ingredient_Name": "Milk, Paneer, Panner, Butter, khoa, Ghee , Ghi, leche fresca, kefir, yogurt, eggnog, smoothie, formula, cream, creamer, gelato, mousse, white sauce, cheese, roquefort, gorgonzola, stilton, camembert, brie, cheddar, colby, colby jack, feta, fontina, gouda, edam, gruyere, limburger, monterey, mozzarella, muenster, parmesan, port du salut, provolone, swiss, queso anejo, queso asadero, queso fresco, queso cotija, ricotta, artichoke dip, welsh rarebit, alfredo sauce"
+    },
+
+    {
+    "Allergy_category": "Cereals",
+    "Ingredient_Name": "wheat, barley, Tortilla ,rye, triticale, spelt, kamut, malt, yeast,starch, Fritter, Crisp, Cobbler, semolina, durum, farina, sauces, seitan,vegetable protein, bread, rolls, bagels, pastries, croissants, croutons, breadsticks, stuffing, crackers, toast, matzo, noodles, spaghetti, pasta, cakes, cupcakes, cookies, brownies, biscotti, pies, doughnuts, waffles, pancakes, dumplings, wontons, meatloaf, gravy, sauces, miso, beer, communion wafers, imitation meats, licorice, oats, canned soups, bouillon cubes, salad dressings, food starch, dextrin, caramel color,syrup, glucose syrup, bouillon cubes, marinades, mayonnaise"
+    },
+
+    {"Allergy_category":"Crustaceans",
+     "Ingredient_Name":"Crab, Lobster, Mud crab, Tiger prawns, Shrimp, Allathi, Kalamaara, Z.egg, Fresh water eal, Anchovy, Cat fish, Chappal, Jallal, Myil meen, Pangas, Pulli paarai, Queen fish, Pranel, Mackerel, Kiriyan, Paaraic, Prawns, Seafood, Catla, Kadali, Stewed, Tuna, Gold fish, Calamari, Shellfish, Mussels, Trutle, Oyster, Valava, Ari fish, Betki, Bombay duck, bommmuralu, chakla, chembali, eri meen, gibro, Squid, octopus, Clam, Red snapper, Ray fish, Xiphinis, Whale shark, vora, vela meen, vanjara, Tilapia, Tholam, Tarlava, Stingray, Silan, Mullet"
+    },
+
+    {"Allergy_category": "Soy",
+     "Ingredient_Name": "Soya bean, Nonalmond-dairy milk, Soy milk, Agathi leaves, Safflower seeds, Pangas, Enfamil ProSobee, Tofu, Poria Curry, Teriyaki, Tempeh, Tamari, Edamame, Miso, Hoisin sauce, Nutramigen, Soy, soya sauce, soy sauce, Similac Soy, Non-dairy milk, Non-dairy yogurt, Wasabi, Seaweed, Thousand Island dressing"
+    },
+
+    {"Allergy_category": "Peanuts",
+     "Ingredient_Name": "Mixed nuts, Peanuts, Almond milk, Almond oil, peanut butter, ground nut, peanut oil"
+    },
+
+    {"Allergy_category": "Nuts",
+     "Ingredient_Name": "Almond, Almond Milk, Cashew nut, Pine seed, Pistachio, Walnut, Pecans, Mixed nuts, Brazil nuts, Trail mix, nuts"
+    },
+
+    {"Allergy_category": "Mustard",
+     "Ingredient_Name": "Mustard, Mustard leaves, Mustard seeds, Mustard oil, Honey mustard, French or Cataline"
+    },
+
+    {"Allergy_category": "Sesame",
+     "Ingredient_Name": "sesame,sesame seeds, sesame seed oil, tahini, Gingelly seeds, Gingelly oil, Moth bean, Mackerel"
+    },
+
+    {"Allergy_category": "Fish",
+     "Ingredient_Name": "Fish, Caviar, Gefilte, tuna, Seafood, Ceviche, Stew,Clam, Shellfish, Anchovy, Cat, Kadal bral, Allathi, Aluva, Kadali, Pranel, Gold fish, Pulli paarai, Kalammara, Queen fish, Raai Fish, Valava, Karimeen, Vanjaram, Vela meen, Matha, Mackerel, Myli meen,Gelatin, salmon, tuna,cod,haddock,mackerel,sardines"
+    },
+
+    {"Allergy_category": "Eggs",
+     "Ingredient_Name": "Egg, eggs, yolk, Alfredo sauce, Bologna, Fritter, Pastry"
+    },
+
+    {"Allergy_category": "Sulphites",
+     "Ingredient_Name": "sulphites,sulfites,sulfur dioxide, Pickled, Pickles"
+    },
+
+    {"Allergy_category": "Lupin",
+     "Ingredient_Name": "lupin,lupine beans, lupin flour, lupin fiber, Sweet lupin"
+    },
+
+    {"Allergy_category": "Molluscs",
+     "Ingredient_Name": "molluscs,squid,octopus,scallops,mussels,clam,oyster, Seafood sauce"
+    },
+
+    {"Allergy_category": "Alcohol",
+     "Ingredient_Name": "alcohol,ethanol,beer,wine,spirits, Toddy, Betel leaves, Veal scallopini, Liverwurst, Sauerkraut, Shirley Temple, Brandy, Scotch, Gin Rum, Vodka, Tequila, Liqueur, Red wine, Tiramisu, Bechamel"
+    },
+
+    {
+        "Allergy_category": "Celery",
+        "Ingredient_Name": "celery,celery stalk, celery juice, vegetable dip, celeriac, Clery seeds"
+    }
+]

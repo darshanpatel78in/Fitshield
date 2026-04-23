@@ -1,0 +1,578 @@
+{
+  "USDA":[
+    {
+      "Nutrient": "Water",
+      "Method": "Gravimetric using vacuum /Hot air oven",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Proteins",
+      "Method": "Titrimetry by combustion/Kjeldahl/Mixed catalyst",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Ash",
+      "Method": "Gravimetric using Muffle furnace",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Fats",
+      "Method": "Gravimetry; Ether extraction using Soxhlet apparatus",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Fibers",
+      "Method": "Enzymatic-gravimetric",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Soluble Fiber",
+      "Method": "Enzymatic-gravimetric",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Insoluble Fiber",
+      "Method": "Enzymatic-gravimetric",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Carbs",
+      "Method": "Calculation by difference",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Energy",
+      "Method": "Atwater conversion factors",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Vitamin B1",
+      "Method": "Fluorometry",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Vitamin B2",
+      "Method": "Turbidometric-Microbiological assay",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Vitamin B3",
+      "Method": "Turbidometric-Microbiological assay",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Vitamin B5",
+      "Method": "RP-HPLC with UV detector",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Vitamin B6",
+      "Method": "HPLC-fluorometric detection",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Vitamin B7",
+      "Method": "U-HPLC and LC-ESI-IT-MS method",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Vitamin B9",
+      "Method": "Trienzyme Extraction and U-HPLC - UV or fluorescence detection",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Vitamin C",
+      "Method": "Fast- HPLC",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "vitamin A",
+      "Method": "HPLC",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Vitamin D2",
+      "Method": "RP-HPLC-APCI-MS.",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Vitamin D3",
+      "Method": "RP-HPLC-APCI-MS.",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Vitamin E",
+      "Method": "HPLC",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Vitamin K1",
+      "Method": "RP-HPLC-APCI-MS",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Vitamin K2",
+      "Method": "RP-HPLC-APCI-MS",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Provitamin A",
+      "Method": "HPLC",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Aluminum",
+      "Method": "Atomic Absorption Spectrophotometry (AAS)",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Arsenic",
+      "Method": "Atomic Absorption Spectrophotometry (Hydride generation)",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Cadmium",
+      "Method": "Graphite furnace Atomic Absorption Spectrophotometry",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Calcium",
+      "Method": "Atomic Absorption Spectrophotometry (AAS)",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Chromium",
+      "Method": "Graphite furnace Atomic Absorption Spectrophotometry",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Cobalt",
+      "Method": "Graphite furnace Atomic Absorption Spectrophotometry",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Copper",
+      "Method": "Atomic Absorption Spectrophotometry (AAS)",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Iron",
+      "Method": "Atomic Absorption Spectrophotometry (AAS)",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Lead",
+      "Method": "Graphite furnace Atomic Absorption Spectrophotometry",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Lithium",
+      "Method": "Graphite furnace Atomic Absorption Spectrophotometry",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Magnesium",
+      "Method": "Atomic Absorption Spectrophotometry (AAS)",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Manganese",
+      "Method": "Atomic Absorption Spectrophotometry (AAS)",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Mercury",
+      "Method": "Atomic Absorption Spectrophotometry (Hydride generation)",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Molybdenum",
+      "Method": "Inductively Coupled Plasma Mass Spectrometry (ICP-MS)",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "NI",
+      "Method": "Graphite furnace Atomic Absorption Spectrophotometry",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Phosphorus",
+      "Method": "Colorimetry",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Potassium",
+      "Method": "Atomic Absorption Spectrophotometry (AAS)",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Selenium",
+      "Method": "Atomic Absorption Spectrophotometry (Hydride generation)",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Sodium",
+      "Method": "Atomic Absorption Spectrophotometry (AAS)",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Zinc",
+      "Method": "Atomic Absorption Spectrophotometry (AAS)",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Total Carbohydrates",
+      "Method": "Calculation by difference",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Starch",
+      "Method": "Calculated from the increase in the amount of glucose by using conversion factor",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Fructose",
+      "Method": "HPLC-RID",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Glucose",
+      "Method": "HPLC-RID",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Sucrose",
+      "Method": "HPLC-RID",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Maltose",
+      "Method": "HPLC-RID",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Sugars",
+      "Method": "HPLC-RID",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Saturated Fats",
+      "Method": "Gas Chromatography with Flame Ionization Detector",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Monosaturated Fatty Acids",
+      "Method": "Gas Chromatography with Flame Ionization Detector",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Polyunsaturated Fatty Acids",
+      "Method": "Gas Chromatography with Flame Ionization Detector",
+      "Reference": "USDA (2019)"
+    },
+    {
+      "Nutrient": "Cholesterol",
+      "Method": "Gas Chromatography (GC)",
+      "Reference": "USDA (2019)"
+    },
+    {
+        "Nutrient": "Trans Fats",
+        "Method": "Gas Chromatography with Flame Ionization Detector",
+        "Reference": "USDA (2019)"
+    },
+    {
+        "Nutrient": "Unsaturated Fatty Acids",
+        "Method": "Gas Chromatography with Flame Ionization Detector",
+        "Reference": "USDA (2019)"
+    }
+  ],
+  "IFCT":[
+    {
+      "Nutrient": "Water",
+      "Method": "Gravimetric using vacuum /Hot air oven",
+      "Reference": "AOAC 934.01"
+    },
+    {
+      "Nutrient": "Proteins",
+      "Method": "Titrimetry by combustion/Kjeldahl/Mixed catalyst",
+      "Reference": "AOAC 2001.11; Jones (1941)"
+    },
+    {
+      "Nutrient": "Ash",
+      "Method": "Gravimetric using Muffle furnace",
+      "Reference": "AOAC 942.05"
+    },
+    {
+      "Nutrient": "Fats",
+      "Method": "Gravimetry; Ether extraction using Soxhlet apparatus",
+      "Reference": "AOAC 963.15"
+    },
+    {
+      "Nutrient": "Fibers",
+      "Method": "Enzymatic-gravimetric",
+      "Reference": "AOAC 991.43"
+    },
+    {
+      "Nutrient": "Soluble Fiber",
+      "Method": "Enzymatic-gravimetric",
+      "Reference": "AOAC 991.43"
+    },
+    {
+      "Nutrient": "Insoluble Fiber",
+      "Method": "Enzymatic-gravimetric",
+      "Reference": "AOAC 991.43"
+    },
+    {
+      "Nutrient": "Carbs",
+      "Method": "Calculation by difference",
+      "Reference": "Greenfield & Southgate (2003)"
+    },
+    {
+      "Nutrient": "Energy",
+      "Method": "Atwater conversion factors",
+      "Reference": "Merrill & Watt (1973); FAO / INFOODS Guidelines (2012)"
+    },
+    {
+      "Nutrient": "Vitamin B1",
+      "Method": "Fluorometry",
+      "Reference": "AOAC 942.23; Ramasastri (1975)"
+    },
+    {
+      "Nutrient": "Vitamin B2",
+      "Method": "Turbidometric-Microbiological assay",
+      "Reference": "AOAC 940.33; AOAC 960.46"
+    },
+    {
+      "Nutrient": "Vitamin B3",
+      "Method": "Turbidometric-Microbiological assay",
+      "Reference": "AOAC 985.34; 960.46"
+    },
+    {
+      "Nutrient": "Vitamin B5",
+      "Method": "RP-HPLC with UV detector",
+      "Reference": "David & Harvey (2000)"
+    },
+    {
+      "Nutrient": "Vitamin B6",
+      "Method": "HPLC-fluorometric detection",
+      "Reference": "AOAC 985.32; Ollilainen (2008)"
+    },
+    {
+      "Nutrient": "Vitamin B7",
+      "Method": "U-HPLC and LC-ESI-IT-MS method",
+      "Reference": "Holler et al. (2006)"
+    },
+    {
+      "Nutrient": "Vitamin B9",
+      "Method": "Trienzyme Extraction and U-HPLC - UV or fluorescence detection",
+      "Reference": "Finglas et al. (1999); Vahteristo et al. (1996); AOAC 2011.06; AOAC 2013.13"
+    },
+    {
+      "Nutrient": "Vitamin C",
+      "Method": "Fast- HPLC",
+      "Reference": "Moreau & Savage (2009)"
+    },
+    {
+      "Nutrient": "Vitamin A",
+      "Method": "HPLC",
+      "Reference": "AOAC 974.29; Bieri et al. (1979)"
+    },
+     {
+      "Nutrient": "Provitamin A",
+      "Method": "HPLC",
+      "Reference": "Delia & Mieko (2004)"
+    },
+    {
+      "Nutrient": "Vitamin D2",
+      "Method": "RP- HPLC-APCI-MS.",
+      "Reference": "AOAC 982.29"
+    },
+    {
+      "Nutrient": "Vitamin D3",
+      "Method": "RP- HPLC-APCI-MS.",
+      "Reference": "AOAC 982.29"
+    },
+    {
+      "Nutrient": "Vitamin E",
+      "Method": "HPLC",
+      "Reference": "AOAC 992.03; AOAC 2012.10"
+    },
+    {
+      "Nutrient": "Vitamin K1",
+      "Method": "RP- HPLC-APCI-MS",
+      "Reference": "AOAC 992.27"
+    },
+    {
+      "Nutrient": "Vitamin K2",
+      "Method": "RP- HPLC-APCI-MS",
+      "Reference": "AOAC 992.27"
+    },
+    {
+      "Nutrient": "Aluminium",
+      "Method": "Atomic Absorption Spectrophotometry (AAS)",
+      "Reference": ""
+    },
+    {
+      "Nutrient": "Arsenic",
+      "Method": "Atomic Absorption Spectrophotometry (Hydride generation)",
+      "Reference": ""
+    },
+    {
+      "Nutrient": "Cadmium",
+      "Method": "Graphite furnace Atomic Absorption Spectrophotometry",
+      "Reference": "AOAC 968.08; AOAC 999.10; AOAC 999.11"
+    },
+    {
+      "Nutrient": "Calcium",
+      "Method": "Atomic Absorption Spectrophotometry (AAS)",
+      "Reference": ""
+    },
+    {
+      "Nutrient": "Chromium",
+      "Method": "Graphite furnace Atomic Absorption Spectrophotometry",
+      "Reference": "AOAC 968.08; AOAC 999.10; AOAC 999.11"
+    },
+    {
+      "Nutrient": "Cobalt",
+      "Method": "Graphite furnace Atomic Absorption Spectrophotometry",
+      "Reference": "AOAC 968.08; AOAC 999.10; AOAC 999.11"
+    },
+    {
+      "Nutrient": "Copper",
+      "Method": "Atomic Absorption Spectrophotometry (AAS)",
+      "Reference": ""
+    },
+    {
+      "Nutrient": "Iron",
+      "Method": "Atomic Absorption Spectrophotometry (AAS)",
+      "Reference": ""
+    },
+    {
+      "Nutrient": "Lead",
+      "Method": "Graphite furnace Atomic Absorption Spectrophotometry",
+      "Reference": "AOAC 968.08; AOAC 999.10; AOAC 999.11"
+    },
+    {
+      "Nutrient": "Lithium",
+      "Method": "Graphite furnace Atomic Absorption Spectrophotometry",
+      "Reference": "AOAC 968.08; AOAC 999.10; AOAC 999.11"
+    },
+    {
+      "Nutrient": "Magnesium",
+      "Method": "Atomic Absorption Spectrophotometry (AAS)",
+      "Reference": ""
+    },
+    {
+      "Nutrient": "Manganese",
+      "Method": "Atomic Absorption Spectrophotometry (AAS)",
+      "Reference": ""
+    },
+    {
+      "Nutrient": "Mercury",
+      "Method": "Atomic Absorption Spectrophotometry (Hydride generation)",
+      "Reference": ""
+    },
+    {
+      "Nutrient": "Molybdenum",
+      "Method": "Inductively Coupled Plasma Mass Spectrometry (ICP-MS)",
+      "Reference": "AOAC 2013.06"
+    },
+    {
+      "Nutrient": "Nickel",
+      "Method": "Graphite furnace Atomic Absorption Spectrophotometry",
+      "Reference": "AOAC 968.08; AOAC 999.10; AOAC 999.11"
+    },
+    {
+      "Nutrient": "Phosphorus",
+      "Method": "Colorimetry",
+      "Reference": "AOAC 935.45; AOAC 995.11; Fiske & Subbarow (1925)"
+    },
+    {
+      "Nutrient": "Potassium",
+      "Method": "Atomic Absorption Spectrophotometry (AAS)",
+      "Reference": ""
+    },
+    {
+      "Nutrient": "Selenium",
+      "Method": "Atomic Absorption Spectrophotometry (Hydride generation)",
+      "Reference": ""
+    },
+    {
+      "Nutrient": "Sodium",
+      "Method": "Atomic Absorption Spectrophotometry (AAS)",
+      "Reference": ""
+    },
+    {
+      "Nutrient": "Zinc",
+      "Method": "Atomic Absorption Spectrophotometry (AAS)",
+      "Reference": ""
+    },
+    {
+      "Nutrient": "Total Carbohydrates",
+      "Method": "Calculation by difference",
+      "Reference": "Greenfield & Southgate (2003)"
+    },
+    {
+      "Nutrient": "Starch",
+      "Method": "Calculated from the increase in the amount of glucose by using conversion factor",
+      "Reference": "Casterline et al. (1998)"
+    },
+    {
+      "Nutrient": "Fructose",
+      "Method": "HPLC-RID",
+      "Reference": "AOAC 2013.12"
+    },
+    {
+      "Nutrient": "Glucose",
+      "Method": "HPLC-RID",
+      "Reference": "AOAC 2013.12"
+    },
+    {
+      "Nutrient": "Sucrose",
+      "Method": "HPLC-RID",
+      "Reference": "AOAC 2013.12"
+    },
+    {
+      "Nutrient": "Maltose",
+      "Method": "HPLC-RID",
+      "Reference": "AOAC 2013.12"
+    },
+    {
+      "Nutrient": "Sugars",
+      "Method": "HPLC-RID",
+      "Reference": "AOAC 2013.12"
+    },
+    {
+      "Nutrient": "Saturated Fats",
+      "Method": "Gas Chromatography with Flame Ionization Detector",
+      "Reference": "AOAC 996.06; AOAC 996.01; AOAC 2012.13"
+    },
+    {
+      "Nutrient": "Monosaturated Fatty Acids",
+      "Method": "Gas Chromatography with Flame Ionization Detector",
+      "Reference": "AOAC 996.06; AOAC 996.01; AOAC 2012.13"
+    },
+    {
+      "Nutrient": "Polyunsaturated Fatty Acids",
+      "Method": "Gas Chromatography with Flame Ionization Detector",
+      "Reference": "AOAC 996.06; AOAC 996.01; AOAC 2012.13"
+    },
+    {
+      "Nutrient": "Cholesterol",
+      "Method": "Gas Chromatography (GC)",
+      "Reference": "AOAC 922.06; Sorenson & Sullivan (2007)"
+    },
+    {
+        "Nutrient": "Trans Fats",
+        "Method": "Gas Chromatography with Flame Ionization Detector",
+        "Reference": "AOAC 996.06; AOAC 996.01; AOAC 2012.13"
+    },
+    {
+        "Nutrient": "Unsaturated Fatty Acids",
+        "Method": "Gas Chromatography with Flame Ionization Detector",
+        "Reference": "AOAC 996.06; AOAC 996.01; AOAC 2012.13"
+    }
+  ]
+  
+}
+  

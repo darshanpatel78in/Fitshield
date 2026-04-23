@@ -1,0 +1,71 @@
+{
+    "_id": "group_cart_6389",
+    "restro_id": "restro_BokettoCafe_395007_b9de",
+    "user_id": null,
+    "group_id": "group_order_5806",
+    "is_lock": false,
+    "created_at": "2025-02-28T04:14:33.723900",
+    "group_members": [
+        {
+            "user_id": "user_Harsh_6768",
+            "role": "member",
+            "name": "Harsh",
+            "user_quantity": 8,
+            "user_price": 3040.0,
+            "ordered_dishes": [
+                {
+                    "dish_id": "dish_Boketto_ColdBrew_a8499796-a3cc-4d3f-a566-b85fdd39a0bf",
+                    "name": "Cold Brew",
+                    "variant": "normal",
+                    "size": "full",
+                    "quantity": 8,
+                    "price": 380.0,
+                    "total": 3040.0,
+                    "dish_img_url": "https://fitshield-data.s3.amazonaws.com/restaurants/restro_BokettoCafe_395007_b9de/dishes/cold_brew.jpg",
+                    "discount": {
+                        "full_discount": {
+                            "discount_price": 380.0,
+                            "current_price": 400.0,
+                            "discount_percentage": "15",
+                            "discount_applied": true
+                        }
+                    }
+                }
+            ],
+            "user_note": "",
+            "added_by": "user_Harsh_6768"
+        },
+        {
+            "user_id": "user_Sharad M_9464",
+            "role": "host",
+            "name": "Sharad M",
+            "user_quantity": 4,
+            "user_price": 1520.0,
+            "added_by": "user_Sharad M_9464",
+            "ordered_dishes": [
+                {
+                    "dish_id": "dish_Boketto_ColdBrew_a8499796-a3cc-4d3f-a566-b85fdd39a0bf",
+                    "name": "Cold Brew",
+                    "variant": "normal",
+                    "size": "full",
+                    "quantity": 4,
+                    "price": 380.0,
+                    "total": 1520.0,
+                    "dish_img_url": "https://fitshield-data.s3.amazonaws.com/restaurants/restro_BokettoCafe_395007_b9de/dishes/cold_brew.jpg",
+                    "discount": {
+                        "full_discount": {
+                            "discount_price": 380.0,
+                            "current_price": 400.0,
+                            "discount_percentage": "15",
+                            "discount_applied": true
+                        }
+                    }
+                }
+            ],
+            "user_note": ""
+        }
+    ],
+    "grand_total_discount": 760.0,
+    "grand_total_price": 4560.0,
+    "grand_total_quantity": 12
+}

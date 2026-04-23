@@ -1,0 +1,170 @@
+{
+    "dish_name": "Khamman",
+    "dish_description": "Khaman is a light and fluffy savory Indian snack made from gram flour.",
+    "cuisine_category": {
+        "continental_region": "Asia",
+        "specific_cuisine": "Indian",
+        "subcategory": "Snack"
+    },
+    "timing_category": [
+        "Snack"
+    ],
+    "meal_category": [
+        "Snack"
+    ],
+    "food_category": "Vegetarian",
+    "is_jain": "jain",
+    "cooking_method": [
+        "Steaming"
+    ],
+    "cooking_time": "30 minutes",
+    "cooking_temperature": "100\u00b0C",
+    "allergic_content": {},
+    "cooking_steps": [
+        "In a large bowl, whisk together gram flour, semolina, grated ginger, chopped green chilies, lemon juice, salt, and water to make a smooth batter. Add more water if needed, aiming for a slightly thick consistency.",
+        "Lightly grease a flat, shallow baking dish or steamer with oil. Pour the batter into the prepared dish.",
+        "Steam for 20-25 minutes or until the khaman is firm to the touch. Once done, let it cool down for about 5 minutes before slicing and serving."
+    ],
+    "complementary_dishes": [
+        "Chai",
+        "Sambhar"
+    ],
+    "nutritional_values_of_dish": {
+        "energy": 350,
+        "carbs": 70,
+        "proteins": 10,
+        "fats": 5,
+        "fibers": 5,
+        "thiamin": 0.3,
+        "riboflavin": 0.4,
+        "niacin": 2,
+        "vitamin_b5": 1,
+        "vitamin_b6": 0.6,
+        "vitamin_c": 20,
+        "biotin": 2,
+        "folate": 30,
+        "vitamin_a": 100,
+        "vitamin_d2": 0,
+        "vitamin_d3": 0,
+        "vitamin_k1": 10,
+        "vitamin_k2": 0,
+        "carotenoids": 50,
+        "vitamin_e": 1,
+        "calcium": 100,
+        "copper": 0.3,
+        "iron": 3,
+        "magnesium": 60,
+        "manganese": 0.6,
+        "potassium": 150,
+        "sodium": 150,
+        "zinc": 2
+    },
+    "dish_img_url": "https://fitshield-data.s3.ap-south-1.amazonaws.com/restaurants/default_restaurant/pending_image.png",
+    "dish_variants": {
+        "normal": {
+            "full": {
+                "serving": {
+                    "size": 200,
+                    "unit": "g"
+                },
+                "price": 399.0,
+                "ingredients": [
+                    {
+                        "name": "Bengal gram, dal",
+                        "quantity": "68.03",
+                        "unit": "g",
+                        "description": "ground into a fine batter",
+                        "id": "Bengal_gram,_dal_80807",
+                        "is_close": false,
+                        "is_hide": false,
+                        "is_swappable": false
+                    },
+                    {
+                        "name": "Semolina",
+                        "quantity": "34.01",
+                        "unit": "g",
+                        "description": "",
+                        "id": "Semolina_89600",
+                        "is_close": false,
+                        "is_hide": false,
+                        "is_swappable": false
+                    },
+                    {
+                        "name": "Ginger, fresh",
+                        "quantity": "3.4",
+                        "unit": "g",
+                        "description": "grated",
+                        "id": "Ginger,_fresh_51848",
+                        "is_close": false,
+                        "is_hide": false,
+                        "is_swappable": false
+                    },
+                    {
+                        "name": "Green chilies",
+                        "quantity": "1.36",
+                        "unit": "g",
+                        "description": "finely chopped",
+                        "id": "Green_chilies_38594",
+                        "is_close": false,
+                        "is_hide": false,
+                        "is_swappable": false
+                    },
+                    {
+                        "name": "Lemon juice",
+                        "quantity": "10.2",
+                        "unit": "ml",
+                        "description": "",
+                        "id": "Lemon_juice_45719",
+                        "is_close": false,
+                        "is_hide": false,
+                        "is_swappable": false
+                    },
+                    {
+                        "name": "Vegetable oil",
+                        "quantity": "13.61",
+                        "unit": "ml",
+                        "description": "for greasing",
+                        "id": "Vegetable_oil_22109",
+                        "is_close": false,
+                        "is_hide": false,
+                        "is_swappable": true,
+                        "swap_items": [
+                            "Oil",
+                            "Ghee",
+                            "Olive Oil",
+                            "Coconut Oil"
+                        ]
+                    },
+                    {
+                        "name": "Salt",
+                        "quantity": "1.36",
+                        "unit": "g",
+                        "description": "",
+                        "id": "Salt_80122",
+                        "is_close": false,
+                        "is_hide": false,
+                        "is_swappable": true,
+                        "swap_items": [
+                            "Salt",
+                            "Himalayan Pink Salt",
+                            "Low-Sodium Salt",
+                            "Sea Salt"
+                        ]
+                    },
+                    {
+                        "name": "Water",
+                        "quantity": "68.03",
+                        "unit": "ml",
+                        "description": "as needed for batter consistency",
+                        "id": "Water_34133",
+                        "is_close": false,
+                        "is_hide": false,
+                        "is_swappable": false
+                    }
+                ],
+                "nutrients": [],
+                "calculate_nutrients": {}
+            }
+        }
+    }
+}
